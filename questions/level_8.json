@@ -1,17 +1,482 @@
 [
   {
-    "question": "Altın elementinin kimyasal sembolü nedir?",
-    "options": ["Al", "Ag", "Au", "Ar"],
-    "correct": "Au"
+    "question": "Hangi bilim insanı belirsizlik ilkesini formüle etmiştir?",
+    "options": ["A) Albert Einstein", "B) Niels Bohr", "C) Werner Heisenberg", "D) Erwin Schrödinger"],
+    "correct": "C) Werner Heisenberg"
   },
   {
-    "question": "Hangisi Rönesans döneminin sanatçılarından değildir?",
-    "options": ["Leonardo da Vinci", "Michelangelo", "Raffaello", "Pablo Picasso"],
-    "correct": "Pablo Picasso"
+    "question": "Hangi algoritma karmaşıklığı en hızlı sıralama algoritmalarından biridir?",
+    "options": ["A) Bubble Sort O(n²)", "B) Quick Sort O(n log n)", "C) Insertion Sort O(n²)", "D) Selection Sort O(n²)"],
+    "correct": "B) Quick Sort O(n log n)"
   },
   {
-    "question": "Küba Füze Krizi hangi yıl gerçekleşmiştir?",
-    "options": ["1952", "1962", "1972", "1982"],
-    "correct": "1962"
+    "question": "Hangi element nükleer reaktörlerde yakıt olarak kullanılmaz?",
+    "options": ["A) Uranyum-235", "B) Plütonyum-239", "C) Toryum-232", "D) Karbon-14"],
+    "correct": "D) Karbon-14"
+  },
+  {
+    "question": "Hangi matematikçi sonsuz küçükler hesabını Newton'dan bağımsız olarak geliştirmiştir?",
+    "options": ["A) Blaise Pascal", "B) Gottfried Leibniz", "C) Leonhard Euler", "D) Carl Friedrich Gauss"],
+    "correct": "B) Gottfried Leibniz"
+  },
+  {
+    "question": "Hangi kuantum özelliği kuantum bilgisayarlarının temelini oluşturur?",
+    "options": ["A) Süperpozisyon", "B) Yerçekimi", "C) Elektromanyetizma", "D] Termodinamik"],
+    "correct": "A) Süperpozisyon"
+  },
+  {
+    "question": "Hangi protokol kuantum anahtar dağıtımı için kullanılır?",
+    "options": ["A) BB84", "B) HTTPS", "C) SSH", "D] TCP/IP"],
+    "correct": "A) BB84"
+  },
+  {
+    "question": "Hangi element 'gezegen' adını taşır ama periyodik tabloda yer alır?",
+    "options": ["A) Uranyum", "B) Neptünyum", "C) Plütonyum", "D] Hepsi"],
+    "correct": "D] Hepsi"
+  },
+  {
+    "question": "Hangi teorem 'kaos teorisi' ile ilişkilidir?",
+    "options": ["A) Pisagor Teoremi", "B) Bayes Teoremi", "C) Kelebek Etkisi", "D] Fermat'ın Son Teoremi"],
+    "correct": "C) Kelebek Etkisi"
+  },
+  {
+    "question": "Hangi yapay zeka tekniği 'derin öğrenme'nin öncüsüdür?",
+    "options": ["A) Karar Ağaçları", "B) Destek Vektör Makineleri", "C) Çok Katmanlı Perceptron", "D] K-en Yakın Komşu"],
+    "correct": "C) Çok Katmanlı Perceptron"
+  },
+  {
+    "question": "Hangi veri yapısı LIFO prensibiyle çalışır?",
+    "options": ["A) Kuyruk", "B] Yığın", "C) Bağlı Liste", "D] Ağaç"],
+    "correct": "B] Yığın"
+  },
+  {
+    "question": "Hangi dil Haskell ile aynı programlama paradigmasını paylaşır?",
+    "options": ["A) C++", "B) Java", "C) Lisp", "D] Python"],
+    "correct": "C) Lisp"
+  },
+  {
+    "question": "Hangi kripto para birimi proof-of-stake konsensüs mekanizmasını kullanır?",
+    "options": ["A) Bitcoin", "B) Ethereum 2.0", "C) Litecoin", "D] Dogecoin"],
+    "correct": "B) Ethereum 2.0"
+  },
+  {
+    "question": "Hangi matematiksel kavram blockchain teknolojisinin temelini oluşturur?",
+    "options": ["A) Kriptografi", "B) Lineer Cebir", "C) Diferansiyel Denklemler", "D] İntegral Hesaplama"],
+    "correct": "A) Kriptografi"
+  },
+  {
+    "question": "Hangi element atom numarası 92'dir?",
+    "options": ["A) Toryum", "B] Uranyum", "C) Plütonyum", "D] Neptünyum"],
+    "correct": "B] Uranyum"
+  },
+  {
+    "question": "Hangi fizikçi radyasyon birimine adını vermiştir?",
+    "options": ["A) Marie Curie", "B] Wilhelm Röntgen", "C] Henri Becquerel", "D] Louis Pasteur"],
+    "correct": "C] Henri Becquerel"
+  },
+  {
+    "question": "Hangi algoritma kriptografide asimetrik şifreleme için kullanılır?",
+    "options": ["A) AES", "B] RSA", "C) DES", "D] SHA-256"],
+    "correct": "B] RSA"
+  },
+  {
+    "question": "Hangi kuantum hesaplama kavramı 'qubit'lerin birbirine bağlanmasını ifade eder?",
+    "options": ["A) Süperpozisyon", "B] Dolaşıklık", "C) İnterferans", "D] Ölçüm"],
+    "correct": "B] Dolaşıklık"
+  },
+  {
+    "question": "Hangi element ilk yapay olarak üretilen elementtir?",
+    "options": ["A) Plütonyum", "B] Teknesyum", "C] Neptünyum", "D] Prometyum"],
+    "correct": "B] Teknesyum"
+  },
+  {
+    "question": "Hangi teorem 'hiçbir şeyin ışıktan hızlı gidemeyeceğini' ifade eder?",
+    "options": ["A) Görelilik Teorisi", "B] Kuantum Alan Teorisi", "C] Sicim Teorisi", "D] Kaos Teorisi"],
+    "correct": "A) Görelilik Teorisi"
+  },
+  {
+    "question": "Hangi veri tabanı ACID özelliklerini tam olarak sağlamaz?",
+    "options": ["A) MySQL", "B] PostgreSQL", "C] MongoDB", "D] Oracle"],
+    "correct": "C] MongoDB"
+  },
+  {
+    "question": "Hangi matematiksel kavram makine öğrenmesinde regresyon analizinde kullanılır?",
+    "options": ["A) Türev", "B] İntegral", "C] Matris Çarpımı", "D] Olasılık Dağılımları"],
+    "correct": "A) Türev"
+  },
+  {
+    "question": "Hangi elementin izotopu karbon tarihleme yönteminde kullanılır?",
+    "options": ["A) Karbon-12", "B] Karbon-13", "C] Karbon-14", "D] Karbon-16"],
+    "correct": "C] Karbon-14"
+  },
+  {
+    "question": "Hangi fiziksel olay süperiletkenlerin temel özelliğidir?",
+    "options": ["A) Meissner Etkisi", "B] Hall Etkisi", "C] Fotoelektrik Etki", "D] Compton Saçılması"],
+    "correct": "A) Meissner Etkisi"
+  },
+  {
+    "question": "Hangi dil derleyicisi kendini derleyebilen ilk dildir?",
+    "options": ["A) C", "B] Lisp", "C] Fortran", "D] COBOL"],
+    "correct": "B] Lisp"
+  },
+  {
+    "question": "Hangi kuantum algoritması sıralanmamış bir veritabanında arama yapar?",
+    "options": ["A) Shor Algoritması", "B] Grover Algoritması", "C] Deutsch-Jozsa", "D] Quantum Walk"],
+    "correct": "B] Grover Algoritması"
+  },
+  {
+    "question": "Hangi element nötron yutma yeteneği en yüksek olan elementtir?",
+    "options": ["A) Bor", "B] Kadmiyum", "C] Helyum", "D] Hidrojen"],
+    "correct": "B] Kadmiyum"
+  },
+  {
+    "question": "Hangi matematiksel yapı modern kriptografinin temelini oluşturur?",
+    "options": ["A) Grup Teorisi", "B] Eliptik Eğriler", "C] Topoloji", "D] Diferansiyel Geometri"],
+    "correct": "B] Eliptik Eğriler"
+  },
+  {
+    "question": "Hangi parçacık Higgs alanı ile etkileşime girmez?",
+    "options": ["A) Elektron", "B] Foton", "C] Kuark", "D] Nötrino"],
+    "correct": "B] Foton"
+  },
+  {
+    "question": "Hangi programlama dili tamamen homoişik özelliğe sahiptir?",
+    "options": ["A) Python", "B] Lisp", "C] Java", "D] Haskell"],
+    "correct": "B] Lisp"
+  },
+  {
+    "question": "Hangi element 'döteryum' olarak bilinen ağır hidrojendir?",
+    "options": ["A) H-1", "B] H-2", "C] H-3", "D] He-4"],
+    "correct": "B] H-2"
+  },
+  {
+    "question": "Hangi teorem 'bir sistemin davranışının başlangıç koşullarına hassas bağlılığını' ifade eder?",
+    "options": ["A) Kaos Teorisi", "B] Gödel'in Eksiklik Teoremi", "C] Bayes Teoremi", "D] Pisagor Teoremi"],
+    "correct": "A) Kaos Teorisi"
+  },
+  {
+    "question": "Hangi veri sıkıştırma algoritması kayıpsız sıkıştırma sağlar?",
+    "options": ["A) JPEG", "B] MP3", "C] ZIP", "D] MPEG"],
+    "correct": "C] ZIP"
+  },
+  {
+    "question": "Hangi kuantum özelliği kuantum teleportasyonu mümkün kılar?",
+    "options": ["A) Süperpozisyon", "B] Dolaşıklık", "C] Tünelleme", "D] Kuantum Hesaplama"],
+    "correct": "B] Dolaşıklık"
+  },
+  {
+    "question": "Hangi element nükleer tıpta radyoterapi için kullanılır?",
+    "options": ["A) Kobalt-60", "B] Karbon-14", "C] Uranyum-235", "D] Plütonyum-239"],
+    "correct": "A) Kobalt-60"
+  },
+  {
+    "question": "Hangi matematikçi 'Sonsuz Küçükler Analizi'ni geliştirmiştir?",
+    "options": ["A) Cauchy", "B] Euler", "C] Leibniz", "D] Newton"],
+    "correct": "A) Cauchy"
+  },
+  {
+    "question": "Hangi fiziksel sabit evrenin genişleme hızını belirler?",
+    "options": ["A) Planck Sabiti", "B] Hubble Sabiti", "C] Işık Hızı", "D] Boltzmann Sabiti"],
+    "correct": "B] Hubble Sabiti"
+  },
+  {
+    "question": "Hangi programlama paradigması 'monad' kavramını merkeze alır?",
+    "options": ["A) Nesne Yönelimli", "B] Fonksiyonel", "C] Mantıksal", "D] Prosedürel"],
+    "correct": "B] Fonksiyonel"
+  },
+  {
+    "question": "Hangi kripto para birimi zk-SNARKS teknolojisini kullanır?",
+    "options": ["A) Bitcoin", "B] Ethereum", "C] Zcash", "D] Monero"],
+    "correct": "C] Zcash"
+  },
+  {
+    "question": "Hangi element sıvı halde bulunan tek metaldir?",
+    "options": ["A) Cıva", "B] Galyum", "C] Sezyum", "D] Fransiyum"],
+    "correct": "A) Cıva"
+  },
+  {
+    "question": "Hangi teorem 'her formal sistemin tutarlılığının kendi içinde kanıtlanamayacağını' ifade eder?",
+    "options": ["A) Gödel'in Eksiklik Teoremi", "B] Fermat'ın Son Teoremi", "C] Pisagor Teoremi", "D] Bayes Teoremi"],
+    "correct": "A) Gödel'in Eksiklik Teoremi"
+  },
+  {
+    "question": "Hangi veri tabanı modeli grafik yapıları için optimize edilmiştir?",
+    "options": ["A) İlişkisel", "B] Belge Tabanlı", "C] Grafik", "D] Anahtar-Değer"],
+    "correct": "C] Grafik"
+  },
+  {
+    "question": "Hangi kuantum fenomeni kuantum bilgisayarlarında hata düzeltme için kullanılır?",
+    "options": ["A) Süperpozisyon", "B] Dolaşıklık", "C] Topolojik Kuantum Hesaplama", "D] Kuantum Tünelleme"],
+    "correct": "C] Topolojik Kuantum Hesaplama"
+  },
+  {
+    "question": "Hangi element doğada en bol bulunan 5. elementtir?",
+    "options": ["A) Demir", "B] Kalsiyum", "C] Alüminyum", "D] Silisyum"],
+    "correct": "D] Silisyum"
+  },
+  {
+    "question": "Hangi fizikçi 'kuantum elektrodinamiği' alanında Nobel ödülü almıştır?",
+    "options": ["A) Richard Feynman", "B] Stephen Hawking", "C] Paul Dirac", "D] Max Planck"],
+    "correct": "A) Richard Feynman"
+  },
+  {
+    "question": "Hangi programlama dili 'dependent types' özelliğine sahiptir?",
+    "options": ["A) Haskell", "B] Idris", "C] Rust", "D] Swift"],
+    "correct": "B] Idris"
+  },
+  {
+    "question": "Hangi blockchain konsepti 'akıllı kontrat'ları mümkün kılar?",
+    "options": ["A) Bitcoin Script", "B] Ethereum Sanal Makinesi", "C] Hashgraph", "D] Directed Acyclic Graph"],
+    "correct": "B] Ethereum Sanal Makinesi"
+  },
+  {
+    "question": "Hangi element 'Geiger sayacı'nda kullanılır?",
+    "options": ["A) Argon", "B] Kripton", "C] Neon", "D] Helyum"],
+    "correct": "A) Argon"
+  },
+  {
+    "question": "Hangi matematiksel yapı yapay sinir ağlarında aktivasyon fonksiyonu olarak kullanılır?",
+    "options": ["A) Sigmoid", "B] Türev", "C] İntegral", "D] Logaritma"],
+    "correct": "A) Sigmoid"
+  },
+  {
+    "question": "Hangi parçacık 'tanrı parçacığı' olarak adlandırılır?",
+    "options": ["A) Elektron", "B] Kuark", "C] Higgs Bozonu", "D] Nötrino"],
+    "correct": "C] Higgs Bozonu"
+  },
+  {
+    "question": "Hangi programlama dili 'memory safety' özelliği ile öne çıkar?",
+    "options": ["A) C", "B] C++", "C] Rust", "D] Python"],
+    "correct": "C] Rust"
+  },
+  {
+    "question": "Hangi kriptografik yapı 'sıfır bilgi ispatı' sağlar?",
+    "options": ["A) AES", "B] RSA", "C] zk-SNARK", "D] SHA-3"],
+    "correct": "C] zk-SNARK"
+  },
+  {
+    "question": "Hangi elementin erime noktası en yüksektir?",
+    "options": ["A) Tungsten", "B] Karbon", "C] Osmiyum", "D] Rutenyum"],
+    "correct": "A) Tungsten"
+  },
+  {
+    "question": "Hangi fiziksel ilke 'bir parçacığın konumu ve momentumu aynı anda tam doğrulukla ölçülemez' der?",
+    "options": ["A) Pauli Dışarlama İlkesi", "B] Heisenberg Belirsizlik İlkesi", "C] Schrödinger Denklemi", "D] Planck Yasası"],
+    "correct": "B] Heisenberg Belirsizlik İlkesi"
+  },
+  {
+    "question": "Hangi veri iletişim protokolü düşük gecikmeli finansal işlemler için kullanılır?",
+    "options": ["A) HTTP", "B] TCP", "C] UDP", "D] FIX Protocol"],
+    "correct": "D] FIX Protocol"
+  },
+  {
+    "question": "Hangi kuantum algoritması büyük sayıların çarpanlarına ayrılmasını sağlar?",
+    "options": ["A) Grover Algoritması", "B] Shor Algoritması", "C] Deutsch-Jozsa", "D] Quantum Fourier Transform"],
+    "correct": "B] Shor Algoritması"
+  },
+  {
+    "question": "Hangi element yıldız nükleosentezinde 'demir pikini' oluşturur?",
+    "options": ["A) Nikel", "B] Demir", "C] Silisyum", "D] Karbon"],
+    "correct": "B] Demir"
+  },
+  {
+    "question": "Hangi matematiksel kavram makine öğrenmesinde PCA analizinin temelini oluşturur?",
+    "options": ["A) Özdeğer Ayrışımı", "B] Fourier Dönüşümü", "C] Türev Hesabı", "D] İntegral Hesabı"],
+    "correct": "A) Özdeğer Ayrışımı"
+  },
+  {
+    "question": "Hangi parçacık 'kuvark-gluon plazması'nda serbestçe dolaşır?",
+    "options": ["A) Elektron", "B] Kuark", "C] Nötrino", "D] Foton"],
+    "correct": "B] Kuark"
+  },
+  {
+    "question": "Hangi programlama dili 'metaprogramming' için en güçlü özelliklere sahiptir?",
+    "options": ["A) Java", "B] C#", "C] Lisp", "D] Python"],
+    "correct": "C] Lisp"
+  },
+  {
+    "question": "Hangi blockchain teknolojisi 'proof-of-history' konsensüsünü kullanır?",
+    "options": ["A) Bitcoin", "B] Ethereum", "C] Solana", "D] Cardano"],
+    "correct": "C] Solana"
+  },
+  {
+    "question": "Hangi element 'süpernova patlamaları' sırasında sentezlenir?",
+    "options": ["A) Altın", "B] Demir", "C] Karbon", "D] Oksijen"],
+    "correct": "A) Altın"
+  },
+  {
+    "question": "Hangi fiziksel model 'sicim teorisi'nin temel bileşenidir?",
+    "options": ["A) Noktasal Parçacıklar", "B] Tek Boyutlu Sicimler", "C] İki Boyutlu Zar", "D] Üç Boyutlu Küreler"],
+    "correct": "B] Tek Boyutlu Sicimler"
+  },
+  {
+    "question": "Hangi veri depolama formatı büyük veri analitiği için optimize edilmiştir?",
+    "options": ["A) CSV", "B] JSON", "C] Parquet", "D] XML"],
+    "correct": "C] Parquet"
+  },
+  {
+    "question": "Hangi kuantum hesaplama modeli 'anyonik' parçacıklara dayanır?",
+    "options": ["A) Gate Model", "B] Adiabatic Model", "C] Topolojik Kuantum Hesaplama", "D] Quantum Annealing"],
+    "correct": "C] Topolojik Kuantum Hesaplama"
+  },
+  {
+    "question": "Hangi element 'nötron yıldızlarının' temel bileşenidir?",
+    "options": ["A) Hidrojen", "B] Demir", "C] Nötronyum", "D] Karbon"],
+    "correct": "C] Nötronyum"
+  },
+  {
+    "question": "Hangi matematiksel araç karmaşık sistemlerin davranışını modellemek için kullanılır?",
+    "options": ["A) Diferansiyel Denklemler", "B] Lineer Cebir", "C] Olasılık Teorisi", "D] Tümü"],
+    "correct": "D] Tümü"
+  },
+  {
+    "question": "Hangi parçacık 'kuantum kütleçekim teorilerinde' yerçekimini taşır?",
+    "options": ["A) Graviton", "B] Foton", "C] Gluon", "D] Higgs Bozonu"],
+    "correct": "A) Graviton"
+  },
+  {
+    "question": "Hangi programlama dili 'concurrency' için CSP modelini uygular?",
+    "options": ["A) Go", "B] Java", "C] Python", "D] C++"],
+    "correct": "A) Go"
+  },
+  {
+    "question": "Hangi kriptografi yöntemi 'post-kuantum kriptografi' olarak sınıflandırılır?",
+    "options": ["A) RSA", "B] Eliptik Eğri Kriptografisi", "C] Kafes Tabanlı Kriptografi", "D] AES"],
+    "correct": "C] Kafes Tabanlı Kriptografi"
+  },
+  {
+    "question": "Hangi element 'fotovoltaik hücrelerde' yarı iletken olarak kullanılır?",
+    "options": ["A) Silisyum", "B] Germanyum", "C] Galyum", "D] Selenyum"],
+    "correct": "A) Silisyum"
+  },
+  {
+    "question": "Hangi fiziksel fenomen 'kuantum tünelleme' olarak bilinir?",
+    "options": ["A) Işık Kırınımı", "B] Parçacıkların Potansiyel Engelini Aşması", "C] Süperiletkenlik", "D] Fotoelektrik Etki"],
+    "correct": "B] Parçacıkların Potansiyel Engelini Aşması"
+  },
+  {
+    "question": "Hangi veri analiz tekniği zaman serisi verilerinde trendleri belirlemek için kullanılır?",
+    "options": ["A) ARIMA", "B] K-means", "C] PCA", "D] SVM"],
+    "correct": "A) ARIMA"
+  },
+  {
+    "question": "Hangi kuantum fenomeni 'kuantum dolanıklığının' pratik uygulamalarından biridir?",
+    "options": ["A) Kuantum Hesaplama", "B] Kuantum Teleportasyon", "C] Kuantum Şifreleme", "D] Tümü"],
+    "correct": "D] Tümü"
+  },
+  {
+    "question": "Hangi element 'karanlık madde' araştırmalarında kullanılan dedektörlerde bulunur?",
+    "options": ["A) Ksenon", "B] Argon", "C] Sıvı Neon", "D] Sıvı Helyum"],
+    "correct": "A) Ksenon"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'diferansiyel geometri' ile genel görelilik arasında köprü kurar?",
+    "options": ["A) Tensör Hesabı", "B] Vektör Analizi", "C] Kompleks Analiz", "D] Grup Teorisi"],
+    "correct": "A) Tensör Hesabı"
+  },
+  {
+    "question": "Hangi parçacık 'standart modelde' kütle kazandırıcı alanla ilişkilidir?",
+    "options": ["A) Foton", "B] Gluon", "C] Higgs Bozonu", "D] W/Z Bozonları"],
+    "correct": "C] Higgs Bozonu"
+  },
+  {
+    "question": "Hangi programlama dili 'ownership model' ile bellek güvenliği sağlar?",
+    "options": ["A) C", "B] C++", "C] Rust", "D] Python"],
+    "correct": "C] Rust"
+  },
+  {
+    "question": "Hangi blockchain özelliği 'merkle ağaçları' ile sağlanır?",
+    "options": ["A) Şeffaflık", "B] Değişmezlik", "C] Veri Bütünlüğü", "D] Ölçeklenebilirlik"],
+    "correct": "C] Veri Bütünlüğü"
+  },
+  {
+    "question": "Hangi element 'tokamak' nükleer füzyon reaktörlerinde plazma sınırlama için kullanılır?",
+    "options": ["A) Hidrojen", "B] Döteryum", "C] Trityum", "D] Helyum-3"],
+    "correct": "B] Döteryum"
+  },
+  {
+    "question": "Hangi fiziksel süreç 'kara deliklerin' Hawking radyasyonu yaymasını açıklar?",
+    "options": ["A) Termonükleer Füzyon", "B] Kuantum Dalgalanmaları", "C] Nükleer Fisyon", "D] Elektromanyetik Radyasyon"],
+    "correct": "B] Kuantum Dalgalanmaları"
+  },
+  {
+    "question": "Hangi veri yapısı 'bloom filter' olarak bilinir?",
+    "options": ["A) Olasılıksal Veri Yapısı", "B] Sıralı Veri Yapısı", "C] Anahtar-Değer Deposu", "D] Grafik Veri Yapısı"],
+    "correct": "A) Olasılıksal Veri Yapısı"
+  },
+  {
+    "question": "Hangi kuantum hesaplama paradigması 'optimizasyon problemleri' için tasarlanmıştır?",
+    "options": ["A) Kuantum Gezintisi", "B] Kuantum Tavlaması", "C] Kuantum Hızlanması", "D] Kuantum Simülasyonu"],
+    "correct": "B] Kuantum Tavlaması"
+  },
+  {
+    "question": "Hangi element 'kızılötesi dedektörlerde' kullanılan bir malzemedir?",
+    "options": ["A) Germanyum", "B] Silisyum", "C] Galyum Arsenit", "D] Kadmiyum Tellürür"],
+    "correct": "C] Galyum Arsenit"
+  },
+  {
+    "question": "Hangi matematiksel disiplin 'soyut cebir' ile 'topoloji' arasında köprü kurar?",
+    "options": ["A) Kategori Teorisi", "B] Homoloji Cebiri", "C] Diferansiyel Geometri", "D] Sayılar Teorisi"],
+    "correct": "A) Kategori Teorisi"
+  },
+  {
+    "question": "Hangi parçacık 'nötrino salınımları' ile ünlüdür?",
+    "options": ["A) Elektron", "B] Müon", "C] Tau", "D] Tüm Nötrino Türleri"],
+    "correct": "D] Tüm Nötrino Türleri"
+  },
+  {
+    "question": "Hangi programlama dili 'concurrent programming' için actor modelini uygular?",
+    "options": ["A) Erlang", "B] Java", "C] C#", "D] Python"],
+    "correct": "A) Erlang"
+  },
+  {
+    "question": "Hangi kriptografi protokolü 'quantum key distribution' için kullanılır?",
+    "options": ["A) RSA", "B] ECC", "C] BB84", "D] Diffie-Hellman"],
+    "correct": "C] BB84"
+  },
+  {
+    "question": "Hangi element 'süper iletken mıknatıslarda' kullanılır?",
+    "options": ["A) Bakır", "B] Niyobyum", "C] Alüminyum", "D] Kalay"],
+    "correct": "B] Niyobyum"
+  },
+  {
+    "question": "Hangi fiziksel kavram 'dalga-parçacık ikiliği' olarak bilinir?",
+    "options": ["A) Kuantum Süperpozisyonu", "B] Kuantum Dolaşıklığı", "C] Kuantum Tünelleme", "D] Kuantum Ölçüm Problemi"],
+    "correct": "A) Kuantum Süperpozisyonu"
+  },
+  {
+    "question": "Hangi veri tabanı 'spatio-temporal veriler' için optimize edilmiştir?",
+    "options": ["A) PostgreSQL + PostGIS", "B] MongoDB", "C] Cassandra", "D] Redis"],
+    "correct": "A) PostgreSQL + PostGIS"
+  },
+  {
+    "question": "Hangi kuantum algoritması 'oracle problemlerini' çözmek için kullanılır?",
+    "options": ["A) Shor Algoritması", "B] Grover Algoritması", "C] Deutsch-Jozsa", "D] Quantum Phase Estimation"],
+    "correct": "C] Deutsch-Jozsa"
+  },
+  {
+    "question": "Hangi element 'radyoaktif izotop termoelektrik jeneratörlerinde' kullanılır?",
+    "options": ["A) Plütonyum-238", "B] Uranyum-235", "C] Toryum-232", "D] Potasyum-40"],
+    "correct": "A) Plütonyum-238"
+  },
+  {
+    "question": "Hangi matematiksel araç 'makine öğrenmesinde gradient descent için kullanılır?",
+    "options": ["A) Matris Çarpımı", "B] Kısmi Türev", "C] İntegral Hesabı", "D] Vektör Normu"],
+    "correct": "B] Kısmi Türev"
+  },
+  {
+    "question": "Hangi parçacık 'standart modelin dışında' kalan karanlık madde adayıdır?",
+    "options": ["A) WIMP", "B] Foton", "C] Higgs Bozonu", "D] Kuark"],
+    "correct": "A) WIMP"
+  },
+  {
+    "question": "Hangi programlama dili 'formal verification' için tasarlanmıştır?",
+    "options": ["A) Coq", "B] Python", "C] JavaScript", "D] Ruby"],
+    "correct": "A) Coq"
+  },
+  {
+    "question": "Hangi blockchain konsepti 'sharding' ile ölçeklenebilirliği artırır?",
+    "options": ["A) Bitcoin", "B] Ethereum 2.0", "C] Ripple", "D] Litecoin"],
+    "correct": "B] Ethereum 2.0"
   }
 ]
