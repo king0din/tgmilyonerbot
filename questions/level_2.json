@@ -1,17 +1,542 @@
 [
   {
-    "question": "Türkiye'de kaç il vardır?",
-    "options": ["71", "78", "81", "86"],
-    "correct": "81"
+    "question": "Türkiye'nin en büyük gölü hangisidir?",
+    "options": ["Tuz Gölü", "Van Gölü", "Beyşehir Gölü", "Eğirdir Gölü"],
+    "correct": "Van Gölü"
   },
   {
-    "question": "Hangisi Türkiye'nin komşu ülkesi değildir?",
-    "options": ["İran", "Irak", "Mısır", "Suriye"],
+    "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+    "options": ["Venüs", "Mars", "Jüpiter", "Satürn"],
+    "correct": "Mars"
+  },
+  {
+    "question": "Bir düzine kaç adettir?",
+    "options": ["6", "12", "18", "24"],
+    "correct": "12"
+  },
+  {
+    "question": "Hangi ülke piramitleriyle ünlüdür?",
+    "options": ["İtalya", "Yunanistan", "Mısır", "Türkiye"],
     "correct": "Mısır"
   },
   {
-    "question": "Hangisi bir doğal sayıdır?",
-    "options": ["-1", "0", "1/2", "π (pi)"],
-    "correct": "0"
+    "question": "Hangi organ kanı temizler?",
+    "options": ["Kalp", "Karaciğer", "Böbrek", "Akciğer"],
+    "correct": "Böbrek"
+  },
+  {
+    "question": "Türkiye'nin en kalabalık ikinci şehri hangisidir?",
+    "options": ["Ankara", "İzmir", "Bursa", "Adana"],
+    "correct": "Ankara"
+  },
+  {
+    "question": "Hangi element havada en çok bulunur?",
+    "options": ["Oksijen", "Azot", "Karbondioksit", "Hidrojen"],
+    "correct": "Azot"
+  },
+  {
+    "question": "Bir futbol takımı sahada kaç oyuncuyla oynar?",
+    "options": ["9", "10", "11", "12"],
+    "correct": "11"
+  },
+  {
+    "question": "Hangi ülke kangurularıyla ünlüdür?",
+    "options": ["Brezilya", "Güney Afrika", "Avustralya", "Yeni Zelanda"],
+    "correct": "Avustralya"
+  },
+  {
+    "question": "Hangi gezegen en büyüktür?",
+    "options": ["Dünya", "Satürn", "Jüpiter", "Neptün"],
+    "correct": "Jüpiter"
+  },
+  {
+    "question": "Türkiye'nin en uzun nehri hangisidir?",
+    "options": ["Sakarya", "Fırat", "Kızılırmak", "Dicle"],
+    "correct": "Kızılırmak"
+  },
+  {
+    "question": "Hangi element suyun ana bileşenidir?",
+    "options": ["Oksijen", "Hidrojen", "Azot", "Karbon"],
+    "correct": "Hidrojen"
+  },
+  {
+    "question": "Bir yüzyıl kaç yıldır?",
+    "options": ["10", "50", "100", "1000"],
+    "correct": "100"
+  },
+  {
+    "question": "Hangi ülke Keops Piramidi'ne ev sahipliği yapar?",
+    "options": ["Irak", "Mısır", "İran", "Suudi Arabistan"],
+    "correct": "Mısır"
+  },
+  {
+    "question": "Hangi organ insülin üretir?",
+    "options": ["Karaciğer", "Pankreas", "Böbrek", "Dalak"],
+    "correct": "Pankreas"
+  },
+  {
+    "question": "Türkiye'nin en büyük adası hangisidir?",
+    "options": ["Bozcaada", "Gökçeada", "Marmara Adası", "Avşa Adası"],
+    "correct": "Gökçeada"
+  },
+  {
+    "question": "Hangi gezegen halkalarıyla ünlüdür?",
+    "options": ["Mars", "Jüpiter", "Satürn", "Uranüs"],
+    "correct": "Satürn"
+  },
+  {
+    "question": "Bir asır kaç yıldır?",
+    "options": ["10", "50", "100", "1000"],
+    "correct": "100"
+  },
+  {
+    "question": "Hangi ülke Big Ben saat kulesine ev sahipliği yapar?",
+    "options": ["Fransa", "Almanya", "İngiltere", "İspanya"],
+    "correct": "İngiltere"
+  },
+  {
+    "question": "Hangi organ oksijen alıp karbondioksit verir?",
+    "options": ["Kalp", "Karaciğer", "Akciğer", "Mide"],
+    "correct": "Akciğer"
+  },
+  {
+    "question": "Türkiye'nin en doğusundaki il hangisidir?",
+    "options": ["Van", "Hakkari", "Ağrı", "Iğdır"],
+    "correct": "Iğdır"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Fe' sembolüyle gösterilir?",
+    "options": ["Flor", "Fosfor", "Demir", "Gümüş"],
+    "correct": "Demir"
+  },
+  {
+    "question": "Bir basketbol maçı normalde kaç periyottan oluşur?",
+    "options": ["2", "3", "4", "5"],
+    "correct": "4"
+  },
+  {
+    "question": "Hangi ülke Kolezyum'a ev sahipliği yapar?",
+    "options": ["Yunanistan", "İtalya", "Türkiye", "Mısır"],
+    "correct": "İtalya"
+  },
+  {
+    "question": "Hangi organ safra üretir?",
+    "options": ["Pankreas", "Karaciğer", "Böbrek", "Dalak"],
+    "correct": "Karaciğer"
+  },
+  {
+    "question": "Türkiye'nin en yüksek ikinci dağı hangisidir?",
+    "options": ["Erciyes", "Süphan", "Kaçkar", "Uludağ"],
+    "correct": "Süphan"
+  },
+  {
+    "question": "Hangi gezegen 'Mavi Gezegen' olarak bilinir?",
+    "options": ["Dünya", "Neptün", "Uranüs", "Venüs"],
+    "correct": "Dünya"
+  },
+  {
+    "question": "Bir hektar kaç metrekaredir?",
+    "options": ["100", "1.000", "10.000", "100.000"],
+    "correct": "10.000"
+  },
+  {
+    "question": "Hangi ülke Akropolis'e ev sahipliği yapar?",
+    "options": ["İtalya", "Yunanistan", "Türkiye", "Mısır"],
+    "correct": "Yunanistan"
+  },
+  {
+    "question": "Hangi organ kan şekerini düzenler?",
+    "options": ["Böbrek", "Karaciğer", "Pankreas", "Dalak"],
+    "correct": "Pankreas"
+  },
+  {
+    "question": "Türkiye'nin en batısındaki il hangisidir?",
+    "options": ["İzmir", "Çanakkale", "Edirne", "Balıkesir"],
+    "correct": "Çanakkale"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Na' sembolüyle gösterilir?",
+    "options": ["Nikel", "Sodyum", "Neon", "Azot"],
+    "correct": "Sodyum"
+  },
+  {
+    "question": "Bir tenis maçında set kazanmak için en az kaç oyun gerekir?",
+    "options": ["4", "6", "7", "9"],
+    "correct": "6"
+  },
+  {
+    "question": "Hangi ülke Sidney Opera Binası'na ev sahipliği yapar?",
+    "options": ["Yeni Zelanda", "Avustralya", "Kanada", "Güney Afrika"],
+    "correct": "Avustralya"
+  },
+  {
+    "question": "Hangi organ vücut ısısını düzenler?",
+    "options": ["Beyin", "Deri", "Karaciğer", "Akciğer"],
+    "correct": "Deri"
+  },
+  {
+    "question": "Türkiye'nin en büyük barajı hangisidir?",
+    "options": ["Atatürk Barajı", "Keban Barajı", "Karakaya Barajı", "Ilısu Barajı"],
+    "correct": "Atatürk Barajı"
+  },
+  {
+    "question": "Hangi gezegen 'Sabah Yıldızı' olarak bilinir?",
+    "options": ["Mars", "Venüs", "Merkür", "Jüpiter"],
+    "correct": "Venüs"
+  },
+  {
+    "question": "Bir mil kaç kilometredir?",
+    "options": ["1.5", "1.6", "2.0", "2.5"],
+    "correct": "1.6"
+  },
+  {
+    "question": "Hangi ülke Taj Mahal'e ev sahipliği yapar?",
+    "options": ["Pakistan", "Hindistan", "Bangladeş", "Nepal"],
+    "correct": "Hindistan"
+  },
+  {
+    "question": "Hangi organ kırmızı kan hücreleri üretir?",
+    "options": ["Karaciğer", "Dalak", "Kemik iliği", "Lenf düğümleri"],
+    "correct": "Kemik iliği"
+  },
+  {
+    "question": "Türkiye'nin en büyük kapalı çarşısı hangisidir?",
+    "options": ["Mısır Çarşısı", "Kapalıçarşı", "Arasta Çarşısı", "Sahaflar Çarşısı"],
+    "correct": "Kapalıçarşı"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Au' sembolüyle gösterilir?",
+    "options": ["Gümüş", "Altın", "Alüminyum", "Argon"],
+    "correct": "Altın"
+  },
+  {
+    "question": "Bir golf topunun çapı yaklaşık kaç santimetredir?",
+    "options": ["2.5", "4.3", "5.5", "7.0"],
+    "correct": "4.3"
+  },
+  {
+    "question": "Hangi ülke Machu Picchu'ya ev sahipliği yapar?",
+    "options": ["Meksika", "Peru", "Şili", "Kolombiya"],
+    "correct": "Peru"
+  },
+  {
+    "question": "Hangi organ vücuttaki en büyük organdır?",
+    "options": ["Karaciğer", "Akciğer", "Deri", "Beyin"],
+    "correct": "Deri"
+  },
+  {
+    "question": "Türkiye'nin en büyük doğal gölü hangisidir?",
+    "options": ["Beyşehir Gölü", "Eğirdir Gölü", "Van Gölü", "Tuz Gölü"],
+    "correct": "Van Gölü"
+  },
+  {
+    "question": "Hangi gezegen en soğuktur?",
+    "options": ["Mars", "Jüpiter", "Satürn", "Neptün"],
+    "correct": "Neptün"
+  },
+  {
+    "question": "Bir deniz mili kaç metredir?",
+    "options": ["1500", "1609", "1852", "2000"],
+    "correct": "1852"
+  },
+  {
+    "question": "Hangi ülke Angkor Wat tapınağına ev sahipliği yapar?",
+    "options": ["Tayland", "Vietnam", "Kamboçya", "Laos"],
+    "correct": "Kamboçya"
+  },
+  {
+    "question": "Hangi organ antikor üretir?",
+    "options": ["Karaciğer", "Dalak", "Lenf düğümleri", "Tümü"],
+    "correct": "Tümü"
+  },
+  {
+    "question": "Türkiye'nin en büyük tatlı su gölü hangisidir?",
+    "options": ["Van Gölü", "Beyşehir Gölü", "Eğirdir Gölü", "Tuz Gölü"],
+    "correct": "Beyşehir Gölü"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Ag' sembolüyle gösterilir?",
+    "options": ["Altın", "Cıva", "Gümüş", "Arsenik"],
+    "correct": "Gümüş"
+  },
+  {
+    "question": "Bir voleybol takımı sahada kaç oyuncuyla oynar?",
+    "options": ["5", "6", "7", "8"],
+    "correct": "6"
+  },
+  {
+    "question": "Hangi ülke Petra antik kentine ev sahipliği yapar?",
+    "options": ["Mısır", "Ürdün", "Suriye", "Irak"],
+    "correct": "Ürdün"
+  },
+  {
+    "question": "Hangi organ adrenalin üretir?",
+    "options": ["Böbreküstü bezleri", "Pankreas", "Tiroit", "Hipofiz"],
+    "correct": "Böbreküstü bezleri"
+  },
+  {
+    "question": "Türkiye'nin en büyük yapay gölü hangisidir?",
+    "options": ["Keban Baraj Gölü", "Atatürk Baraj Gölü", "Karakaya Baraj Gölü", "Hirfanlı Baraj Gölü"],
+    "correct": "Atatürk Baraj Gölü"
+  },
+  {
+    "question": "Hangi gezegen 'Gaz Devi' olarak bilinir?",
+    "options": ["Mars", "Venüs", "Jüpiter", "Merkür"],
+    "correct": "Jüpiter"
+  },
+  {
+    "question": "Bir inç kaç santimetredir?",
+    "options": ["2.54", "3.0", "3.5", "4.0"],
+    "correct": "2.54"
+  },
+  {
+    "question": "Hangi ülke Chichen Itza piramitlerine ev sahipliği yapar?",
+    "options": ["Guatemala", "Meksika", "Honduras", "Belize"],
+    "correct": "Meksika"
+  },
+  {
+    "question": "Hangi organ insan vücudunda en fazla kalsiyum depolar?",
+    "options": ["Karaciğer", "Böbrek", "Kemikler", "Dişler"],
+    "correct": "Kemikler"
+  },
+  {
+    "question": "Türkiye'nin en uzun kara sınırı hangi ülke iledir?",
+    "options": ["Yunanistan", "Suriye", "İran", "Irak"],
+    "correct": "Suriye"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Hg' sembolüyle gösterilir?",
+    "options": ["Helyum", "Hidrojen", "Cıva", "Gadolinyum"],
+    "correct": "Cıva"
+  },
+  {
+    "question": "Bir beyzbol takımı sahada kaç oyuncuyla oynar?",
+    "options": ["7", "9", "11", "13"],
+    "correct": "9"
+  },
+  {
+    "question": "Hangi ülke Büyük Set Resifi'ne ev sahipliği yapar?",
+    "options": ["Endonezya", "Filipinler", "Avustralya", "Malezya"],
+    "correct": "Avustralya"
+  },
+  {
+    "question": "Hangi organ vücuttaki en sert maddedir?",
+    "options": ["Kemik", "Diş minesi", "Tırnak", "Kıkırdak"],
+    "correct": "Diş minesi"
+  },
+  {
+    "question": "Türkiye'nin en büyük volkanik gölü hangisidir?",
+    "options": ["Nemrut Gölü", "Çıldır Gölü", "Burdur Gölü", "Acıgöl"],
+    "correct": "Nemrut Gölü"
+  },
+  {
+    "question": "Hangi gezegen en yakındır?",
+    "options": ["Venüs", "Mars", "Merkür", "Jüpiter"],
+    "correct": "Merkür"
+  },
+  {
+    "question": "Bir knot hız birimi kaç km/saattir?",
+    "options": ["1.5", "1.852", "2.0", "2.5"],
+    "correct": "1.852"
+  },
+  {
+    "question": "Hangi ülke Galapagos Adaları'na ev sahipliği yapar?",
+    "options": ["Şili", "Peru", "Ekvador", "Kolombiya"],
+    "correct": "Ekvador"
+  },
+  {
+    "question": "Hangi organ melatonin hormonu üretir?",
+    "options": ["Hipofiz", "Epifiz bezi", "Böbreküstü bezi", "Tiroit"],
+    "correct": "Epifiz bezi"
+  },
+  {
+    "question": "Türkiye'nin en kuzey ucundaki il hangisidir?",
+    "options": ["Trabzon", "Rize", "Sinop", "Kırklareli"],
+    "correct": "Sinop"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Pb' sembolüyle gösterilir?",
+    "options": ["Platin", "Potasyum", "Kurşun", "Fosfor"],
+    "correct": "Kurşun"
+  },
+  {
+    "question": "Bir ragbi topu kaç köşelidir?",
+    "options": ["Yuvarlak", "4 köşeli", "6 köşeli", "8 köşeli"],
+    "correct": "8 köşeli"
+  },
+  {
+    "question": "Hangi ülke Venedik şehrine ev sahipliği yapar?",
+    "options": ["Fransa", "İspanya", "İtalya", "Yunanistan"],
+    "correct": "İtalya"
+  },
+  {
+    "question": "Hangi organ vücudun en ağır organıdır?",
+    "options": ["Beyin", "Karaciğer", "Deri", "Akciğer"],
+    "correct": "Karaciğer"
+  },
+  {
+    "question": "Türkiye'nin en güney ucundaki il hangisidir?",
+    "options": ["Antalya", "Mersin", "Adana", "Hatay"],
+    "correct": "Hatay"
+  },
+  {
+    "question": "Hangi gezegen en yoğundur?",
+    "options": ["Dünya", "Jüpiter", "Neptün", "Merkür"],
+    "correct": "Dünya"
+  },
+  {
+    "question": "Bir libre kaç gramdır?",
+    "options": ["350", "454", "500", "1000"],
+    "correct": "454"
+  },
+  {
+    "question": "Hangi ülke Louvre Müzesi'ne ev sahipliği yapar?",
+    "options": ["İngiltere", "Fransa", "İtalya", "Almanya"],
+    "correct": "Fransa"
+  },
+  {
+    "question": "Hangi organ glikojen depolar?",
+    "options": ["Karaciğer", "Böbrek", "Pankreas", "Dalak"],
+    "correct": "Karaciğer"
+  },
+  {
+    "question": "Türkiye'nin en büyük koyu hangisidir?",
+    "options": ["İzmit Körfezi", "Güllük Körfezi", "Gökova Körfezi", "Fethiye Körfezi"],
+    "correct": "Güllük Körfezi"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'K' sembolüyle gösterilir?",
+    "options": ["Kalsiyum", "Karbon", "Potasyum", "Kobalt"],
+    "correct": "Potasyum"
+  },
+  {
+    "question": "Bir kriket takımı sahada kaç oyuncuyla oynar?",
+    "options": ["9", "10", "11", "12"],
+    "correct": "11"
+  },
+  {
+    "question": "Hangi ülke Stonehenge'e ev sahipliği yapar?",
+    "options": ["Fransa", "Almanya", "İrlanda", "İngiltere"],
+    "correct": "İngiltere"
+  },
+  {
+    "question": "Hangi organ vücutta en fazla suyu depolar?",
+    "options": ["Deri", "Kaslar", "Karaciğer", "Beyin"],
+    "correct": "Kaslar"
+  },
+  {
+    "question": "Türkiye'nin en büyük yarımadası hangisidir?",
+    "options": ["Bodrum Yarımadası", "Çatalca Yarımadası", "Kapıdağ Yarımadası", "Biga Yarımadası"],
+    "correct": "Biga Yarımadası"
+  },
+  {
+    "question": "Hangi gezegen en az yoğundur?",
+    "options": ["Satürn", "Jüpiter", "Uranüs", "Neptün"],
+    "correct": "Satürn"
+  },
+  {
+    "question": "Bir karat kaç gramdır?",
+    "options": ["0.1", "0.2", "0.3", "0.4"],
+    "correct": "0.2"
+  },
+  {
+    "question": "Hangi ülke Pisa Kulesi'ne ev sahipliği yapar?",
+    "options": ["Fransa", "İtalya", "İspanya", "Portekiz"],
+    "correct": "İtalya"
+  },
+  {
+    "question": "Hangi organ vücutta en fazla demir depolar?",
+    "options": ["Karaciğer", "Dalak", "Böbrek", "Pankreas"],
+    "correct": "Karaciğer"
+  },
+  {
+    "question": "Türkiye'nin en büyük körfezi hangisidir?",
+    "options": ["İskenderun Körfezi", "Antalya Körfezi", "Güllük Körfezi", "Saros Körfezi"],
+    "correct": "Antalya Körfezi"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'W' sembolüyle gösterilir?",
+    "options": ["Tungsten", "Vanadyum", "Wolfram", "Tantal"],
+    "correct": "Tungsten"
+  },
+  {
+    "question": "Bir Amerikan futbolu takımı sahada kaç oyuncuyla oynar?",
+    "options": ["9", "11", "13", "15"],
+    "correct": "11"
+  },
+  {
+    "question": "Hangi ülke Alhambra Sarayı'na ev sahipliği yapar?",
+    "options": ["Portekiz", "İspanya", "Fas", "Tunus"],
+    "correct": "İspanya"
+  },
+  {
+    "question": "Hangi organ vücutta en fazla enerjiyi tüketir?",
+    "options": ["Karaciğer", "Beyin", "Kalp", "Böbrek"],
+    "correct": "Beyin"
+  },
+  {
+    "question": "Türkiye'nin en büyük adası olan Gökçeada hangi denizdedir?",
+    "options": ["Karadeniz", "Marmara Denizi", "Ege Denizi", "Akdeniz"],
+    "correct": "Ege Denizi"
+  },
+  {
+    "question": "Hangi gezegen en küçük uyduya sahiptir?",
+    "options": ["Mars", "Jüpiter", "Satürn", "Uranüs"],
+    "correct": "Mars"
+  },
+  {
+    "question": "Bir deniz feneri ışığının görüş mesafesi kaç mildir?",
+    "options": ["10", "20", "30", "40"],
+    "correct": "20"
+  },
+  {
+    "question": "Hangi ülke Neuschwanstein Şatosu'na ev sahipliği yapar?",
+    "options": ["Avusturya", "İsviçre", "Almanya", "Fransa"],
+    "correct": "Almanya"
+  },
+  {
+    "question": "Hangi organ vücutta en fazla yağı depolar?",
+    "options": ["Karaciğer", "Deri altı dokusu", "Kaslar", "Bağırsak"],
+    "correct": "Deri altı dokusu"
+  },
+  {
+    "question": "Türkiye'nin en büyük yeraltı şehri nerededir?",
+    "options": ["Nevşehir", "Kayseri", "Niğde", "Aksaray"],
+    "correct": "Nevşehir"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Sn' sembolüyle gösterilir?",
+    "options": ["Kalay", "Antimon", "Selenyum", "Silisyum"],
+    "correct": "Kalay"
+  },
+  {
+    "question": "Bir hokey takımı sahada kaç oyuncuyla oynar?",
+    "options": ["5", "6", "7", "8"],
+    "correct": "6"
+  },
+  {
+    "question": "Hangi ülke Sagrada Familia Bazilikası'na ev sahipliği yapar?",
+    "options": ["Fransa", "İtalya", "İspanya", "Portekiz"],
+    "correct": "İspanya"
+  },
+  {
+    "question": "Hangi organ vücuttaki en uzun sinire sahiptir?",
+    "options": ["Beyin", "Omurilik", "Siyatik sinir", "Median sinir"],
+    "correct": "Siyatik sinir"
+  },
+  {
+    "question": "Türkiye'nin en büyük şelalesi hangisidir?",
+    "options": ["Manavgat Şelalesi", "Düden Şelalesi", "Tortum Şelalesi", "Uçansu Şelalesi"],
+    "correct": "Tortum Şelalesi"
+  },
+  {
+    "question": "Hangi gezegen en büyük uyduya sahiptir?",
+    "options": ["Dünya", "Jüpiter", "Satürn", "Neptün"],
+    "correct": "Jüpiter"
+  },
+  {
+    "question": "Bir denizaltının maksimum dalış derinliği kaç metredir?",
+    "options": ["200", "500", "1000", "2000"],
+    "correct": "500"
   }
 ]
