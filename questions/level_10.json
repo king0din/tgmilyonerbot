@@ -1,1 +1,18 @@
+[
+  {
+    "question": "Dünya'nın en derin noktası olan Mariana Çukuru hangi okyanustadir?",
+    "options": ["Hint Okyanusu", "Atlantik Okyanusu", "Pasifik Okyanusu", "Arktik Okyanusu"],
+    "correct": "Pasifik Okyanusu"
+  },
+ {
+    "question": "Hücre içindeki genetik materyalin bozulmasını ve mutasyonları onaran enzim hangisidir?",
+    "options": ["DNA Polimeraz", "RNA Polimeraz", "DNA Ligaz", "DNA Helikaz"],
+    "correct": "DNA Ligaz"
+ },
+  {
+    "question": "2023 yılında 'Oppenheimer' filmi ile En İyi Yönetmen Oscar'ını kazanan kimdir?",
+    "options": ["Martin Scorsese", "Christopher Nolan", "Steven Spielberg", "Quentin Tarantino"],
+    "correct": "Christopher Nolan"
+  }
+]
 
