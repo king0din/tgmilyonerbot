@@ -1,17 +1,487 @@
 [
   {
-    "question": "Elektrik akımı birimi nedir?",
-    "options": ["Volt", "Watt", "Amper", "Ohm"],
-    "correct": "Amper"
+    "question": "Hangi element periyodik tabloda 'Fe' sembolü ile gösterilir?",
+    "options": ["A) Flor", "B) Fermiyum", "C) Demir", "D) Fosfor"],
+    "correct": "C) Demir"
   },
   {
-    "question": "Osmanlı İmparatorluğu'nda ilk matbaa kimin döneminde kurulmuştur?",
-    "options": ["Fatih Sultan Mehmet", "III. Ahmet", "IV. Murat", "II. Mahmut"],
-    "correct": "III. Ahmet"
+    "question": "Mevlana'nın türbesi hangi şehrimizdedir?",
+    "options": ["A) İstanbul", "B) Konya", "C) Kayseri", "D) Sivas"],
+    "correct": "B) Konya"
   },
   {
-    "question": "Hangisi bir sürüngen değildir?",
-    "options": ["Kertenkele", "Timsah", "Yarasa", "Yılan"],
-    "correct": "Yarasa"
+    "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+    "options": ["A) Venüs", "B) Mars", "C) Jüpiter", "D) Merkür"],
+    "correct": "B) Mars"
+  },
+  {
+    "question": "Hangisi bir yazılım lisanslama türü değildir?",
+    "options": ["A) MIT Lisansı", "B) GPL", "C) HTML", "D) Apache"],
+    "correct": "C) HTML"
+  },
+  {
+    "question": "Türkiye'nin en uzun nehri hangisidir?",
+    "options": ["A) Kızılırmak", "B) Fırat", "C) Sakarya", "D) Yeşilırmak"],
+    "correct": "A) Kızılırmak"
+  },
+  {
+    "question": "Hangi bilim insanı yerçekimi yasasını formüle etmiştir?",
+    "options": ["A) Albert Einstein", "B) Nikola Tesla", "C) Isaac Newton", "D) Galileo Galilei"],
+    "correct": "C) Isaac Newton"
+  },
+  {
+    "question": "Hangisi bir veritabanı yönetim sistemi değildir?",
+    "options": ["A) MySQL", "B) MongoDB", "C) PostgreSQL", "D) HTTPS"],
+    "correct": "D) HTTPS"
+  },
+  {
+    "question": "Hangi ülkenin bayrağında ay ve yıldız bulunmaz?",
+    "options": ["A) Türkiye", "B) Pakistan", "C) Singapur", "D) Yunanistan"],
+    "correct": "D) Yunanistan"
+  },
+  {
+    "question": "Hangisi bir programlama paradigması değildir?",
+    "options": ["A) Nesne Yönelimli", "B) Fonksiyonel", "C) Mantıksal", "D) Döngüsel"],
+    "correct": "D) Döngüsel"
+  },
+  {
+    "question": "Hangi dil Latin alfabesi kullanmaz?",
+    "options": ["A) Türkçe", "B) Yunanca", "C) Fransızca", "D) Almanca"],
+    "correct": "B) Yunanca"
+  },
+  {
+    "question": "Hangisi bir ağ protokolü değildir?",
+    "options": ["A) HTTP", "B) FTP", "C) SMTP", "D) JPEG"],
+    "correct": "D) JPEG"
+  },
+  {
+    "question": "Hangi element radyoaktif değildir?",
+    "options": ["A) Uranyum", "B) Plütonyum", "C) Helyum", "D) Radyum"],
+    "correct": "C) Helyum"
+  },
+  {
+    "question": "Hangisi bir Python web framework'üdür?",
+    "options": ["A) Django", "B) Spring", "C) Laravel", "D) Ruby on Rails"],
+    "correct": "A) Django"
+  },
+  {
+    "question": "Hangi şehir iki kıtada toprağı bulunan tek şehirdir?",
+    "options": ["A) Kahire", "B) İstanbul", "C) New York", "D) Singapur"],
+    "correct": "B) İstanbul"
+  },
+  {
+    "question": "Hangi ünlü ressam 'Yıldızlı Gece' tablosunu yapmıştır?",
+    "options": ["A) Pablo Picasso", "B) Vincent van Gogh", "C) Salvador Dali", "D) Leonardo da Vinci"],
+    "correct": "B) Vincent van Gogh"
+  },
+  {
+    "question": "Hangisi bir göl değildir?",
+    "options": ["A) Van Gölü", "B) Tuz Gölü", "C) Çıldır Gölü", "D) Sakarya Gölü"],
+    "correct": "D) Sakarya Gölü"
+  },
+  {
+    "question": "Hangisi bir veri yapısı değildir?",
+    "options": ["A) Dizi", "B) Yığın", "C) Kuyruk", "D) Derleyici"],
+    "correct": "D) Derleyici"
+  },
+  {
+    "question": "Hangi element periyodik tabloda en hafif gazdır?",
+    "options": ["A) Helyum", "B) Hidrojen", "C) Oksijen", "D) Azot"],
+    "correct": "B) Hidrojen"
+  },
+  {
+    "question": "Hangisi bir işletim sistemi çekirdeğidir?",
+    "options": ["A) Windows", "B) macOS", "C) Linux", "D) Android"],
+    "correct": "C) Linux"
+  },
+  {
+    "question": "Hangi ülke 'Çin Seddi'ne ev sahipliği yapar?",
+    "options": ["A) Hindistan", "B) Moğolistan", "C) Çin", "D) Japonya"],
+    "correct": "C) Çin"
+  },
+  {
+    "question": "Hangisi bir yapay zeka kütüphanesidir?",
+    "options": ["A) TensorFlow", "B) React", "C) Angular", "D) jQuery"],
+    "correct": "A) TensorFlow"
+  },
+  {
+    "question": "Hangisi bir yarı iletken malzemedir?",
+    "options": ["A) Bakır", "B) Silisyum", "C) Altın", "D) Alüminyum"],
+    "correct": "B) Silisyum"
+  },
+  {
+    "question": "Hangi gezegen en büyük doğal uyduya sahiptir?",
+    "options": ["A) Dünya", "B) Mars", "C) Jüpiter", "D) Satürn"],
+    "correct": "C) Jüpiter"
+  },
+  {
+    "question": "Hangisi bir kripto para birimi değildir?",
+    "options": ["A) Bitcoin", "B) Ethereum", "C) Ripple", "D) Firewall"],
+    "correct": "D) Firewall"
+  },
+  {
+    "question": "Hangi ülkenin başkenti Canberra'dır?",
+    "options": ["A) Yeni Zelanda", "B) Kanada", "C) Avustralya", "D) Güney Afrika"],
+    "correct": "C) Avustralya"
+  },
+  {
+    "question": "Hangisi bir arama motoru algoritmasıdır?",
+    "options": ["A) PageRank", "B) QuickSort", "C) BubbleSort", "D) Dijkstra"],
+    "correct": "A) PageRank"
+  },
+  {
+    "question": "Hangi element insan vücudunda en bol bulunur?",
+    "options": ["A) Karbon", "B) Hidrojen", "C) Oksijen", "D) Azot"],
+    "correct": "C) Oksijen"
+  },
+  {
+    "question": "Hangi programlama dili Microsoft tarafından geliştirilmiştir?",
+    "options": ["A) Java", "B) C#", "C) Python", "D) JavaScript"],
+    "correct": "B) C#"
+  },
+  {
+    "question": "Hangisi bir kuantum fizikçisidir?",
+    "options": ["A) Albert Einstein", "B) Stephen Hawking", "C) Niels Bohr", "D) Isaac Newton"],
+    "correct": "C) Niels Bohr"
+  },
+  {
+    "question": "Hangi ülkenin bayrağında hilal ve yıldız bulunur?",
+    "options": ["A) Türkiye", "B) Fas", "C) Pakistan", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangisi bir SQL komutu değildir?",
+    "options": ["A) SELECT", "B) FILTER", "C) UPDATE", "D) DELETE"],
+    "correct": "B) FILTER"
+  },
+  {
+    "question": "Hangi element doğada sıvı halde bulunur?",
+    "options": ["A) Brom", "B) Klor", "C) İyot", "D) Flor"],
+    "correct": "A) Brom"
+  },
+  {
+    "question": "Hangisi bir yapay sinir ağı türüdür?",
+    "options": ["A) CNN", "B) RNN", "C) HTTP", "D) SVM"],
+    "correct": "A) CNN"
+  },
+  {
+    "question": "Hangi gezegen en kısa güne dönemine sahiptir?",
+    "options": ["A) Merkür", "B) Venüs", "C) Jüpiter", "D) Mars"],
+    "correct": "A) Merkür"
+  },
+  {
+    "question": "Hangisi bir veri sıkıştırma formatıdır?",
+    "options": ["A) JSON", "B) ZIP", "C) XML", "D) CSV"],
+    "correct": "B) ZIP"
+  },
+  {
+    "question": "Hangi ünlü bilim insanı radyumu keşfetmiştir?",
+    "options": ["A) Marie Curie", "B) Thomas Edison", "C) Alexander Fleming", "D) Louis Pasteur"],
+    "correct": "A) Marie Curie"
+  },
+  {
+    "question": "Hangisi bir internet protokolü versiyonudur?",
+    "options": ["A) IPv4", "B) HTTP/2", "C) TCP", "D) UDP"],
+    "correct": "A) IPv4"
+  },
+  {
+    "question": "Hangi element yanıcı bir gazdır?",
+    "options": ["A) Helyum", "B) Neon", "C) Hidrojen", "D) Argon"],
+    "correct": "C) Hidrojen"
+  },
+  {
+    "question": "Hangisi bir Linux dağıtımıdır?",
+    "options": ["A) Ubuntu", "B) Windows Server", "C) macOS", "D) iOS"],
+    "correct": "A) Ubuntu"
+  },
+  {
+    "question": "Hangi ülke 'Piramitler Ülkesi' olarak bilinir?",
+    "options": ["A) Meksika", "B) Peru", "C) Mısır", "D) Hindistan"],
+    "correct": "C) Mısır"
+  },
+  {
+    "question": "Hangisi bir derin öğrenme çerçevesidir?",
+    "options": ["A) PyTorch", "B) NumPy", "C) Pandas", "D) SciPy"],
+    "correct": "A) PyTorch"
+  },
+  {
+    "question": "Hangi element güneşte en bol bulunur?",
+    "options": ["A) Helyum", "B) Hidrojen", "C) Oksijen", "D) Karbon"],
+    "correct": "B) Hidrojen"
+  },
+  {
+    "question": "Hangisi bir bilgisayar ağı topolojisi değildir?",
+    "options": ["A) Yıldız", "B) Halka", "C) Otoyol", "D) Ağaç"],
+    "correct": "C) Otoyol"
+  },
+  {
+    "question": "Hangi gezegen 'Gaz Devi' olarak sınıflandırılmaz?",
+    "options": ["A) Jüpiter", "B) Satürn", "C) Uranüs", "D) Mars"],
+    "correct": "D) Mars"
+  },
+  {
+    "question": "Hangisi bir veritabanı indeksleme türüdür?",
+    "options": ["A) B-Tree", "B) Hash", "C) Bitmap", "D) Stack"],
+    "correct": "A) B-Tree"
+  },
+  {
+    "question": "Hangi ülkenin başkenti Oslo'dur?",
+    "options": ["A) Finlandiya", "B) İsveç", "C) Norveç", "D) Danimarka"],
+    "correct": "C) Norveç"
+  },
+  {
+    "question": "Hangisi bir yazılım test türüdür?",
+    "options": ["A) Birim Testi", "B) Entegrasyon Testi", "C) Sistem Testi", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi element periyodik tabloda en yüksek erime noktasına sahiptir?",
+    "options": ["A) Tungsten", "B) Demir", "C) Altın", "D) Bakır"],
+    "correct": "A) Tungsten"
+  },
+  {
+    "question": "Hangisi bir bulut bilişim hizmet modelidir?",
+    "options": ["A) IaaS", "B) PaaS", "C) SaaS", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi gezegen 'Mavi Gezegen' olarak bilinir?",
+    "options": ["A) Dünya", "B) Neptün", "C) Uranüs", "D) Venüs"],
+    "correct": "A) Dünya"
+  },
+  {
+    "question": "Hangisi bir kriptografi algoritmasıdır?",
+    "options": ["A) RSA", "B) AES", "C) DES", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi ülkenin başkenti Buenos Aires'dir?",
+    "options": ["A) Brezilya", "B) Arjantin", "C) Şili", "D) Peru"],
+    "correct": "B) Arjantin"
+  },
+  {
+    "question": "Hangisi bir yapay zeka etik ilkesidir?",
+    "options": ["A) Şeffaflık", "B) Adalet", "C) Hesap Verebilirlik", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi element en sert doğal maddedir?",
+    "options": ["A) Altın", "B) Elmas", "C) Grafit", "D) Kuvars"],
+    "correct": "B) Elmas"
+  },
+  {
+    "question": "Hangisi bir sanallaştırma teknolojisidir?",
+    "options": ["A) Docker", "B) Kubernetes", "C) VMware", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi gezegen 'Eskimo' veya 'Clown' bulutsu olarak bilinir?",
+    "options": ["A) Jüpiter", "B) Satürn", "C) Uranüs", "D) Neptün"],
+    "correct": "D) Neptün"
+  },
+  {
+    "question": "Hangisi bir bilgisayar güvenlik tehdidi değildir?",
+    "options": ["A) Fidye Yazılımı", "B) Antivirüs", "C) Truva Atı", "D) Solucan"],
+    "correct": "B) Antivirüs"
+  },
+  {
+    "question": "Hangi ülkenin başkenti Prag'dır?",
+    "options": ["A) Polonya", "B) Macaristan", "C) Çek Cumhuriyeti", "D) Slovakya"],
+    "correct": "C) Çek Cumhuriyeti"
+  },
+  {
+    "question": "Hangisi bir makine öğrenmesi algoritmasıdır?",
+    "options": ["A) KNN", "B) CNN", "C) RNN", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi element 'sıvı altın' olarak bilinir?",
+    "options": ["A) Cıva", "B) Altın", "C) Gümüş", "D) Bakır"],
+    "correct": "A) Cıva"
+  },
+  {
+    "question": "Hangisi bir web geliştirme teknolojisidir?",
+    "options": ["A) React", "B) Angular", "C) Vue.js", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi gezegen 'Sabah Yıldızı' olarak da bilinir?",
+    "options": ["A) Merkür", "B) Venüs", "C) Mars", "D) Jüpiter"],
+    "correct": "B) Venüs"
+  },
+  {
+    "question": "Hangisi bir veri tabanı normalizasyon formudur?",
+    "options": ["A) 1NF", "B) 2NF", "C) 3NF", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi ülkenin başkenti Bangkok'tur?",
+    "options": ["A) Vietnam", "B) Kamboçya", "C) Tayland", "D) Malezya"],
+    "correct": "C) Tayland"
+  },
+  {
+    "question": "Hangisi bir yazılım geliştirme metodolojisidir?",
+    "options": ["A) Agile", "B) Scrum", "C) Waterfall", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi element atom numarası 1'dir?",
+    "options": ["A) Helyum", "B) Hidrojen", "C) Lityum", "D) Berilyum"],
+    "correct": "B) Hidrojen"
+  },
+  {
+    "question": "Hangisi bir konteyner orkestrasyon aracıdır?",
+    "options": ["A) Docker", "B) Kubernetes", "C) Jenkins", "D) Ansible"],
+    "correct": "B) Kubernetes"
+  },
+  {
+    "question": "Hangi gezegen en büyük halka sistemine sahiptir?",
+    "options": ["A) Jüpiter", "B) Satürn", "C) Uranüs", "D) Neptün"],
+    "correct": "B) Satürn"
+  },
+  {
+    "question": "Hangisi bir şifreleme anahtarı türü değildir?",
+    "options": ["A) Açık anahtar", "B) Özel anahtar", "C) Oturum anahtarı", "D) Yazılım anahtarı"],
+    "correct": "D) Yazılım anahtarı"
+  },
+  {
+    "question": "Hangi ülkenin başkenti Kahire'dir?",
+    "options": ["A) Fas", "B) Cezayir", "C) Mısır", "D) Libya"],
+    "correct": "C) Mısır"
+  },
+  {
+    "question": "Hangisi bir veri görselleştirme aracıdır?",
+    "options": ["A) Tableau", "B) Power BI", "C) Matplotlib", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi element radyoaktif bir gazdır?",
+    "options": ["A) Radon", "B) Ksenon", "C) Kripton", "D) Argon"],
+    "correct": "A) Radon"
+  },
+  {
+    "question": "Hangisi bir sürüm kontrol sistemidir?",
+    "options": ["A) Git", "B) SVN", "C) Mercurial", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+    "options": ["A) Venüs", "B) Mars", "C) Jüpiter", "D) Merkür"],
+    "correct": "B) Mars"
+  },
+  {
+    "question": "Hangisi bir ağ güvenlik duvarı türüdür?",
+    "options": ["A) Stateful", "B) Stateless", "C) Proxy", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi ülkenin başkenti Ottawa'dır?",
+    "options": ["A) ABD", "B) Kanada", "C) Meksika", "D) Küba"],
+    "correct": "B) Kanada"
+  },
+  {
+    "question": "Hangisi bir NoSQL veritabanı türüdür?",
+    "options": ["A) Belge Tabanlı", "B) Anahtar-Değer", "C) Sütun Tabanlı", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi element en yüksek elektrik iletkenliğine sahiptir?",
+    "options": ["A) Gümüş", "B) Bakır", "C) Altın", "D) Alüminyum"],
+    "correct": "A) Gümüş"
+  },
+  {
+    "question": "Hangisi bir DevOps aracıdır?",
+    "options": ["A) Jenkins", "B) Docker", "C) Ansible", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi gezegen güneş sisteminin en büyük gezegenidir?",
+    "options": ["A) Dünya", "B) Satürn", "C) Jüpiter", "D) Neptün"],
+    "correct": "C) Jüpiter"
+  },
+  {
+    "question": "Hangisi bir siber saldırı türüdür?",
+    "options": ["A) DDoS", "B) Phishing", "C) SQL Injection", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi ülkenin başkenti Tokyo'dur?",
+    "options": ["A) Çin", "B) Güney Kore", "C) Japonya", "D) Tayvan"],
+    "correct": "C) Japonya"
+  },
+  {
+    "question": "Hangisi bir yapay zeka uygulama alanıdır?",
+    "options": ["A) Doğal Dil İşleme", "B) Bilgisayarlı Görü", "C) Robotik", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi element oda sıcaklığında sıvıdır?",
+    "options": ["A) Cıva", "B) Brom", "C) Sodyum", "D) Potasyum"],
+    "correct": "A) Cıva"
+  },
+  {
+    "question": "Hangisi bir API türüdür?",
+    "options": ["A) REST", "B) SOAP", "C) GraphQL", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi gezegen 'Gezgin Yıldız' olarak bilinir?",
+    "options": ["A) Venüs", "B) Mars", "C) Jüpiter", "D) Satürn"],
+    "correct": "A) Venüs"
+  },
+  {
+    "question": "Hangisi bir veri madenciliği tekniğidir?",
+    "options": ["A) Kümeleme", "B) Sınıflandırma", "C) Birliktelik Kuralları", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi ülkenin başkenti Madrid'dir?",
+    "options": ["A) Portekiz", "B) İspanya", "C) Fransa", "D) İtalya"],
+    "correct": "B) İspanya"
+  },
+  {
+    "question": "Hangisi bir blockchain uygulamasıdır?",
+    "options": ["A) Bitcoin", "B) Ethereum", "C) Akıllı Kontratlar", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi element en hafiftir?",
+    "options": ["A) Helyum", "B) Hidrojen", "C) Lityum", "D) Berilyum"],
+    "correct": "B) Hidrojen"
+  },
+  {
+    "question": "Hangisi bir bulut depolama servisidir?",
+    "options": ["A) AWS S3", "B) Google Drive", "C) Dropbox", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi gezegen en fazla doğal uyduya sahiptir?",
+    "options": ["A) Satürn", "B) Jüpiter", "C) Uranüs", "D) Neptün"],
+    "correct": "A) Satürn"
+  },
+  {
+    "question": "Hangisi bir biyometrik kimlik doğrulama yöntemidir?",
+    "options": ["A) Parmak izi", "B) Yüz tanıma", "C) İris tarama", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi ülkenin başkenti Yeni Delhi'dir?",
+    "options": ["A) Pakistan", "B) Bangladeş", "C) Hindistan", "D) Sri Lanka"],
+    "correct": "C) Hindistan"
+  },
+  {
+    "question": "Hangisi bir yapay sinir ağı katmanıdır?",
+    "options": ["A) Giriş Katmanı", "B) Gizli Katman", "C) Çıkış Katmanı", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi element canlı organizmalarda en bol bulunur?",
+    "options": ["A) Karbon", "B) Hidrojen", "C) Oksijen", "D) Azot"],
+    "correct": "C) Oksijen"
+  },
+  {
+    "question": "Hangisi bir yazılım mimarisi modelidir?",
+    "options": ["A) MVC", "B) Mikroservis", "C) Monolitik", "D) Hepsi"],
+    "correct": "D) Hepsi"
   }
 ]
