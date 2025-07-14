@@ -1,17 +1,527 @@
 [
-        {
-                "question": "Türkiye'nin başkenti hangi şehirdir?",
-                "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
-                "correct": "Ankara"
-        },
-        {
-                "question": "Bir haftada kaç gün vardır?",
-                "options": ["5", "6", "7", "8"],
-                "correct": "7"
-        },
-        {
-                "question": "İstiklal Marşı'nın yazarı kimdir?",
-                "options": ["Mehmet Akif Ersoy", "Namık Kemal", "Orhan Veli", "Nazım Hikmet"],
-                "correct": "Mehmet Akif Ersoy"
-        }
+  {
+    "question": "Türkiye'nin başkenti hangi şehirdir?",
+    "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+    "correct": "Ankara"
+  },
+  {
+    "question": "Bir haftada kaç gün vardır?",
+    "options": ["5", "6", "7", "8"],
+    "correct": "7"
+  },
+  {
+    "question": "Güneş sistemimizde kaç gezegen vardır?",
+    "options": ["7", "8", "9", "10"],
+    "correct": "8"
+  },
+  {
+    "question": "Türkiye'nin en kalabalık şehri hangisidir?",
+    "options": ["Ankara", "İzmir", "İstanbul", "Bursa"],
+    "correct": "İstanbul"
+  },
+  {
+    "question": "Bir yılda kaç ay vardır?",
+    "options": ["10", "11", "12", "13"],
+    "correct": "12"
+  },
+  {
+    "question": "Hangi mevsimde kar yağar?",
+    "options": ["Yaz", "Sonbahar", "İlkbahar", "Kış"],
+    "correct": "Kış"
+  },
+  {
+    "question": "Türk bayrağının ana rengi nedir?",
+    "options": ["Mavi", "Yeşil", "Kırmızı", "Sarı"],
+    "correct": "Kırmızı"
+  },
+  {
+    "question": "2 + 2 kaç eder?",
+    "options": ["3", "4", "5", "6"],
+    "correct": "4"
+  },
+  {
+    "question": "Hangi hayvan 'mırlamak' sesi çıkarır?",
+    "options": ["Köpek", "Kedi", "Kuş", "At"],
+    "correct": "Kedi"
+  },
+  {
+    "question": "Dünya'nın uydusu hangisidir?",
+    "options": ["Mars", "Venüs", "Jüpiter", "Ay"],
+    "correct": "Ay"
+  },
+  {
+    "question": "Hangi meyve kırmızı renkte olabilir?",
+    "options": ["Muz", "Elma", "Portakal", "Armut"],
+    "correct": "Elma"
+  },
+  {
+    "question": "Türkiye'nin para birimi nedir?",
+    "options": ["Dolar", "Euro", "Lira", "Pound"],
+    "correct": "Lira"
+  },
+  {
+    "question": "Hangi mevsimde ağaçlar yapraklarını döker?",
+    "options": ["İlkbahar", "Yaz", "Sonbahar", "Kış"],
+    "correct": "Sonbahar"
+  },
+  {
+    "question": "Su kaç derecede donar?",
+    "options": ["-10°C", "0°C", "10°C", "100°C"],
+    "correct": "0°C"
+  },
+  {
+    "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+    "options": ["Venüs", "Mars", "Jüpiter", "Satürn"],
+    "correct": "Mars"
+  },
+  {
+    "question": "Bir saatte kaç dakika vardır?",
+    "options": ["30", "60", "90", "100"],
+    "correct": "60"
+  },
+  {
+    "question": "Hangi ülke Eyfel Kulesi'ne ev sahipliği yapar?",
+    "options": ["İtalya", "İspanya", "Fransa", "Almanya"],
+    "correct": "Fransa"
+  },
+  {
+    "question": "Hangi organ kan pompalar?",
+    "options": ["Beyin", "Karaciğer", "Kalp", "Akciğer"],
+    "correct": "Kalp"
+  },
+  {
+    "question": "Hangi renk gökkuşağında bulunmaz?",
+    "options": ["Kırmızı", "Sarı", "Siyah", "Mavi"],
+    "correct": "Siyah"
+  },
+  {
+    "question": "Hangi meyve asidik özelliktedir?",
+    "options": ["Muz", "Limon", "Üzüm", "Kavun"],
+    "correct": "Limon"
+  },
+  {
+    "question": "Türkiye'nin en uzun nehri hangisidir?",
+    "options": ["Sakarya", "Kızılırmak", "Fırat", "Dicle"],
+    "correct": "Kızılırmak"
+  },
+  {
+    "question": "Hangi element sembolü 'O' ile gösterilir?",
+    "options": ["Altın", "Oksijen", "Gümüş", "Karbon"],
+    "correct": "Oksijen"
+  },
+  {
+    "question": "Hangi hayvan dünyanın en büyük memelisidir?",
+    "options": ["Fil", "Zürafa", "Mavi Balina", "Köpekbalığı"],
+    "correct": "Mavi Balina"
+  },
+  {
+    "question": "Hangi gezegen en sıcaktır?",
+    "options": ["Mars", "Venüs", "Merkür", "Jüpiter"],
+    "correct": "Venüs"
+  },
+  {
+    "question": "Türkiye'nin en büyük gölü hangisidir?",
+    "options": ["Tuz Gölü", "Van Gölü", "Eğirdir Gölü", "Beyşehir Gölü"],
+    "correct": "Van Gölü"
+  },
+  {
+    "question": "Hangi meyve tropikal bir meyvedir?",
+    "options": ["Elma", "Armut", "Muz", "Üzüm"],
+    "correct": "Muz"
+  },
+  {
+    "question": "Hangi renk barışı simgeler?",
+    "options": ["Kırmızı", "Siyah", "Beyaz", "Pembe"],
+    "correct": "Beyaz"
+  },
+  {
+    "question": "Hangi hayvan 'inek' olarak bilinir?",
+    "options": ["Koyun", "Keçi", "Sığır", "At"],
+    "correct": "Sığır"
+  },
+  {
+    "question": "Hangi element sembolü 'H' ile gösterilir?",
+    "options": ["Helyum", "Hidrojen", "Cıva", "Kurşun"],
+    "correct": "Hidrojen"
+  },
+  {
+    "question": "Hangi mevsimde çiçekler açar?",
+    "options": ["Kış", "Sonbahar", "Yaz", "İlkbahar"],
+    "correct": "İlkbahar"
+  },
+  {
+    "question": "Türkiye'nin en yüksek dağı hangisidir?",
+    "options": ["Erciyes", "Süphan", "Ağrı Dağı", "Uludağ"],
+    "correct": "Ağrı Dağı"
+  },
+  {
+    "question": "Hangi gezegen 'Gaz Devi' olarak bilinir?",
+    "options": ["Mars", "Venüs", "Jüpiter", "Merkür"],
+    "correct": "Jüpiter"
+  },
+  {
+    "question": "Bir metre kaç santimetredir?",
+    "options": ["10", "100", "1000", "10000"],
+    "correct": "100"
+  },
+  {
+    "question": "Hangi ülke piramitleriyle ünlüdür?",
+    "options": ["Yunanistan", "Mısır", "İtalya", "Türkiye"],
+    "correct": "Mısır"
+  },
+  {
+    "question": "Hangi organ nefes almamızı sağlar?",
+    "options": ["Kalp", "Karaciğer", "Böbrek", "Akciğer"],
+    "correct": "Akciğer"
+  },
+  {
+    "question": "Hangi renk güneşi temsil eder?",
+    "options": ["Mavi", "Yeşil", "Sarı", "Mor"],
+    "correct": "Sarı"
+  },
+  {
+    "question": "Hangi meyve turunçgillerdendir?",
+    "options": ["Elma", "Portakal", "Muz", "Kiraz"],
+    "correct": "Portakal"
+  },
+  {
+    "question": "Türkiye'nin en büyük adası hangisidir?",
+    "options": ["Bozcaada", "Gökçeada", "Marmara Adası", "Avşa Adası"],
+    "correct": "Gökçeada"
+  },
+  {
+    "question": "Hangi element sembolü 'Fe' ile gösterilir?",
+    "options": ["Flor", "Fermiyum", "Demir", "Fosfor"],
+    "correct": "Demir"
+  },
+  {
+    "question": "Hangi hayvan 'kral' olarak anılır?",
+    "options": ["Fil", "Aslan", "Kaplan", "Kartal"],
+    "correct": "Aslan"
+  },
+  {
+    "question": "Hangi gezegen halkalarıyla ünlüdür?",
+    "options": ["Mars", "Jüpiter", "Satürn", "Uranüs"],
+    "correct": "Satürn"
+  },
+  {
+    "question": "Bir kilogram kaç gramdır?",
+    "options": ["100", "500", "1000", "10000"],
+    "correct": "1000"
+  },
+  {
+    "question": "Hangi ülke kangurularıyla ünlüdür?",
+    "options": ["Yeni Zelanda", "Avustralya", "Güney Afrika", "Brezilya"],
+    "correct": "Avustralya"
+  },
+  {
+    "question": "Hangi organ düşünmemizi sağlar?",
+    "options": ["Kalp", "Karaciğer", "Beyin", "Mide"],
+    "correct": "Beyin"
+  },
+  {
+    "question": "Hangi renk ormanı temsil eder?",
+    "options": ["Mavi", "Kırmızı", "Yeşil", "Sarı"],
+    "correct": "Yeşil"
+  },
+  {
+    "question": "Hangi meyve kurutularak kuru üzüm olur?",
+    "options": ["Elma", "Üzüm", "Kayısı", "Erik"],
+    "correct": "Üzüm"
+  },
+  {
+    "question": "Türkiye'nin en büyük kapalı çarşısı nerededir?",
+    "options": ["Ankara", "İzmir", "İstanbul", "Bursa"],
+    "correct": "İstanbul"
+  },
+  {
+    "question": "Hangi element sembolü 'Au' ile gösterilir?",
+    "options": ["Gümüş", "Altın", "Alüminyum", "Argon"],
+    "correct": "Altın"
+  },
+  {
+    "question": "Hangi hayvan en hızlı koşar?",
+    "options": ["Çita", "Leopar", "Antilop", "At"],
+    "correct": "Çita"
+  },
+  {
+    "question": "Hangi gezegen en küçüktür?",
+    "options": ["Venüs", "Merkür", "Mars", "Dünya"],
+    "correct": "Merkür"
+  },
+  {
+    "question": "Bir litre kaç mililitredir?",
+    "options": ["10", "100", "500", "1000"],
+    "correct": "1000"
+  },
+  {
+    "question": "Hangi ülke Big Ben saat kulesine ev sahipliği yapar?",
+    "options": ["Fransa", "İtalya", "Almanya", "İngiltere"],
+    "correct": "İngiltere"
+  },
+  {
+    "question": "Hangi organ kanı temizler?",
+    "options": ["Kalp", "Karaciğer", "Böbrek", "Akciğer"],
+    "correct": "Böbrek"
+  },
+  {
+    "question": "Hangi renk gökyüzünü temsil eder?",
+    "options": ["Mavi", "Yeşil", "Sarı", "Turuncu"],
+    "correct": "Mavi"
+  },
+  {
+    "question": "Hangi meyve 'dikenli' olabilir?",
+    "options": ["Karpuz", "Kavun", "Kivi", "Ananas"],
+    "correct": "Ananas"
+  },
+  {
+    "question": "Türkiye'nin en büyük havalimanı hangisidir?",
+    "options": ["Esenboğa", "Adnan Menderes", "İstanbul Havalimanı", "Sabiha Gökçen"],
+    "correct": "İstanbul Havalimanı"
+  },
+  {
+    "question": "Hangi element sembolü 'Ag' ile gösterilir?",
+    "options": ["Altın", "Gümüş", "Argon", "Alüminyum"],
+    "correct": "Gümüş"
+  },
+  {
+    "question": "Hangi hayvan en uzun boya sahiptir?",
+    "options": ["Fil", "Zürafa", "Deve", "At"],
+    "correct": "Zürafa"
+  },
+  {
+    "question": "Hangi gezegen 'Mavi Gezegen' olarak bilinir?",
+    "options": ["Dünya", "Neptün", "Uranüs", "Venüs"],
+    "correct": "Dünya"
+  },
+  {
+    "question": "Bir yüzyıl kaç yıldır?",
+    "options": ["10", "50", "100", "1000"],
+    "correct": "100"
+  },
+  {
+    "question": "Hangi ülke Kolezyum'a ev sahipliği yapar?",
+    "options": ["Yunanistan", "İtalya", "Türkiye", "Mısır"],
+    "correct": "İtalya"
+  },
+  {
+    "question": "Hangi organ sindirimde görev alır?",
+    "options": ["Beyin", "Kalp", "Mide", "Akciğer"],
+    "correct": "Mide"
+  },
+  {
+    "question": "Hangi renk ateşi temsil eder?",
+    "options": ["Mavi", "Yeşil", "Kırmızı", "Mor"],
+    "correct": "Kırmızı"
+  },
+  {
+    "question": "Hangi meyve 'küçük kırmızı meyve' olarak bilinir?",
+    "options": ["Elma", "Kiraz", "Çilek", "Üzüm"],
+    "correct": "Çilek"
+  },
+  {
+    "question": "Türkiye'nin en uzun köprüsü hangisidir?",
+    "options": ["15 Temmuz Şehitler Köprüsü", "Osman Gazi Köprüsü", "Yavuz Sultan Selim Köprüsü", "Çanakkale Köprüsü"],
+    "correct": "Çanakkale Köprüsü"
+  },
+  {
+    "question": "Hangi element sembolü 'Na' ile gösterilir?",
+    "options": ["Nikel", "Nitrojen", "Sodyum", "Neon"],
+    "correct": "Sodyum"
+  },
+  {
+    "question": "Hangi hayvan en yavaş hareket eder?",
+    "options": ["Kaplumbağa", "Salyangoz", "Tembel Hayvan", "Köpek Balığı"],
+    "correct": "Tembel Hayvan"
+  },
+  {
+    "question": "Hangi gezegen en soğuktur?",
+    "options": ["Mars", "Jüpiter", "Satürn", "Neptün"],
+    "correct": "Neptün"
+  },
+  {
+    "question": "Bir düzine kaç adettir?",
+    "options": ["6", "12", "24", "36"],
+    "correct": "12"
+  },
+  {
+    "question": "Hangi ülke Keops Piramidi'ne ev sahipliği yapar?",
+    "options": ["Irak", "İran", "Mısır", "Suudi Arabistan"],
+    "correct": "Mısır"
+  },
+  {
+    "question": "Hangi organ kan şekerini düzenler?",
+    "options": ["Böbrek", "Karaciğer", "Pankreas", "Dalak"],
+    "correct": "Pankreas"
+  },
+  {
+    "question": "Hangi renk geceyi temsil eder?",
+    "options": ["Beyaz", "Siyah", "Mavi", "Gri"],
+    "correct": "Siyah"
+  },
+  {
+    "question": "Hangi meyve 'yeşil kabuklu' olur?",
+    "options": ["Portakal", "Mandalina", "Kivi", "Muz"],
+    "correct": "Kivi"
+  },
+  {
+    "question": "Türkiye'nin en büyük barajı hangisidir?",
+    "options": ["Atatürk Barajı", "Keban Barajı", "Karakaya Barajı", "Ilısu Barajı"],
+    "correct": "Atatürk Barajı"
+  },
+  {
+    "question": "Hangi element sembolü 'Cu' ile gösterilir?",
+    "options": ["Kalsiyum", "Karbon", "Bakır", "Krom"],
+    "correct": "Bakır"
+  },
+  {
+    "question": "Hangi hayvan 'sürüngen' sınıfındandır?",
+    "options": ["Kurbağa", "Yılan", "Balık", "Penguen"],
+    "correct": "Yılan"
+  },
+  {
+    "question": "Hangi gezegen 'Sabah Yıldızı' olarak bilinir?",
+    "options": ["Mars", "Venüs", "Merkür", "Jüpiter"],
+    "correct": "Venüs"
+  },
+  {
+    "question": "Bir futbol maçı kaç dakika sürer?",
+    "options": ["60", "75", "90", "120"],
+    "correct": "90"
+  },
+  {
+    "question": "Hangi ülke Akropolis'e ev sahipliği yapar?",
+    "options": ["İtalya", "Yunanistan", "Türkiye", "Mısır"],
+    "correct": "Yunanistan"
+  },
+  {
+    "question": "Hangi organ vücut ısısını düzenler?",
+    "options": ["Beyin", "Deri", "Kalp", "Akciğer"],
+    "correct": "Deri"
+  },
+  {
+    "question": "Hangi renk güneş batımını temsil eder?",
+    "options": ["Mavi", "Yeşil", "Turuncu", "Mor"],
+    "correct": "Turuncu"
+  },
+  {
+    "question": "Hangi meyve 'sert çekirdekli' bir meyvedir?",
+    "options": ["Muz", "Karpuz", "Şeftali", "Portakal"],
+    "correct": "Şeftali"
+  },
+  {
+    "question": "Türkiye'nin en büyük gölü hangisidir?",
+    "options": ["Tuz Gölü", "Beyşehir Gölü", "Van Gölü", "Eğirdir Gölü"],
+    "correct": "Van Gölü"
+  },
+  {
+    "question": "Hangi element sembolü 'Pb' ile gösterilir?",
+    "options": ["Platin", "Potasyum", "Kurşun", "Fosfor"],
+    "correct": "Kurşun"
+  },
+  {
+    "question": "Hangi hayvan 'yusufçuk' olarak bilinir?",
+    "options": ["Sinek", "Kelebek", "Arı", "Kırkayak"],
+    "correct": "Sinek"
+  },
+  {
+    "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+    "options": ["Mars", "Venüs", "Jüpiter", "Satürn"],
+    "correct": "Mars"
+  },
+  {
+    "question": "Bir asır kaç yıldır?",
+    "options": ["10", "50", "100", "1000"],
+    "correct": "100"
+  },
+  {
+    "question": "Hangi ülke Taj Mahal'e ev sahipliği yapar?",
+    "options": ["Çin", "Hindistan", "Pakistan", "Bangladeş"],
+    "correct": "Hindistan"
+  },
+  {
+    "question": "Hangi organ kan üretir?",
+    "options": ["Karaciğer", "Dalak", "Kemik İliği", "Pankreas"],
+    "correct": "Kemik İliği"
+  },
+  {
+    "question": "Hangi renk karı temsil eder?",
+    "options": ["Beyaz", "Mavi", "Gri", "Siyah"],
+    "correct": "Beyaz"
+  },
+  {
+    "question": "Hangi meyve 'salkım' şeklinde büyür?",
+    "options": ["Elma", "Muz", "Üzüm", "Karpuz"],
+    "correct": "Üzüm"
+  },
+  {
+    "question": "Türkiye'nin en doğusundaki il hangisidir?",
+    "options": ["Van", "Hakkari", "Ağrı", "Iğdır"],
+    "correct": "Iğdır"
+  },
+  {
+    "question": "Hangi element sembolü 'Hg' ile gösterilir?",
+    "options": ["Helyum", "Hidrojen", "Cıva", "Gadolinyum"],
+    "correct": "Cıva"
+  },
+  {
+    "question": "Hangi hayvan 'kutup ayısı' olarak bilinir?",
+    "options": ["Panda", "Ayı", "Kutup Ayısı", "Boğa"],
+    "correct": "Kutup Ayısı"
+  },
+  {
+    "question": "Hangi gezegen 'Dev Gezegen' olarak bilinir?",
+    "options": ["Mars", "Jüpiter", "Satürn", "Uranüs"],
+    "correct": "Jüpiter"
+  },
+  {
+    "question": "Bir kilometre kaç metredir?",
+    "options": ["10", "100", "500", "1000"],
+    "correct": "1000"
+  },
+  {
+    "question": "Hangi ülke Sidney Opera Binası'na ev sahipliği yapar?",
+    "options": ["Yeni Zelanda", "Avustralya", "Güney Afrika", "Kanada"],
+    "correct": "Avustralya"
+  },
+  {
+    "question": "Hangi organ vücuttaki en büyük organdır?",
+    "options": ["Karaciğer", "Deri", "Akciğer", "Kalp"],
+    "correct": "Deri"
+  },
+  {
+    "question": "Hangi renk orman yangınını temsil eder?",
+    "options": ["Mavi", "Kırmızı", "Yeşil", "Sarı"],
+    "correct": "Kırmızı"
+  },
+  {
+    "question": "Hangi meyve 'dünyanın en büyük meyvesi' olabilir?",
+    "options": ["Karpuz", "Muz", "Ananas", "Portakal"],
+    "correct": "Karpuz"
+  },
+  {
+    "question": "Türkiye'nin en batısındaki il hangisidir?",
+    "options": ["İzmir", "Çanakkale", "Edirne", "Balıkesir"],
+    "correct": "Çanakkale"
+  },
+  {
+    "question": "Hangi element sembolü 'C' ile gösterilir?",
+    "options": ["Kalsiyum", "Karbon", "Klor", "Krom"],
+    "correct": "Karbon"
+  },
+  {
+    "question": "Hangi hayvan 'denizatı' olarak bilinir?",
+    "options": ["Balina", "Yunus", "Denizatı", "Köpekbalığı"],
+    "correct": "Denizatı"
+  },
+  {
+    "question": "Hangi gezegen 'Mavi Dev' olarak bilinir?",
+    "options": ["Neptün", "Uranüs", "Satürn", "Jüpiter"],
+    "correct": "Neptün"
+  },
+  {
+    "question": "Bir ton kaç kilogramdır?",
+    "options": ["100", "500", "1000", "10000"],
+    "correct": "1000"
+  }
 ]
