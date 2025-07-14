@@ -1,1 +1,17 @@
-
+[
+  {
+    "question": "Altın elementinin kimyasal sembolü nedir?",
+    "options": ["Al", "Ag", "Au", "Ar"],
+    "correct": "Au"
+  },
+  {
+    "question": "Hangisi Rönesans döneminin sanatçılarından değildir?",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Raffaello", "Pablo Picasso"],
+    "correct": "Pablo Picasso"
+  },
+  {
+    "question": "Küba Füze Krizi hangi yıl gerçekleşmiştir?",
+    "options": ["1952", "1962", "1972", "1982"],
+    "correct": "1962"
+  }
+]
