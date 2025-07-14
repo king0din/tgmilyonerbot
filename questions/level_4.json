@@ -1,1 +1,17 @@
-
+[
+  {
+    "question": "Hangisi bir Orta Asya Türk devleti değildir?",
+    "options": ["Kazakistan", "Türkmenistan", "Özbekistan", "Azerbaycan"],
+    "correct": "Azerbaycan"
+  },
+  {
+    "question": "Nobel ödülleri hangi ülkede verilmektedir?",
+    "options": ["Norveç", "İsveç", "Danimarka", "Finlandiya"],
+    "correct": "İsveç"
+  },
+  {
+    "question": "Dünyanın en büyük okyanusu hangisidir?",
+    "options": ["Atlantik", "Pasifik", "Hint", "Arktik"],
+    "correct": "Pasifik"
+  }
+]
