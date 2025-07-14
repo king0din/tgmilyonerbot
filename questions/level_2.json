@@ -1,1 +1,17 @@
-
+[
+  {
+    "question": "Türkiye'de kaç il vardır?",
+    "options": ["71", "78", "81", "86"],
+    "correct": "81"
+  },
+  {
+    "question": "Hangisi Türkiye'nin komşu ülkesi değildir?",
+    "options": ["İran", "Irak", "Mısır", "Suriye"],
+    "correct": "Mısır"
+  },
+  {
+    "question": "Hangisi bir doğal sayıdır?",
+    "options": ["-1", "0", "1/2", "π (pi)"],
+    "correct": "0"
+  }
+]
