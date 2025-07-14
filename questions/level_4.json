@@ -1,17 +1,537 @@
 [
   {
-    "question": "Hangisi bir Orta Asya Türk devleti değildir?",
-    "options": ["Kazakistan", "Türkmenistan", "Özbekistan", "Azerbaycan"],
-    "correct": "Azerbaycan"
+    "question": "Hangi elementin atom numarası 79'dur?",
+    "options": ["Gümüş", "Cıva", "Altın", "Platin"],
+    "correct": "Altın"
   },
   {
-    "question": "Nobel ödülleri hangi ülkede verilmektedir?",
-    "options": ["Norveç", "İsveç", "Danimarka", "Finlandiya"],
-    "correct": "İsveç"
+    "question": "Osmanlı İmparatorluğu'nda ilk daimi elçilik nerede açılmıştır?",
+    "options": ["Paris", "Londra", "Viyana", "Berlin"],
+    "correct": "Londra"
   },
   {
-    "question": "Dünyanın en büyük okyanusu hangisidir?",
-    "options": ["Atlantik", "Pasifik", "Hint", "Arktik"],
-    "correct": "Pasifik"
+    "question": "Güneş Sistemi'nde 'Grand Tack Hipotezi' hangi olayı açıklar?",
+    "options": ["Gezegen oluşumu", "Jüpiter'in göçü", "Ay'ın oluşumu", "Kuiper kuşağı"],
+    "correct": "Jüpiter'in göçü"
+  },
+  {
+    "question": "Türkiye'nin ilk nükleer araştırma reaktörü nerededir?",
+    "options": ["Ankara", "İstanbul", "İzmir", "Kocaeli"],
+    "correct": "İstanbul"
+  },
+  {
+    "question": "Hangi yazar 'Bin Dokuz Yüz Seksen Dört' romanını yazmıştır?",
+    "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "H.G. Wells"],
+    "correct": "George Orwell"
+  },
+  {
+    "question": "Kuantum dolanıklığı ilk kez hangi deneyle doğrulanmıştır?",
+    "options": ["Stern-Gerlach", "Young Deneyi", "Bell Testi", "Michelson-Morley"],
+    "correct": "Bell Testi"
+  },
+  {
+    "question": "İlk Türk denizaltısı 'TCG Atılay' hangi ülkeden alınmıştır?",
+    "options": ["Almanya", "ABD", "İngiltere", "İtalya"],
+    "correct": "Almanya"
+  },
+  {
+    "question": "Paleomanyetizma çalışmaları hangi bilimsel teoriyi destekler?",
+    "options": ["Kıtaların kayması", "Büyük Patlama", "Evrim", "İzafiyet"],
+    "correct": "Kıtaların kayması"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli gözlem uydusu hangisidir?",
+    "options": ["Türksat 6A", "RASAT", "GÖKTÜRK-2", "İMECE"],
+    "correct": "RASAT"
+  },
+  {
+    "question": "Hangi matematikçi 'Son Teorem'ini ispatlamıştır?",
+    "options": ["Andrew Wiles", "Terence Tao", "Grigori Perelman", "Shinichi Mochizuki"],
+    "correct": "Andrew Wiles"
+  },
+  {
+    "question": "CRISPR-Cas9 teknolojisi hangi alanda devrim yaratmıştır?",
+    "options": ["Gen düzenleme", "Nanorobotik", "Yapay zeka", "Kuantum hesaplama"],
+    "correct": "Gen düzenleme"
+  },
+  {
+    "question": "Türk Dil Kurumu hangi yıl kurulmuştur?",
+    "options": ["1926", "1932", "1936", "1940"],
+    "correct": "1932"
+  },
+  {
+    "question": "Hangi element süperiletkenlik araştırmalarında kritik rol oynar?",
+    "options": ["Niyobyum", "İtriyum", "Sezyum", "Rubidyum"],
+    "correct": "İtriyum"
+  },
+  {
+    "question": "İlk Osmanlı anayasası hangi dönemde ilan edilmiştir?",
+    "options": ["Tanzimat", "Meşrutiyet", "Lale Devri", "Islahat Fermanı"],
+    "correct": "Meşrutiyet"
+  },
+  {
+    "question": "Kara deliklerin 'olay ufku' terimini ilk kez kim kullanmıştır?",
+    "options": ["Albert Einstein", "John Wheeler", "Stephen Hawking", "Karl Schwarzschild"],
+    "correct": "Karl Schwarzschild"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli helikopter motoru hangisidir?",
+    "options": ["TEI-TS1400", "Kale-3500", "TRMotor-500", "TUSAŞ-T900"],
+    "correct": "TEI-TS1400"
+  },
+  {
+    "question": "Hangi filozof 'Süper İnsan' kavramını ortaya atmıştır?",
+    "options": ["Sokrates", "Friedrich Nietzsche", "Arthur Schopenhauer", "Jean-Paul Sartre"],
+    "correct": "Friedrich Nietzsche"
+  },
+  {
+    "question": "DNA'nın ikili sarmal yapısı hangi yıl keşfedilmiştir?",
+    "options": ["1944", "1953", "1962", "1971"],
+    "correct": "1953"
+  },
+  {
+    "question": "Türkiye'de ilk petrol hangi bölgede bulunmuştur?",
+    "options": ["Batman", "Adıyaman", "Siirt", "Raman"],
+    "correct": "Raman"
+  },
+  {
+    "question": "Hangi bilim insanı kara deliklerin buharlaşması teorisini geliştirmiştir?",
+    "options": ["Roger Penrose", "Stephen Hawking", "Kip Thorne", "Albert Einstein"],
+    "correct": "Stephen Hawking"
+  },
+  {
+    "question": "Osmanlı'da ilk kağıt para hangi padişah döneminde basılmıştır?",
+    "options": ["II. Mahmut", "Abdülmecid", "Abdülaziz", "II. Abdülhamit"],
+    "correct": "Abdülmecid"
+  },
+  {
+    "question": "Standart Model'de kaç temel parçacık vardır?",
+    "options": ["12", "17", "24", "31"],
+    "correct": "17"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli sismik araştırma gemisi hangisidir?",
+    "options": ["Oruç Reis", "Barbaros Hayreddin Paşa", "MTA Sismik 1", "TCG Alemdar"],
+    "correct": "Oruç Reis"
+  },
+  {
+    "question": "Hangi romancı 'Ulysses' eseriyle bilinir?",
+    "options": ["James Joyce", "Virginia Woolf", "Franz Kafka", "Marcel Proust"],
+    "correct": "James Joyce"
+  },
+  {
+    "question": "Hormon reseptörlerini keşfeden bilim insanı kimdir?",
+    "options": ["Rosalyn Yalow", "Robert Lefkowitz", "Roger Guillemin", "Andrew Schally"],
+    "correct": "Robert Lefkowitz"
+  },
+  {
+    "question": "İlk Türk uydu yer istasyonu nerede kurulmuştur?",
+    "options": ["Ankara", "İstanbul", "Gölbaşı", "Akyurt"],
+    "correct": "Gölbaşı"
+  },
+  {
+    "question": "Hangi element nükleer reaktörlerde moderatör olarak kullanılır?",
+    "options": ["Bor", "Grafit", "Uranyum", "Plütonyum"],
+    "correct": "Grafit"
+  },
+  {
+    "question": "Kurtuluş Savaşı'nda 'Dumlupınar Meydan Muharebesi' hangi tarihte yapılmıştır?",
+    "options": ["26 Ağustos 1922", "30 Ağustos 1922", "9 Eylül 1922", "11 Ekim 1922"],
+    "correct": "30 Ağustos 1922"
+  },
+  {
+    "question": "Karanlık maddeyi ilk öne süren astronom kimdir?",
+    "options": ["Edwin Hubble", "Vera Rubin", "Fritz Zwicky", "Carl Sagan"],
+    "correct": "Fritz Zwicky"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli elektrikli treni hangi şehirde hizmete girmiştir?",
+    "options": ["Ankara", "İstanbul", "İzmir", "Eskişehir"],
+    "correct": "Eskişehir"
+  },
+  {
+    "question": "Hangi filozof 'Cogito ergo sum' sözüyle bilinir?",
+    "options": ["Immanuel Kant", "René Descartes", "John Locke", "David Hume"],
+    "correct": "René Descartes"
+  },
+  {
+    "question": "RNA interferans mekanizması hangi yıl keşfedilmiştir?",
+    "options": ["1998", "2001", "2004", "2006"],
+    "correct": "1998"
+  },
+  {
+    "question": "Türkiye'de ilk metro hangi şehirde açılmıştır?",
+    "options": ["Ankara", "İstanbul", "İzmir", "Bursa"],
+    "correct": "İstanbul"
+  },
+  {
+    "question": "Hangi element sıvı halde manyetik özellik gösterir?",
+    "options": ["Galyum", "Sezyum", "Fransiyum", "Oganesson"],
+    "correct": "Galyum"
+  },
+  {
+    "question": "Lozan Antlaşması hangi tarihte imzalanmıştır?",
+    "options": ["24 Temmuz 1923", "30 Ağustos 1923", "29 Ekim 1923", "1 Kasım 1923"],
+    "correct": "24 Temmuz 1923"
+  },
+  {
+    "question": "Gravitasyonel dalgalar ilk kez hangi yıl tespit edilmiştir?",
+    "options": ["2012", "2015", "2017", "2019"],
+    "correct": "2015"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli insansız deniz aracı hangisidir?",
+    "options": ["ULAQ", "ALBATROS", "MİR", "SANCAR"],
+    "correct": "ULAQ"
+  },
+  {
+    "question": "Hangi yazar 'Kayıp Zamanın İzinde' eserini yazmıştır?",
+    "options": ["Marcel Proust", "James Joyce", "Franz Kafka", "Thomas Mann"],
+    "correct": "Marcel Proust"
+  },
+  {
+    "question": "Hücrenin 'güç merkezi' olarak bilinen organel hangisidir?",
+    "options": ["Ribozom", "Mitokondri", "Endoplazmik retikulum", "Golgi aygıtı"],
+    "correct": "Mitokondri"
+  },
+  {
+    "question": "Türkiye'nin ilk biyoteknoloji araştırma merkezi nerededir?",
+    "options": ["Ankara", "İstanbul", "İzmir", "Kocaeli"],
+    "correct": "Kocaeli"
+  },
+  {
+    "question": "Hangi element yapay olarak üretilen ilk elementtir?",
+    "options": ["Teknesyum", "Plütonyum", "Neptünyum", "Amerikyum"],
+    "correct": "Teknesyum"
+  },
+  {
+    "question": "İlk Türk kadın romancı kimdir?",
+    "options": ["Fatma Aliye Topuz", "Halide Edip Adıvar", "Suat Derviş", "Nezihe Muhiddin"],
+    "correct": "Fatma Aliye Topuz"
+  },
+  {
+    "question": "Kara deliklerin termodinamiği hangi fizikçi tarafından geliştirilmiştir?",
+    "options": ["Roger Penrose", "Stephen Hawking", "Jacob Bekenstein", "Kip Thorne"],
+    "correct": "Jacob Bekenstein"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli otomobil fabrikası hangisidir?",
+    "options": ["TOFAŞ", "Devrim", "Anadol", "TOGG"],
+    "correct": "Devrim"
+  },
+  {
+    "question": "Hangi filozof 'Toplum Sözleşmesi' teorisini geliştirmiştir?",
+    "options": ["Thomas Hobbes", "John Locke", "Jean-Jacques Rousseau", "Montesquieu"],
+    "correct": "Jean-Jacques Rousseau"
+  },
+  {
+    "question": "İnsan Genom Projesi hangi yıl tamamlanmıştır?",
+    "options": ["1999", "2001", "2003", "2005"],
+    "correct": "2003"
+  },
+  {
+    "question": "Türkiye'de ilk kadın hakları derneği hangi yıl kurulmuştur?",
+    "options": ["1913", "1921", "1924", "1930"],
+    "correct": "1924"
+  },
+  {
+    "question": "Hangi element en yüksek elektrik direncine sahiptir?",
+    "options": ["Bakır", "Gümüş", "Altın", "Bizmut"],
+    "correct": "Bizmut"
+  },
+  {
+    "question": "'Bozkurt-Lotus Davası' hangi ülkeler arasında yaşanmıştır?",
+    "options": ["Türkiye-Fransa", "Türkiye-Yunanistan", "Türkiye-İngiltere", "Türkiye-ABD"],
+    "correct": "Türkiye-Yunanistan"
+  },
+  {
+    "question": "Kuantum bilgisayarlarda 'qubit' kavramını ilk kez kim ortaya atmıştır?",
+    "options": ["Richard Feynman", "David Deutsch", "Peter Shor", "Paul Benioff"],
+    "correct": "Paul Benioff"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli haberleşme uydusu hangisidir?",
+    "options": ["Türksat 1A", "Türksat 3A", "Türksat 4A", "Türksat 5A"],
+    "correct": "Türksat 1A"
+  },
+  {
+    "question": "Hangi yazar 'Dava' eseriyle bilinir?",
+    "options": ["Franz Kafka", "Albert Camus", "Fyodor Dostoyevski", "Leo Tolstoy"],
+    "correct": "Franz Kafka"
+  },
+  {
+    "question": "Hücre bölünmesinde kromozomların ayrılmasını sağlayan yapı hangisidir?",
+    "options": ["Sentriyol", "Sentromer", "Kinetokor", "Lizozom"],
+    "correct": "Kinetokor"
+  },
+  {
+    "question": "Türkiye'nin ilk nanoteknoloji araştırma merkezi nerededir?",
+    "options": ["Ankara", "İstanbul", "İzmir", "Kayseri"],
+    "correct": "Ankara"
+  },
+  {
+    "question": "Hangi element nötron yutma yeteneği en yüksek olan elementtir?",
+    "options": ["Bor", "Kadmiyum", "Hafniyum", "Gadolinyum"],
+    "correct": "Gadolinyum"
+  },
+  {
+    "question": "İlk Türk kadın tiyatro oyuncusu kimdir?",
+    "options": ["Afife Jale", "Bedia Muvahhit", "Neyyire Neyir", "Muazzez Lutas"],
+    "correct": "Afife Jale"
+  },
+  {
+    "question": "Kozmik mikrodalga arkaplan radyasyonu hangi yıl keşfedilmiştir?",
+    "options": ["1948", "1958", "1965", "1978"],
+    "correct": "1965"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli insansız hava aracı fabrikası nerededir?",
+    "options": ["Ankara", "İstanbul", "İzmir", "Kayseri"],
+    "correct": "Ankara"
+  },
+  {
+    "question": "Hangi filozof 'Mutluluk Ahlakı'nı savunmuştur?",
+    "options": ["Epikuros", "Aristoteles", "Platon", "Sokrates"],
+    "correct": "Epikuros"
+  },
+  {
+    "question": "CRISPR gen düzenleme teknolojisi hangi yıl geliştirilmiştir?",
+    "options": ["2005", "2009", "2012", "2015"],
+    "correct": "2012"
+  },
+  {
+    "question": "Türkiye'de ilk nükleer tıp bölümü hangi üniversitede açılmıştır?",
+    "options": ["Hacettepe", "İstanbul", "Ankara", "Ege"],
+    "correct": "Hacettepe"
+  },
+  {
+    "question": "Hangi element en yüksek süperiletkenlik sıcaklığına sahiptir?",
+    "options": ["Kurşun", "Cıva", "İtriyum", "Magnezyum"],
+    "correct": "İtriyum"
+  },
+  {
+    "question": "'Şeyh Sait İsyanı' hangi yıl gerçekleşmiştir?",
+    "options": ["1921", "1923", "1925", "1927"],
+    "correct": "1925"
+  },
+  {
+    "question": "Higgs bozonu hangi yıl keşfedilmiştir?",
+    "options": ["2008", "2010", "2012", "2014"],
+    "correct": "2012"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli savaş uçağı projesinin adı nedir?",
+    "options": ["Hürjet", "Hürkuş", "MMU", "TF-X"],
+    "correct": "TF-X"
+  },
+  {
+    "question": "Hangi yazar 'Yüzyıllık Yalnızlık' eserini yazmıştır?",
+    "options": ["Jorge Luis Borges", "Julio Cortázar", "Gabriel García Márquez", "Mario Vargas Llosa"],
+    "correct": "Gabriel García Márquez"
+  },
+  {
+    "question": "Hücrede protein sentezinden sorumlu organel hangisidir?",
+    "options": ["Mitokondri", "Ribozom", "Golgi aygıtı", "Endoplazmik retikulum"],
+    "correct": "Ribozom"
+  },
+  {
+    "question": "Türkiye'nin ilk yapay kalp ameliyatı hangi yıl yapılmıştır?",
+    "options": ["1998", "2001", "2005", "2010"],
+    "correct": "2001"
+  },
+  {
+    "question": "Hangi element en yüksek termal genleşme katsayısına sahiptir?",
+    "options": ["Lityum", "Sezyum", "Rubidyum", "Sodyum"],
+    "correct": "Sezyum"
+  },
+  {
+    "question": "İlk Türk kadın milletvekili kimdir?",
+    "options": ["Benal Arıman", "Mebrure Gönenç", "Hatı Çırpan", "Türkan Örs Baştuğ"],
+    "correct": "Mebrure Gönenç"
+  },
+  {
+    "question": "Karanlık enerji kavramı hangi gözlemle ortaya çıkmıştır?",
+    "options": ["Kozmik mikrodalga", "Süpernova gözlemleri", "Galaksi kümeleri", "Gravitasyonel mercek"],
+    "correct": "Süpernova gözlemleri"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli elektrikli otobüs markası hangisidir?",
+    "options": ["BMC", "Karsan", "Temsa", "Otokar"],
+    "correct": "Karsan"
+  },
+  {
+    "question": "Hangi filozof 'Saçma' kavramını felsefeye sokmuştur?",
+    "options": ["Jean-Paul Sartre", "Albert Camus", "Søren Kierkegaard", "Martin Heidegger"],
+    "correct": "Albert Camus"
+  },
+  {
+    "question": "İlk kez kök hücreden organ üretimi hangi yıl gerçekleşmiştir?",
+    "options": ["2006", "2010", "2013", "2016"],
+    "correct": "2013"
+  },
+  {
+    "question": "Türkiye'de ilk kalp nakli hangi yıl yapılmıştır?",
+    "options": ["1968", "1975", "1982", "1989"],
+    "correct": "1968"
+  },
+  {
+    "question": "Hangi element en yüksek özgül ısı kapasitesine sahiptir?",
+    "options": ["Hidrojen", "Helyum", "Lityum", "Su"],
+    "correct": "Su"
+  },
+  {
+    "question": "'Varlık Vergisi' hangi yıl çıkarılmıştır?",
+    "options": ["1939", "1942", "1945", "1950"],
+    "correct": "1942"
+  },
+  {
+    "question": "Kuantum kriptografi ilk kez hangi yıl uygulanmıştır?",
+    "options": ["1984", "1991", "2000", "2004"],
+    "correct": "1984"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli insansı robotu hangisidir?",
+    "options": ["SURALP", "ROBOTEL", "AKINCI", "ATLAS"],
+    "correct": "SURALP"
+  },
+  {
+    "question": "Hangi yazar 'Bülbülü Öldürmek' eseriyle bilinir?",
+    "options": ["Harper Lee", "J.D. Salinger", "Truman Capote", "Tennessee Williams"],
+    "correct": "Harper Lee"
+  },
+  {
+    "question": "Hücrenin 'beyni' olarak kabul edilen organel hangisidir?",
+    "options": ["Çekirdek", "Mitokondri", "Endoplazmik retikulum", "Golgi aygıtı"],
+    "correct": "Çekirdek"
+  },
+  {
+    "question": "Türkiye'nin ilk biyonik kulak ameliyatı hangi yıl yapılmıştır?",
+    "options": ["1985", "1990", "1995", "2000"],
+    "correct": "1990"
+  },
+  {
+    "question": "Hangi element en düşük termal iletkenliğe sahiptir?",
+    "options": ["Elmas", "Gümüş", "Bakır", "Helyum"],
+    "correct": "Helyum"
+  },
+  {
+    "question": "İlk Türk kadın bakan kimdir?",
+    "options": ["Türkan Akyol", "Nermin Neftçi", "Işın Çelebi", "Meral Akşener"],
+    "correct": "Türkan Akyol"
+  },
+  {
+    "question": "Karanlık maddenin varlığı hangi gözlemle doğrulanmıştır?",
+    "options": ["Galaksi dönüş eğrileri", "Kozmik mikrodalga", "Gravitasyonel mercek", "Süpernova patlamaları"],
+    "correct": "Galaksi dönüş eğrileri"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli füze savunma sistemi hangisidir?",
+    "options": ["SİPER", "HİSAR", "KORKUT", "LEVENT"],
+    "correct": "SİPER"
+  },
+  {
+    "question": "Hangi filozof 'Fenomenoloji' akımını kurmuştur?",
+    "options": ["Edmund Husserl", "Martin Heidegger", "Jean-Paul Sartre", "Maurice Merleau-Ponty"],
+    "correct": "Edmund Husserl"
+  },
+  {
+    "question": "İlk gen terapisi hangi yıl uygulanmıştır?",
+    "options": ["1989", "1993", "1997", "2001"],
+    "correct": "1990"
+  },
+  {
+    "question": "Türkiye'de ilk karaciğer nakli hangi yıl yapılmıştır?",
+    "options": ["1988", "1990", "1993", "1995"],
+    "correct": "1988"
+  },
+  {
+    "question": "Hangi element en yüksek yüzey gerilimine sahiptir?",
+    "options": ["Su", "Cıva", "Altın", "Platin"],
+    "correct": "Cıva"
+  },
+  {
+    "question": "'6-7 Eylül Olayları' hangi yıl gerçekleşmiştir?",
+    "options": ["1950", "1955", "1960", "1965"],
+    "correct": "1955"
+  },
+  {
+    "question": "Nötrinoların kütlesi olduğu hangi deneyle kanıtlanmıştır?",
+    "options": ["Super-Kamiokande", "Sudbury Nötrino", "SNO+", "IceCube"],
+    "correct": "Super-Kamiokande"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli uydu fırlatma rampası nerede inşa edilmektedir?",
+    "options": ["Sinop", "Mersin", "Şırnak", "Muğla"],
+    "correct": "Sinop"
+  },
+  {
+    "question": "Hangi yazar 'Ses ve Öfke' eseriyle bilinir?",
+    "options": ["Ernest Hemingway", "William Faulkner", "F. Scott Fitzgerald", "John Steinbeck"],
+    "correct": "William Faulkner"
+  },
+  {
+    "question": "Hücrede enerji üretiminden sorumlu organel hangisidir?",
+    "options": ["Ribozom", "Mitokondri", "Kloroplast", "Lizozom"],
+    "correct": "Mitokondri"
+  },
+  {
+    "question": "Türkiye'nin ilk yapay zeka enstitüsü hangi üniversitededir?",
+    "options": ["ODTÜ", "Boğaziçi", "Hacettepe", "Sabancı"],
+    "correct": "Hacettepe"
+  },
+  {
+    "question": "Hangi element en yüksek iyonlaşma enerjisine sahiptir?",
+    "options": ["Helyum", "Neon", "Argon", "Kripton"],
+    "correct": "Helyum"
+  },
+  {
+    "question": "İlk Türk kadın başbakan kimdir?",
+    "options": ["Tansu Çiller", "Meral Akşener", "Emine Ülker Tarhan", "Fatma Şahin"],
+    "correct": "Tansu Çiller"
+  },
+  {
+    "question": "Kütleçekimsel mercek etkisi hangi teorinin öngörüsüdür?",
+    "options": ["Genel görelilik", "Özel görelilik", "Kuantum mekaniği", "String teorisi"],
+    "correct": "Genel görelilik"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli tankı 'Altay' hangi şehirde üretilmektedir?",
+    "options": ["Ankara", "Kocaeli", "Sakarya", "Kayseri"],
+    "correct": "Sakarya"
+  },
+  {
+    "question": "Hangi filozof 'Mutlak Tin' kavramını geliştirmiştir?",
+    "options": ["Immanuel Kant", "Georg Hegel", "Arthur Schopenhauer", "Friedrich Schelling"],
+    "correct": "Georg Hegel"
+  },
+  {
+    "question": "İlk kez klonlanan memeli hayvan hangisidir?",
+    "options": ["Koyun", "Fare", "Köpek", "Maymun"],
+    "correct": "Koyun"
+  },
+  {
+    "question": "Türkiye'de ilk böbrek nakli hangi yıl yapılmıştır?",
+    "options": ["1965", "1970", "1975", "1980"],
+    "correct": "1975"
+  },
+  {
+    "question": "Hangi element en düşük buharlaşma ısısına sahiptir?",
+    "options": ["Hidrojen", "Helyum", "Azot", "Oksijen"],
+    "correct": "Helyum"
+  },
+  {
+    "question": "'12 Mart Muhtırası' hangi yıl verilmiştir?",
+    "options": ["1960", "1965", "1971", "1980"],
+    "correct": "1971"
+  },
+  {
+    "question": "Kuantum hesaplamada 'qubit' kavramı ilk kez hangi yıl kullanılmıştır?",
+    "options": ["1985", "1992", "1995", "1998"],
+    "correct": "1995"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli uydusu 'BİLSAT' hangi yıl fırlatılmıştır?",
+    "options": ["1999", "2001", "2003", "2006"],
+    "correct": "2003"
   }
 ]
