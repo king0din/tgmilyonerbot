@@ -1,1 +1,17 @@
-
+[
+  {
+    "question": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
+    "options": ["1453", "1473", "1357", "1517"],
+    "correct": "1453"
+  },
+  {
+    "question": "Hangisi II. Dünya Savaşı'na katılmamıştır?",
+    "options": ["İspanya", "İtalya", "Japonya", "Almanya"],
+    "correct": "İspanya"
+  },
+  {
+    "question": "Guggenheim Müzesi hangi şehirdedir?",
+    "options": ["Paris", "New York", "Roma", "Berlin"],
+    "correct": "New York"
+  }
+]
