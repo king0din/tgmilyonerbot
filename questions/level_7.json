@@ -1,1 +1,17 @@
-
+[
+  {
+    "question": "Elektrik akımı birimi nedir?",
+    "options": ["Volt", "Watt", "Amper", "Ohm"],
+    "correct": "Amper"
+  },
+  {
+    "question": "Osmanlı İmparatorluğu'nda ilk matbaa kimin döneminde kurulmuştur?",
+    "options": ["Fatih Sultan Mehmet", "III. Ahmet", "IV. Murat", "II. Mahmut"],
+    "correct": "III. Ahmet"
+  },
+  {
+    "question": "Hangisi bir sürüngen değildir?",
+    "options": ["Kertenkele", "Timsah", "Yarasa", "Yılan"],
+    "correct": "Yarasa"
+  }
+]
