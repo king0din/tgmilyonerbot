@@ -1,17 +1,537 @@
 [
   {
-    "question": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
-    "options": ["1453", "1473", "1357", "1517"],
-    "correct": "1453"
+    "question": "Türkiye'nin ilk nükleer santrali Akkuyu'da kullanılacak reaktör tipi nedir?",
+    "options": ["AP1000", "VVER-1200", "EPR", "CANDU"],
+    "correct": "VVER-1200"
   },
   {
-    "question": "Hangisi II. Dünya Savaşı'na katılmamıştır?",
-    "options": ["İspanya", "İtalya", "Japonya", "Almanya"],
-    "correct": "İspanya"
+    "question": "Hangi matematikçi 'Poincaré Sanısı'nı ispatlamıştır?",
+    "options": ["Andrew Wiles", "Grigori Perelman", "Terence Tao", "Edward Witten"],
+    "correct": "Grigori Perelman"
   },
   {
-    "question": "Guggenheim Müzesi hangi şehirdedir?",
-    "options": ["Paris", "New York", "Roma", "Berlin"],
-    "correct": "New York"
+    "question": "Kuantum bilgisayarlarda 'topolojik kuantum hesaplama' kavramını öneren fizikçi kimdir?",
+    "options": ["Richard Feynman", "Alexei Kitaev", "Peter Shor", "David Deutsch"],
+    "correct": "Alexei Kitaev"
+  },
+  {
+    "question": "Osmanlı'da ilk resmî tarih yazıcısı (vakanüvis) kimdir?",
+    "options": ["Mustafa Naima", "Ahmet Cevdet Paşa", "Katip Çelebi", "Hoca Sadeddin Efendi"],
+    "correct": "Mustafa Naima"
+  },
+  {
+    "question": "Hangi elementin izotopu 'karbon tarihleme' yönteminde kullanılır?",
+    "options": ["Karbon-12", "Karbon-13", "Karbon-14", "Karbon-15"],
+    "correct": "Karbon-14"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli savaş gemisi MİLGEM projesinde hangi gemi sınıfı üretilmiştir?",
+    "options": ["Fırkateyn", "Korvet", "Destroyer", "Denizaltı"],
+    "correct": "Korvet"
+  },
+  {
+    "question": "'AdS/CFT yazışması' hangi fizik alanında devrim yaratmıştır?",
+    "options": ["Kuantum kromodinamiği", "Sicim teorisi", "Karanlık madde", "Nötrino fiziği"],
+    "correct": "Sicim teorisi"
+  },
+  {
+    "question": "İlk Türk kadın kardiyolog kimdir?",
+    "options": ["Dr. Türkan Akyol", "Dr. Canan Karatay", "Dr. Safiye Ali", "Dr. Hatice Belgin"],
+    "correct": "Dr. Hatice Belgin"
+  },
+  {
+    "question": "CRISPR-Cas9 sisteminin doğal işlevi nedir?",
+    "options": ["DNA tamiri", "Bakteriyel bağışıklık", "Gen ekspresyonu", "Protein sentezi"],
+    "correct": "Bakteriyel bağışıklık"
+  },
+  {
+    "question": "Türk Tarih Tezi ilk kez hangi yılda ortaya atılmıştır?",
+    "options": ["1927", "1930", "1932", "1935"],
+    "correct": "1930"
+  },
+  {
+    "question": "Hangi parçacık Standart Model'de Higgs mekanizmasıyla kütle kazanmaz?",
+    "options": ["Foton", "W bozonu", "Z bozonu", "Kuark"],
+    "correct": "Foton"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli insansız denizaltı arama robotu hangisidir?",
+    "options": ["NAR", "BARKAN", "ULAQ", "MARLIN"],
+    "correct": "NAR"
+  },
+  {
+    "question": "'Millet Sistemi' hangi padişah döneminde kurumsallaştırılmıştır?",
+    "options": ["Fatih Sultan Mehmet", "Kanuni Sultan Süleyman", "II. Mehmet", "Yavuz Sultan Selim"],
+    "correct": "Fatih Sultan Mehmet"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'kardinalite' ile ölçülür?",
+    "options": ["Kümelerin büyüklüğü", "Fonksiyonların sürekliliği", "Geometrik şekiller", "Cebirsel yapılar"],
+    "correct": "Kümelerin büyüklüğü"
+  },
+  {
+    "question": "Türkiye'de ilk kalp pili ameliyatı hangi yıl yapılmıştır?",
+    "options": ["1961", "1965", "1970", "1975"],
+    "correct": "1965"
+  },
+  {
+    "question": "Kara deliklerin 'yumuşak saç teoremi'ni ortaya atan fizikçi kimdir?",
+    "options": ["Stephen Hawking", "Leonard Susskind", "Andrew Strominger", "Roger Penrose"],
+    "correct": "Andrew Strominger"
+  },
+  {
+    "question": "İlk Türk nükleer fizikçi kimdir?",
+    "options": ["Prof. Dr. Erdal İnönü", "Prof. Dr. Feza Gürsey", "Prof. Dr. Oktay Sinanoğlu", "Prof. Dr. Engin Arık"],
+    "correct": "Prof. Dr. Engin Arık"
+  },
+  {
+    "question": "RNA dünyası hipotezi hangi molekülün ilkel yaşamda hem genetik hem katalitik rol oynadığını savunur?",
+    "options": ["DNA", "RNA", "Protein", "Lipit"],
+    "correct": "RNA"
+  },
+  {
+    "question": "Tanzimat Fermanı'nın mimarı kimdir?",
+    "options": ["Mustafa Reşit Paşa", "Ali Paşa", "Fuat Paşa", "Mithat Paşa"],
+    "correct": "Mustafa Reşit Paşa"
+  },
+  {
+    "question": "Hangi element 'geçiş metalleri' arasında yer almaz?",
+    "options": ["Çinko", "Demir", "Altın", "Platin"],
+    "correct": "Çinko"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli gözetleme uydusu GÖKTÜRK-2 hangi yıl fırlatılmıştır?",
+    "options": ["2010", "2012", "2014", "2016"],
+    "correct": "2012"
+  },
+  {
+    "question": "'Kuantum dolanıklığı' ilk kez hangi deneyde doğrudan gözlemlenmiştir?",
+    "options": ["Aspect Deneyi", "Stern-Gerlach", "Young Deneyi", "Bell Deneyi"],
+    "correct": "Aspect Deneyi"
+  },
+  {
+    "question": "Osmanlı'da ilk kâğıt para basımı hangi yılda gerçekleşmiştir?",
+    "options": ["1840", "1854", "1863", "1876"],
+    "correct": "1840"
+  },
+  {
+    "question": "Hangi organel hücrede 'apoptozis' sürecini yönetir?",
+    "options": ["Mitokondri", "Lizozom", "Çekirdek", "Peroksizom"],
+    "correct": "Mitokondri"
+  },
+  {
+    "question": "Türkiye'de ilk kök hücre nakli hangi hastalık için yapılmıştır?",
+    "options": ["Lösemi", "Lenfoma", "Talasemi", "Aplastik anemi"],
+    "correct": "Talasemi"
+  },
+  {
+    "question": "AdS/CFT yazışmasında 'AdS' neyin kısaltmasıdır?",
+    "options": ["Anti-de Sitter uzayı", "Alan-Denklem Sistemi", "Atomik Denge Sistemi", "Advanced Dimensional Structure"],
+    "correct": "Anti-de Sitter uzayı"
+  },
+  {
+    "question": "İlk Türk kadın arkeolog kimdir?",
+    "options": ["Jale İnan", "Halet Çambel", "Muazzez İlmiye Çığ", "Afet İnan"],
+    "correct": "Halet Çambel"
+  },
+  {
+    "question": "Hangi fizikçi 'süpersimetri' teorisini önermiştir?",
+    "options": ["Abdus Salam", "Steven Weinberg", "Julius Wess", "Sheldon Glashow"],
+    "correct": "Julius Wess"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli elektrikli tren seti hangi şehirde üretilmiştir?",
+    "options": ["Ankara", "Eskişehir", "Kocaeli", "Bursa"],
+    "correct": "Eskişehir"
+  },
+  {
+    "question": "'İskenderiye Kütüphanesi' hangi dönemde yok edilmiştir?",
+    "options": ["Roma İmparatorluğu", "Bizans Dönemi", "Arap Fethi", "Kesin olarak bilinmiyor"],
+    "correct": "Kesin olarak bilinmiyor"
+  },
+  {
+    "question": "Hangi matematiksel yapı 'kuantum grupları' ile ilişkilidir?",
+    "options": ["Lie grupları", "Hopf cebiri", "Galois teorisi", "Kategori teorisi"],
+    "correct": "Hopf cebiri"
+  },
+  {
+    "question": "Türkiye'de ilk karaciğer nakli hangi hastanede yapılmıştır?",
+    "options": ["Hacettepe Üniversitesi", "İstanbul Üniversitesi", "Ankara Üniversitesi", "Ege Üniversitesi"],
+    "correct": "Hacettepe Üniversitesi"
+  },
+  {
+    "question": "Karanlık madde araştırmalarında kullanılan 'LUX deneyi' nerede yapılmaktadır?",
+    "options": ["CERN", "Fermilab", "Sanford Yeraltı Araştırma Merkezi", "Gran Sasso Laboratuvarı"],
+    "correct": "Sanford Yeraltı Araştırma Merkezi"
+  },
+  {
+    "question": "İlk Türk kadın nöroşirürji uzmanı kimdir?",
+    "options": ["Prof. Dr. Türkan Saylan", "Prof. Dr. Gülsen Korkmaz", "Prof. Dr. Sezer Komşuoğlu", "Prof. Dr. Ayşın Bakar"],
+    "correct": "Prof. Dr. Gülsen Korkmaz"
+  },
+  {
+    "question": "Hangi biyolojik mekanizma 'epigenetik kalıtım' ile ilgilidir?",
+    "options": ["DNA metilasyonu", "Transkripsiyon", "Translasyon", "Rekombinasyon"],
+    "correct": "DNA metilasyonu"
+  },
+  {
+    "question": "Türk Hava Yolları'nın ilk uçuşu hangi güzergahta yapılmıştır?",
+    "options": ["İstanbul-Ankara", "Ankara-İzmir", "İstanbul-Adana", "Ankara-Kayseri"],
+    "correct": "İstanbul-Ankara"
+  },
+  {
+    "question": "'Monstrous moonshine' hipotezi hangi matematiksel alanları birleştirir?",
+    "options": ["Sayılar teorisi - Grup teorisi", "Geometri - Topoloji", "Cebir - Analiz", "Kombinatorik - Olasılık"],
+    "correct": "Sayılar teorisi - Grup teorisi"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli uydu fırlatma sistemi geliştirme projesi hangisidir?",
+    "options": ["GÖKTÜRK", "TÜRKSAT", "İMECE", "FSLV"],
+    "correct": "FSLV"
+  },
+  {
+    "question": "Hangi fizikçi 'kuantum elektrodinamiği' için Nobel ödülü almıştır?",
+    "options": ["Richard Feynman", "Paul Dirac", "Murray Gell-Mann", "Julian Schwinger"],
+    "correct": "Richard Feynman"
+  },
+  {
+    "question": "Osmanlı'da ilk matbaayı kuran İbrahim Müteferrika hangi millettendir?",
+    "options": ["Türk", "Macar", "Ermeni", "Rum"],
+    "correct": "Macar"
+  },
+  {
+    "question": "Hangi element 'süper ağır elementler' sınıfına girer?",
+    "options": ["Uranyum", "Plütonyum", "Oganesson", "Seaborgiyum"],
+    "correct": "Oganesson"
+  },
+  {
+    "question": "Türkiye'de ilk bütünleşik devre (entegre devre) üretimi hangi yıl başlamıştır?",
+    "options": ["1985", "1992", "2000", "2007"],
+    "correct": "1992"
+  },
+  {
+    "question": "'Gödel'in eksiklik teoremi' hangi matematik alanıyla ilgilidir?",
+    "options": ["Geometri", "Sayılar teorisi", "Matematiksel mantık", "Topoloji"],
+    "correct": "Matematiksel mantık"
+  },
+  {
+    "question": "İlk Türk kadın rektör kimdir?",
+    "options": ["Prof. Dr. Türkan Akyol", "Prof. Dr. Ayşe Soysal", "Prof. Dr. Gülay Barbarosoğlu", "Prof. Dr. Yıldız Tümertekin"],
+    "correct": "Prof. Dr. Türkan Akyol"
+  },
+  {
+    "question": "Hücresel solunumda 'kemiozmotik hipotez' kim tarafından önerilmiştir?",
+    "options": ["Peter Mitchell", "Hans Krebs", "Otto Warburg", "Linus Pauling"],
+    "correct": "Peter Mitchell"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli insansız tankı hangisidir?",
+    "options": ["KAPLAN", "ULAQ", "ALPAGU", "BARKAN"],
+    "correct": "ALPAGU"
+  },
+  {
+    "question": "'Tersinmezlik teoremi' hangi matematikçiye aittir?",
+    "options": ["Kurt Gödel", "Alan Turing", "Georg Cantor", "David Hilbert"],
+    "correct": "Alan Turing"
+  },
+  {
+    "question": "Türkiye'de ilk kalp-akciğer nakli hangi yıl yapılmıştır?",
+    "options": ["1995", "1998", "2003", "2007"],
+    "correct": "1998"
+  },
+  {
+    "question": "Karanlık enerjinin varlığı hangi gözlemsel veriyle keşfedilmiştir?",
+    "options": ["Süpernova tip Ia", "Kozmik mikrodalga arkaplan", "Galaksi kümeleri", "Gravitasyonel mercek"],
+    "correct": "Süpernova tip Ia"
+  },
+  {
+    "question": "İlk Türk kadın astrofizikçi kimdir?",
+    "options": ["Prof. Dr. Dilhan Eryurt", "Prof. Dr. Ayşin Sinanoğlu", "Prof. Dr. Feryal Özel", "Prof. Dr. Zuhal Özer"],
+    "correct": "Prof. Dr. Dilhan Eryurt"
+  },
+  {
+    "question": "Hangi biyokimyasal mekanizma 'CRISPR gen düzenlemesi'nde kullanılır?",
+    "options": ["Homolog rekombinasyon", "Non-homolog end joining", "Transpozon aktivasyonu", "RNA interferans"],
+    "correct": "Homolog rekombinasyon"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli uydusu RASAT'ın çözünürlüğü kaç metredir?",
+    "options": ["1 m", "5 m", "7.5 m", "10 m"],
+    "correct": "7.5 m"
+  },
+  {
+    "question": "'Magnetar' nedir?",
+    "options": ["Yüksek manyetik alanlı nötron yıldızı", "Kara delik ve nötron yıldızı çifti", "Süpernova kalıntısı", "Galaktik çekirdek"],
+    "correct": "Yüksek manyetik alanlı nötron yıldızı"
+  },
+  {
+    "question": "Osmanlı'da ilk kapsamlı nüfus sayımı hangi padişah döneminde yapılmıştır?",
+    "options": ["II. Mahmut", "Abdülmecid", "Abdülaziz", "II. Abdülhamit"],
+    "correct": "II. Mahmut"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'fiber demet' teorisinde kullanılır?",
+    "options": ["Lie grupları", "Homoloji", "Kategori teorisi", "Diferansiyel geometri"],
+    "correct": "Diferansiyel geometri"
+  },
+  {
+    "question": "Türkiye'de ilk başarılı yüz nakli hangi yıl yapılmıştır?",
+    "options": ["2011", "2012", "2015", "2017"],
+    "correct": "2012"
+  },
+  {
+    "question": "Kuantum hesaplamada 'Shor algoritması' neyi çözer?",
+    "options": ["Büyük sayıları çarpanlarına ayırma", "Veritabanı arama", "Sıralama", "Grafik renklendirme"],
+    "correct": "Büyük sayıları çarpanlarına ayırma"
+  },
+  {
+    "question": "İlk Türk kadın jet pilotu kimdir?",
+    "options": ["Sabiha Gökçen", "Leman Altınçekiç", "Nurcan Taylan", "Eribe Hürkuş"],
+    "correct": "Leman Altınçekiç"
+  },
+  {
+    "question": "Hangi biyolojik süreç 'telomeraz enzimi' ile ilişkilidir?",
+    "options": ["DNA replikasyonu", "Hücre yaşlanması", "Protein sentezi", "Hücre bölünmesi"],
+    "correct": "Hücre yaşlanması"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli hava savunma füzesi HİSAR'ın menzili kaç km'dir?",
+    "options": ["15 km", "25 km", "35 km", "45 km"],
+    "correct": "25 km"
+  },
+  {
+    "question": "'T-duality' hangi fizik teorisinde önemli rol oynar?",
+    "options": ["Kuantum elektrodinamiği", "Sicim teorisi", "Kütleçekim kuantizasyonu", "Standart Model"],
+    "correct": "Sicim teorisi"
+  },
+  {
+    "question": "İlk Türk denizaltısı TCG Atılay hangi yıl hizmete girmiştir?",
+    "options": ["1936", "1939", "1941", "1944"],
+    "correct": "1939"
+  },
+  {
+    "question": "Hangi element 'aktinitler' serisinde yer alır?",
+    "options": ["Uranyum", "Toryum", "Plütonyum", "Hepsi"],
+    "correct": "Hepsi"
+  },
+  {
+    "question": "Türkiye'de ilk yapay kalp nakli hangi yıl yapılmıştır?",
+    "options": ["2001", "2005", "2010", "2013"],
+    "correct": "2001"
+  },
+  {
+    "question": "Karanlık madde araştırmalarında kullanılan 'XENON1T deneyi' nerede yapılmaktadır?",
+    "options": ["CERN", "Gran Sasso Laboratuvarı", "Sudbury Nötrino Gözlemevi", "Kamioka Gözlemevi"],
+    "correct": "Gran Sasso Laboratuvarı"
+  },
+  {
+    "question": "İlk Türk kadın kardiyovasküler cerrah kimdir?",
+    "options": ["Prof. Dr. Tayyar Sarıoğlu", "Prof. Dr. Bingür Sönmez", "Prof. Dr. Sertaç Çiçek", "Prof. Dr. Kamil Yalçın Polat"],
+    "correct": "Prof. Dr. Tayyar Sarıoğlu"
+  },
+  {
+    "question": "Hangi genetik mekanizma 'alternatif uç birleştirme' (alternative splicing) ile ilişkilidir?",
+    "options": ["Transkripsiyon", "Translasyon", "mRNA işlenmesi", "DNA replikasyonu"],
+    "correct": "mRNA işlenmesi"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli askeri insansız hava aracı ANKA'nın azami kalkış ağırlığı kaç kg'dır?",
+    "options": ["600 kg", "1200 kg", "1700 kg", "2400 kg"],
+    "correct": "1700 kg"
+  },
+  {
+    "question": "'Yang-Baxter denklemi' hangi matematiksel alanda önemlidir?",
+    "options": ["İntegre edilebilir sistemler", "Cebirsel geometri", "Sayılar teorisi", "Kompleks analiz"],
+    "correct": "İntegre edilebilir sistemler"
+  },
+  {
+    "question": "Türkiye'de ilk böbrek nakli hangi hastanede yapılmıştır?",
+    "options": ["Hacettepe Üniversitesi", "İstanbul Üniversitesi", "Ankara Üniversitesi", "Ege Üniversitesi"],
+    "correct": "Hacettepe Üniversitesi"
+  },
+  {
+    "question": "Kuantum kriptografide 'BB84 protokolü'nü kim geliştirmiştir?",
+    "options": ["Charles Bennett ve Gilles Brassard", "Peter Shor", "Artur Ekert", "Richard Feynman"],
+    "correct": "Charles Bennett ve Gilles Brassard"
+  },
+  {
+    "question": "İlk Türk kadın nükleer mühendis kimdir?",
+    "options": ["Prof. Dr. Ayşe Erzan", "Prof. Dr. Gülay Barbarosoğlu", "Prof. Dr. İlknur Avan", "Prof. Dr. Serap Keskin"],
+    "correct": "Prof. Dr. Serap Keskin"
+  },
+  {
+    "question": "Hücresel düzeyde 'otofaji' mekanizmasını keşfeden bilim insanı kimdir?",
+    "options": ["Yoshinori Ohsumi", "Randy Schekman", "James Rothman", "Thomas Südhof"],
+    "correct": "Yoshinori Ohsumi"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli helikopteri GÖKBEY'in ilk uçuşu hangi yıl yapılmıştır?",
+    "options": ["2013", "2016", "2018", "2020"],
+    "correct": "2018"
+  },
+  {
+    "question": "'Monstrous moonshine' hipotezini ispatlayan matematikçiler kimlerdir?",
+    "options": ["Richard Borcherds", "Andrew Wiles", "Grigori Perelman", "Terence Tao"],
+    "correct": "Richard Borcherds"
+  },
+  {
+    "question": "Türkiye'de ilk pankreas nakli hangi yıl yapılmıştır?",
+    "options": ["1995", "2001", "2008", "2014"],
+    "correct": "2008"
+  },
+  {
+    "question": "Gravitasyonel dalgalar ilk kez hangi kaynak türünden tespit edilmiştir?",
+    "options": ["Nötron yıldızı birleşmesi", "Kara delik birleşmesi", "Süpernova patlaması", "Pulsar"],
+    "correct": "Kara delik birleşmesi"
+  },
+  {
+    "question": "İlk Türk kadın yüksek mimar kimdir?",
+    "options": ["Münevver Belen", "Leman Cevat Tomsu", "Safiye Erol", "Aliye Berger"],
+    "correct": "Leman Cevat Tomsu"
+  },
+  {
+    "question": "Hangi biyolojik süreç 'CRISPR-Cas sisteminin' doğal işlevidir?",
+    "options": ["Bakteriyel savunma", "Viral replikasyon", "Gen ifadesi", "Hücre sinyalizasyonu"],
+    "correct": "Bakteriyel savunma"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli savaş uçağı projesi TF-X'in ilk uçuşu planlanan yıl nedir?",
+    "options": ["2025", "2028", "2030", "2033"],
+    "correct": "2028"
+  },
+  {
+    "question": "'Geometrik Langlands yazışması' hangi matematiksel alanları birleştirir?",
+    "options": ["Cebirsel geometri - Sayılar teorisi", "Topoloji - Geometri", "Analiz - Cebir", "Kombinatorik - Olasılık"],
+    "correct": "Cebirsel geometri - Sayılar teorisi"
+  },
+  {
+    "question": "Türkiye'de ilk rahim nakli hangi yıl yapılmıştır?",
+    "options": ["2011", "2015", "2018", "2021"],
+    "correct": "2011"
+  },
+  {
+    "question": "Karanlık madde parçacığı adayı 'WIMP' neyin kısaltmasıdır?",
+    "options": ["Weakly Interacting Massive Particle", "Wavelength Interacting Matter Particle", "Warped Intergalactic Massive Particle", "Weakly Ionizing Massive Particle"],
+    "correct": "Weakly Interacting Massive Particle"
+  },
+  {
+    "question": "İlk Türk kadın parçacık fizikçisi kimdir?",
+    "options": ["Prof. Dr. Bilge Demirköz", "Prof. Dr. Zehra Sayers", "Prof. Dr. Ayşe Erzan", "Prof. Dr. Vildan İnce"],
+    "correct": "Prof. Dr. Bilge Demirköz"
+  },
+  {
+    "question": "Hücresel düzeyde 'apoptozis' programını kontrol eden gen ailesi hangisidir?",
+    "options": ["Bcl-2", "p53", "Ras", "Myc"],
+    "correct": "Bcl-2"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli elektrikli otomobili TOGG'un seri üretimi hangi yıl başlamıştır?",
+    "options": ["2022", "2023", "2024", "2025"],
+    "correct": "2024"
+  },
+  {
+    "question": "'Seiberg-Witten teorisi' hangi fizik alanında kullanılır?",
+    "options": ["Süpersimetrik kuantum alan teorisi", "Kuantum kromodinamiği", "Genel görelilik", "Parçacık fiziği"],
+    "correct": "Süpersimetrik kuantum alan teorisi"
+  },
+  {
+    "question": "Türkiye'de ilk karaciğer nakli hangi doktor tarafından yapılmıştır?",
+    "options": ["Prof. Dr. Mehmet Haberal", "Prof. Dr. Münci Kalayoğlu", "Prof. Dr. Şinasi Yavuzer", "Prof. Dr. Cihan Top"],
+    "correct": "Prof. Dr. Mehmet Haberal"
+  },
+  {
+    "question": "Kuantum hesaplamada 'hata düzeltme kodları' ilk kez kim tarafından önerilmiştir?",
+    "options": ["Peter Shor", "Andrew Steane", "Michael Nielsen", "David Deutsch"],
+    "correct": "Peter Shor"
+  },
+  {
+    "question": "İlk Türk kadın nükleer fizik profesörü kimdir?",
+    "options": ["Prof. Dr. Ayşe Erzan", "Prof. Dr. Bilge Demirköz", "Prof. Dr. Şenay Yalçın", "Prof. Dr. Zuhal Özer"],
+    "correct": "Prof. Dr. Şenay Yalçın"
+  },
+  {
+    "question": "Hangi biyolojik mekanizma 'RNA interferans' ile ilişkilidir?",
+    "options": ["Gen susturulması", "DNA tamiri", "Protein katlanması", "Hücre sinyalizasyonu"],
+    "correct": "Gen susturulması"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli insansız denizaltı savar savaş uçağı hangisidir?",
+    "options": ["ANKA-3", "AKINCI", "HÜRJET", "KIZILELMA"],
+    "correct": "AKINCI"
+  },
+  {
+    "question": "'Jones polinomu' hangi matematiksel alanda kullanılır?",
+    "options": ["Düğüm teorisi", "Cebirsel geometri", "Sayılar teorisi", "Kombinatorik"],
+    "correct": "Düğüm teorisi"
+  },
+  {
+    "question": "Türkiye'de ilk başarılı çift kol nakli hangi yıl yapılmıştır?",
+    "options": ["2010", "2012", "2015", "2018"],
+    "correct": "2012"
+  },
+  {
+    "question": "Standart Model'de 'CP ihlali' hangi deneyle keşfedilmiştir?",
+    "options": ["Cronin-Fitch Deneyi", "Michelson-Morley Deneyi", "Stern-Gerlach Deneyi", "Young Deneyi"],
+    "correct": "Cronin-Fitch Deneyi"
+  },
+  {
+    "question": "İlk Türk kadın robotik cerrah kimdir?",
+    "options": ["Prof. Dr. Türkan Saylan", "Prof. Dr. Ayşin Bakar", "Prof. Dr. Nilüfer Alpay", "Prof. Dr. Yeşim Erbil"],
+    "correct": "Prof. Dr. Ayşin Bakar"
+  },
+  {
+    "question": "Hücresel düzeyde 'ubikitin-proteazom sistemi' hangi süreçte rol oynar?",
+    "options": ["Protein yıkımı", "DNA replikasyonu", "RNA sentezi", "Lipit metabolizması"],
+    "correct": "Protein yıkımı"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli tankı ALTAY'ın motoru hangi ülke ile ortak geliştirilmektedir?",
+    "options": ["Almanya", "Güney Kore", "Fransa", "İsveç"],
+    "correct": "Güney Kore"
+  },
+  {
+    "question": "'Witten endeksi' hangi fizik teorisinde önemlidir?",
+    "options": ["Süpersimetrik kuantum mekaniği", "Kuantum elektrodinamiği", "Kütleçekim teorisi", "Katıhal fiziği"],
+    "correct": "Süpersimetrik kuantum mekaniği"
+  },
+  {
+    "question": "Türkiye'de ilk yapay kalp nakli hangi hastanede yapılmıştır?",
+    "options": ["Hacettepe Üniversitesi", "Başkent Üniversitesi", "Memorial Hastanesi", "Acıbadem Hastanesi"],
+    "correct": "Başkent Üniversitesi"
+  },
+  {
+    "question": "Kuantum bilgisayarlarda 'topolojik hata düzeltme' kim tarafından önerilmiştir?",
+    "options": ["Alexei Kitaev", "Peter Shor", "Richard Feynman", "Michael Nielsen"],
+    "correct": "Alexei Kitaev"
+  },
+  {
+    "question": "İlk Türk kadın kuantum kimyacısı kimdir?",
+    "options": ["Prof. Dr. Vildan İnce", "Prof. Dr. Ayşe Erzan", "Prof. Dr. Zehra Sayers", "Prof. Dr. Serap Keskin"],
+    "correct": "Prof. Dr. Vildan İnce"
+  },
+  {
+    "question": "Hangi biyolojik mekanizma 'telomerlerin' korunmasını sağlar?",
+    "options": ["Telomeraz enzimi", "DNA polimeraz", "Helikaz", "Topoizomeraz"],
+    "correct": "Telomeraz enzimi"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli askeri uydu projesi hangisidir?",
+    "options": ["TÜRKSAT", "GÖKTÜRK", "İMECE", "RAUF"],
+    "correct": "GÖKTÜRK"
+  },
+  {
+    "question": "'Fermat'nın Son Teoremi' hangi yıl ispatlanmıştır?",
+    "options": ["1993", "1994", "1995", "1996"],
+    "correct": "1994"
+  },
+  {
+    "question": "Türkiye'de ilk akciğer nakli hangi yıl yapılmıştır?",
+    "options": ["1998", "2001", "2005", "2009"],
+    "correct": "2009"
+  },
+  {
+    "question": "Karanlık madde araştırmalarında kullanılan 'LZ deneyi' nerede yapılmaktadır?",
+    "options": ["Sanford Yeraltı Araştırma Merkezi", "Gran Sasso Laboratuvarı", "SNOLAB", "Kamioka Gözlemevi"],
+    "correct": "Sanford Yeraltı Araştırma Merkezi"
   }
 ]
