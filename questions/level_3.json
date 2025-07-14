@@ -1,1 +1,17 @@
-
+[
+  {
+    "question": "Türkiye'nin en yüksek dağı hangisidir?",
+    "options": ["Erciyes", "Ağrı Dağı", "Süphan", "Uludağ"],
+    "correct": "Ağrı Dağı"
+  },
+  {
+    "question": "Hangi gezegen Güneş Sistemi'nde büyüklük sıralamasında birincidir?",
+    "options": ["Mars", "Venüs", "Jüpiter", "Satürn"],
+    "correct": "Jüpiter"
+  },
+  {
+    "question": "Hangi element atomik numarası en küçük olan elementtir?",
+    "options": ["Oksijen", "Karbon", "Hidrojen", "Helyum"],
+    "correct": "Hidrojen"
+  }
+]
