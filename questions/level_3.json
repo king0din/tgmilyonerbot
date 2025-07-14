@@ -1,17 +1,522 @@
 [
   {
-    "question": "Türkiye'nin en yüksek dağı hangisidir?",
-    "options": ["Erciyes", "Ağrı Dağı", "Süphan", "Uludağ"],
-    "correct": "Ağrı Dağı"
+    "question": "Hangi element atom numarası 6'dır?",
+    "options": ["Oksijen", "Karbon", "Azot", "Demir"],
+    "correct": "Karbon"
   },
   {
-    "question": "Hangi gezegen Güneş Sistemi'nde büyüklük sıralamasında birincidir?",
-    "options": ["Mars", "Venüs", "Jüpiter", "Satürn"],
+    "question": "Osmanlı İmparatorluğu'nda ilk matbaayı kim getirmiştir?",
+    "options": ["İbrahim Müteferrika", "Evliya Çelebi", "Piri Reis", "Katip Çelebi"],
+    "correct": "İbrahim Müteferrika"
+  },
+  {
+    "question": "Hangi gezegen uydu sayısı bakımından Güneş Sistemi'nde birinci sıradadır?",
+    "options": ["Satürn", "Jüpiter", "Uranüs", "Neptün"],
+    "correct": "Satürn"
+  },
+  {
+    "question": "Türkiye'nin en büyük termik santrali hangisidir?",
+    "options": ["Afşin-Elbistan", "Soma", "Kangal", "Yatağan"],
+    "correct": "Afşin-Elbistan"
+  },
+  {
+    "question": "Hangi yazar 'Suç ve Ceza' romanını yazmıştır?",
+    "options": ["Tolstoy", "Dostoyevski", "Çehov", "Gogol"],
+    "correct": "Dostoyevski"
+  },
+  {
+    "question": "Hangi element radyoaktif özellik göstermez?",
+    "options": ["Uranyum", "Plütonyum", "Karbon-14", "Altın"],
+    "correct": "Altın"
+  },
+  {
+    "question": "İlk Türk denizcisi kim kabul edilir?",
+    "options": ["Barbaros Hayreddin Paşa", "Piri Reis", "Turgut Reis", "Kemal Reis"],
+    "correct": "Çaka Bey"
+  },
+  {
+    "question": "Hangi gezegenin 'halka' sistemi yoktur?",
+    "options": ["Jüpiter", "Satürn", "Uranüs", "Mars"],
+    "correct": "Mars"
+  },
+  {
+    "question": "Türkiye'nin en büyük rüzgar enerjisi santrali hangisidir?",
+    "options": ["Soma RES", "Alaçatı RES", "Bandırma RES", "Şenbük RES"],
+    "correct": "Soma RES"
+  },
+  {
+    "question": "Hangi bilim insanı kütleçekim teorisini formüle etmiştir?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+    "correct": "Isaac Newton"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Fe' sembolüyle gösterilir?",
+    "options": ["Flor", "Fosfor", "Demir", "Gümüş"],
+    "correct": "Demir"
+  },
+  {
+    "question": "Kurtuluş Savaşı'nda Doğu Cephesi komutanı kimdir?",
+    "options": ["İsmet İnönü", "Kazım Karabekir", "Fevzi Çakmak", "Ali Fuat Cebesoy"],
+    "correct": "Kazım Karabekir"
+  },
+  {
+    "question": "Güneş Sistemi'nde en büyük volkan hangi gezegendedir?",
+    "options": ["Dünya", "Mars", "Venüs", "Jüpiter"],
+    "correct": "Mars"
+  },
+  {
+    "question": "Türkiye'nin ilk nükleer santrali hangi şehirde inşa edilmektedir?",
+    "options": ["Sinop", "Mersin", "Kırklareli", "İzmir"],
+    "correct": "Mersin"
+  },
+  {
+    "question": "Hangi yazar 'Savaş ve Barış' romanını yazmıştır?",
+    "options": ["Fyodor Dostoyevski", "Lev Tolstoy", "Anton Çehov", "Ivan Turgenyev"],
+    "correct": "Lev Tolstoy"
+  },
+  {
+    "question": "Hangi element en yüksek erime noktasına sahiptir?",
+    "options": ["Tungsten", "Karbon", "Osmiyum", "Platin"],
+    "correct": "Tungsten"
+  },
+  {
+    "question": "Osmanlı Devleti'nde ilk defa hangi padişah döneminde matbaa kullanılmıştır?",
+    "options": ["III. Ahmet", "II. Mahmut", "I. Abdülhamit", "III. Selim"],
+    "correct": "III. Ahmet"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en büyük kanyon hangi gezegendedir?",
+    "options": ["Mars", "Venüs", "Merkür", "Jüpiter"],
+    "correct": "Mars"
+  },
+  {
+    "question": "Türkiye'nin en büyük jeotermal enerji santrali hangisidir?",
+    "options": ["Kızıldere", "Germencik", "Salavatlı", "Tuzla"],
+    "correct": "Kızıldere"
+  },
+  {
+    "question": "Hangi bilim insanı radyum ve polonyumu keşfetmiştir?",
+    "options": ["Marie Curie", "Albert Einstein", "Niels Bohr", "Ernest Rutherford"],
+    "correct": "Marie Curie"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Ag' sembolüyle gösterilir?",
+    "options": ["Altın", "Cıva", "Gümüş", "Arsenik"],
+    "correct": "Gümüş"
+  },
+  {
+    "question": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
+    "options": ["1453", "1451", "1455", "1457"],
+    "correct": "1453"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en büyük uydu hangisidir?",
+    "options": ["Titan", "Ganymede", "Ay", "Europa"],
+    "correct": "Ganymede"
+  },
+  {
+    "question": "Türkiye'nin en büyük hidroelektrik santrali hangisidir?",
+    "options": ["Atatürk Barajı", "Keban Barajı", "Karakaya Barajı", "Ilısu Barajı"],
+    "correct": "Atatürk Barajı"
+  },
+  {
+    "question": "Hangi yazar 'Don Kişot' romanını yazmıştır?",
+    "options": ["Miguel de Cervantes", "William Shakespeare", "Charles Dickens", "Victor Hugo"],
+    "correct": "Miguel de Cervantes"
+  },
+  {
+    "question": "Hangi element en yüksek elektrik iletkenliğine sahiptir?",
+    "options": ["Altın", "Bakır", "Gümüş", "Alüminyum"],
+    "correct": "Gümüş"
+  },
+  {
+    "question": "Çanakkale Savaşı hangi yıllar arasında gerçekleşmiştir?",
+    "options": ["1914-1915", "1915-1916", "1916-1917", "1917-1918"],
+    "correct": "1915-1916"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en sıcak gezegen hangisidir?",
+    "options": ["Merkür", "Venüs", "Mars", "Jüpiter"],
+    "correct": "Venüs"
+  },
+  {
+    "question": "Türkiye'nin ilk petrol rafinerisi hangisidir?",
+    "options": ["İpraş", "Tüpraş", "Aliağa", "Ataş"],
+    "correct": "İpraş"
+  },
+  {
+    "question": "Hangi bilim insanı genel görelilik teorisini geliştirmiştir?",
+    "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Max Planck"],
+    "correct": "Albert Einstein"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Hg' sembolüyle gösterilir?",
+    "options": ["Helyum", "Hidrojen", "Cıva", "Gadolinyum"],
+    "correct": "Cıva"
+  },
+  {
+    "question": "Türkiye Büyük Millet Meclisi hangi tarihte açılmıştır?",
+    "options": ["23 Nisan 1920", "29 Ekim 1923", "19 Mayıs 1919", "30 Ağustos 1922"],
+    "correct": "23 Nisan 1920"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en yoğun gezegen hangisidir?",
+    "options": ["Dünya", "Merkür", "Venüs", "Mars"],
+    "correct": "Dünya"
+  },
+  {
+    "question": "Türkiye'nin ilk demir çelik fabrikası hangi şehirdedir?",
+    "options": ["İstanbul", "İzmir", "Karabük", "Ereğli"],
+    "correct": "Karabük"
+  },
+  {
+    "question": "Hangi yazar '1984' romanını yazmıştır?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "H.G. Wells"],
+    "correct": "George Orwell"
+  },
+  {
+    "question": "Hangi element en hafif soy gazdır?",
+    "options": ["Helyum", "Neon", "Argon", "Kripton"],
+    "correct": "Helyum"
+  },
+  {
+    "question": "Lale Devri hangi padişah döneminde yaşanmıştır?",
+    "options": ["III. Ahmet", "I. Mahmut", "III. Mustafa", "I. Abdülhamit"],
+    "correct": "III. Ahmet"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en büyük krater hangi uydudadır?",
+    "options": ["Ay", "Ganymede", "Titan", "Callisto"],
+    "correct": "Callisto"
+  },
+  {
+    "question": "Türkiye'nin ilk uydu fırlatma merkezi nerede inşa edilmektedir?",
+    "options": ["Ankara", "İstanbul", "Sinop", "Muş"],
+    "correct": "Sinop"
+  },
+  {
+    "question": "Hangi bilim insanı elektromanyetik indüksiyonu keşfetmiştir?",
+    "options": ["Michael Faraday", "James Clerk Maxwell", "Thomas Edison", "Nikola Tesla"],
+    "correct": "Michael Faraday"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Pb' sembolüyle gösterilir?",
+    "options": ["Platin", "Potasyum", "Kurşun", "Fosfor"],
+    "correct": "Kurşun"
+  },
+  {
+    "question": "İlk Türk kadın pilot kimdir?",
+    "options": ["Sabiha Gökçen", "Eribe Kartal", "Bedriye Tahir Gökmen", "Nezihe Viranyalı"],
+    "correct": "Bedriye Tahir Gökmen"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en küçük gezegen hangisidir?",
+    "options": ["Mars", "Merkür", "Venüs", "Plüton"],
+    "correct": "Merkür"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli otomobili hangisidir?",
+    "options": ["Anadol", "Devrim", "Tofaş Murat", "Renault Toros"],
+    "correct": "Devrim"
+  },
+  {
+    "question": "Hangi yazar 'Bülbülü Öldürmek' romanını yazmıştır?",
+    "options": ["J.D. Salinger", "Harper Lee", "Ernest Hemingway", "F. Scott Fitzgerald"],
+    "correct": "Harper Lee"
+  },
+  {
+    "question": "Hangi element en sert doğal maddedir?",
+    "options": ["Elmas", "Zümrüt", "Safir", "Yakut"],
+    "correct": "Elmas"
+  },
+  {
+    "question": "Türkiye'de ilk nüfus sayımı hangi yılda yapılmıştır?",
+    "options": ["1923", "1927", "1935", "1940"],
+    "correct": "1927"
+  },
+  {
+    "question": "Güneş Sistemi'nde kaç cüce gezegen vardır?",
+    "options": ["3", "5", "7", "9"],
+    "correct": "5"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli helikopteri hangisidir?",
+    "options": ["T-129 ATAK", "T-70", "ATAK-2", "Gökbey"],
+    "correct": "Gökbey"
+  },
+  {
+    "question": "Hangi bilim insanı kuduz aşısını bulmuştur?",
+    "options": ["Louis Pasteur", "Alexander Fleming", "Robert Koch", "Edward Jenner"],
+    "correct": "Louis Pasteur"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'U' sembolüyle gösterilir?",
+    "options": ["Uranyum", "Ununbiyum", "Ununoktiyum", "Ununtriyum"],
+    "correct": "Uranyum"
+  },
+  {
+    "question": "İlk Türk denizaltısı hangisidir?",
+    "options": ["TCG Saldıray", "TCG Atılay", "TCG Yıldıray", "TCG Doğanay"],
+    "correct": "TCG Atılay"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en hızlı rüzgarlar hangi gezegendedir?",
+    "options": ["Jüpiter", "Satürn", "Neptün", "Uranüs"],
+    "correct": "Neptün"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli savaş gemisi hangisidir?",
+    "options": ["TCG Heybeliada", "TCG Büyükada", "TCG Kınalıada", "TCG Burgazada"],
+    "correct": "TCG Heybeliada"
+  },
+  {
+    "question": "Hangi yazar 'Dönüşüm' novellasını yazmıştır?",
+    "options": ["Franz Kafka", "Friedrich Nietzsche", "Hermann Hesse", "Thomas Mann"],
+    "correct": "Franz Kafka"
+  },
+  {
+    "question": "Hangi element en yüksek özgül ısı kapasitesine sahiptir?",
+    "options": ["Su", "Alüminyum", "Bakır", "Demir"],
+    "correct": "Su"
+  },
+  {
+    "question": "Türkiye'de ilk kez hangi yılda kadınlara seçme ve seçilme hakkı verilmiştir?",
+    "options": ["1930", "1934", "1938", "1940"],
+    "correct": "1934"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en genç gezegen hangisidir?",
+    "options": ["Dünya", "Mars", "Jüpiter", "Neptün"],
+    "correct": "Neptün"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli insansız hava aracı hangisidir?",
+    "options": ["Bayraktar TB2", "ANKA", "Aksungur", "TUSAŞ Gözcü"],
+    "correct": "Bayraktar TB2"
+  },
+  {
+    "question": "Hangi bilim insanı penicilini keşfetmiştir?",
+    "options": ["Louis Pasteur", "Alexander Fleming", "Robert Koch", "Joseph Lister"],
+    "correct": "Alexander Fleming"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Sn' sembolüyle gösterilir?",
+    "options": ["Kalay", "Antimon", "Selenyum", "Silisyum"],
+    "correct": "Kalay"
+  },
+  {
+    "question": "İlk Türk uydusu hangisidir?",
+    "options": ["Türksat 1A", "Türksat 1B", "BİLSAT", "RASAT"],
+    "correct": "BİLSAT"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en büyük toz fırtınaları hangi gezegende görülür?",
+    "options": ["Mars", "Jüpiter", "Satürn", "Venüs"],
+    "correct": "Mars"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli füzesi hangisidir?",
+    "options": ["SOM", "ATMACA", "HİSAR", "Tayfun"],
+    "correct": "Tayfun"
+  },
+  {
+    "question": "Hangi yazar 'Ulysses' romanını yazmıştır?",
+    "options": ["James Joyce", "Virginia Woolf", "D.H. Lawrence", "E.M. Forster"],
+    "correct": "James Joyce"
+  },
+  {
+    "question": "Hangi element en düşük kaynama noktasına sahiptir?",
+    "options": ["Helyum", "Hidrojen", "Azot", "Oksijen"],
+    "correct": "Helyum"
+  },
+  {
+    "question": "Türkiye'de ilk üniversite hangi şehirde açılmıştır?",
+    "options": ["Ankara", "İstanbul", "İzmir", "Konya"],
+    "correct": "İstanbul"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en uzun yanardağ hangisidir?",
+    "options": ["Mauna Kea", "Olympus Mons", "Etna", "Vezüv"],
+    "correct": "Olympus Mons"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli tankı hangisidir?",
+    "options": ["Altay", "Leopard", "M60 Patton", "Sabra"],
+    "correct": "Altay"
+  },
+  {
+    "question": "Hangi bilim insanı DNA'nın yapısını keşfetmiştir?",
+    "options": ["James Watson ve Francis Crick", "Rosalind Franklin", "Gregor Mendel", "Barbara McClintock"],
+    "correct": "James Watson ve Francis Crick"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'K' sembolüyle gösterilir?",
+    "options": ["Kalsiyum", "Karbon", "Potasyum", "Kobalt"],
+    "correct": "Potasyum"
+  },
+  {
+    "question": "İlk Türk kadın bakan kimdir?",
+    "options": ["Türkan Akyol", "Nimet Çubukçu", "Özlem Türeci", "Azize Sancar"],
+    "correct": "Türkan Akyol"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en yüksek dağ hangi gezegendedir?",
+    "options": ["Dünya", "Mars", "Venüs", "Merkür"],
+    "correct": "Mars"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli metro vagonları hangi şehirde üretilmiştir?",
+    "options": ["Ankara", "İstanbul", "İzmir", "Bursa"],
+    "correct": "İstanbul"
+  },
+  {
+    "question": "Hangi yazar 'Dava' romanını yazmıştır?",
+    "options": ["Franz Kafka", "Albert Camus", "Jean-Paul Sartre", "Fyodor Dostoyevski"],
+    "correct": "Franz Kafka"
+  },
+  {
+    "question": "Hangi element en yüksek buhar basıncına sahiptir?",
+    "options": ["Cıva", "Sodyum", "Sezyum", "Francium"],
+    "correct": "Sezyum"
+  },
+  {
+    "question": "Türkiye'de ilk televizyon yayını hangi yılda başlamıştır?",
+    "options": ["1964", "1968", "1971", "1974"],
+    "correct": "1968"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en büyük asteroid hangisidir?",
+    "options": ["Vesta", "Ceres", "Pallas", "Hygiea"],
+    "correct": "Ceres"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli elektrikli otobüsü hangi şehirde üretilmiştir?",
+    "options": ["Ankara", "İstanbul", "Kocaeli", "Bursa"],
+    "correct": "Kocaeli"
+  },
+  {
+    "question": "Hangi bilim insanı kuantum mekaniğinin kurucularından biridir?",
+    "options": ["Albert Einstein", "Niels Bohr", "Erwin Schrödinger", "Werner Heisenberg"],
+    "correct": "Werner Heisenberg"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'W' sembolüyle gösterilir?",
+    "options": ["Tungsten", "Vanadyum", "Wolfram", "Tantal"],
+    "correct": "Tungsten"
+  },
+  {
+    "question": "İlk Türk kadın başbakan kimdir?",
+    "options": ["Tansu Çiller", "Meral Akşener", "Emine Ülker Tarhan", "Fatma Şahin"],
+    "correct": "Tansu Çiller"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en büyük kütleli kuyruklu yıldız hangisidir?",
+    "options": ["Halley", "Hale-Bopp", "Hyakutake", "NEOWISE"],
+    "correct": "Hale-Bopp"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli tramvayı hangi şehirde üretilmiştir?",
+    "options": ["Ankara", "İstanbul", "Kayseri", "Sakarya"],
+    "correct": "Kayseri"
+  },
+  {
+    "question": "Hangi yazar 'Yabancı' romanını yazmıştır?",
+    "options": ["Jean-Paul Sartre", "Albert Camus", "Simone de Beauvoir", "André Gide"],
+    "correct": "Albert Camus"
+  },
+  {
+    "question": "Hangi element en yüksek yoğunluğa sahiptir?",
+    "options": ["Osmiyum", "İridyum", "Platin", "Altın"],
+    "correct": "Osmiyum"
+  },
+  {
+    "question": "Türkiye'de ilk radyo yayını hangi yılda başlamıştır?",
+    "options": ["1926", "1927", "1934", "1936"],
+    "correct": "1927"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en büyük meteor krateri nerededir?",
+    "options": ["Arizona, ABD", "Vredefort, Güney Afrika", "Chicxulub, Meksika", "Sudbury, Kanada"],
+    "correct": "Vredefort, Güney Afrika"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli elektrikli otomobili hangisidir?",
+    "options": ["TOGG", "Anadol", "Devrim", "Etox Zafer"],
+    "correct": "TOGG"
+  },
+  {
+    "question": "Hangi bilim insanı fotoelektrik etkiyi açıklamıştır?",
+    "options": ["Max Planck", "Albert Einstein", "Niels Bohr", "Werner Heisenberg"],
+    "correct": "Albert Einstein"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Pt' sembolüyle gösterilir?",
+    "options": ["Platin", "Paladyum", "Protaktinyum", "Polonyum"],
+    "correct": "Platin"
+  },
+  {
+    "question": "İlk Türk kadın savaş pilotu kimdir?",
+    "options": ["Sabiha Gökçen", "Leman Altınçekiç", "Nezihe Viranyalı", "Eribe Kartal"],
+    "correct": "Sabiha Gökçen"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en büyük gelgit etkisi hangi uyduda görülür?",
+    "options": ["Ay", "Europa", "Titan", "Io"],
+    "correct": "Io"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli uydusu hangisidir?",
+    "options": ["Türksat 1A", "BİLSAT", "RASAT", "GÖKTÜRK-1"],
+    "correct": "BİLSAT"
+  },
+  {
+    "question": "Hangi yazar 'Büyük Umutlar' romanını yazmıştır?",
+    "options": ["Charles Dickens", "Jane Austen", "Emily Brontë", "Charlotte Brontë"],
+    "correct": "Charles Dickens"
+  },
+  {
+    "question": "Hangi element en düşük yoğunluğa sahiptir?",
+    "options": ["Hidrojen", "Helyum", "Lityum", "Berilyum"],
+    "correct": "Hidrojen"
+  },
+  {
+    "question": "Türkiye'de ilk nükleer araştırma reaktörü hangi yılda açılmıştır?",
+    "options": ["1962", "1974", "1982", "1993"],
+    "correct": "1962"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en büyük buzul hangi uydudadır?",
+    "options": ["Europa", "Ganymede", "Callisto", "Enceladus"],
+    "correct": "Europa"
+  },
+  {
+    "question": "Türkiye'nin ilk yerli insansız kara aracı hangisidir?",
+    "options": ["KAPLAN", "BARKAN", "AZMİM", "AKREP"],
+    "correct": "KAPLAN"
+  },
+  {
+    "question": "Hangi bilim insanı izafiyet teorisini geliştirmiştir?",
+    "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Paul Dirac"],
+    "correct": "Albert Einstein"
+  },
+  {
+    "question": "Hangi element periyodik tabloda 'Au' sembolüyle gösterilir?",
+    "options": ["Gümüş", "Altın", "Alüminyum", "Argon"],
+    "correct": "Altın"
+  },
+  {
+    "question": "İlk Türk kadın vali kimdir?",
+    "options": ["Lale Aytaman", "Kadriye Karcı", "Zerrin Güngör", "Canan Atalay"],
+    "correct": "Lale Aytaman"
+  },
+  {
+    "question": "Güneş Sistemi'ndeki en büyük manyetik alan hangi gezegendedir?",
+    "options": ["Jüpiter", "Satürn", "Uranüs", "Neptün"],
     "correct": "Jüpiter"
   },
   {
-    "question": "Hangi element atomik numarası en küçük olan elementtir?",
-    "options": ["Oksijen", "Karbon", "Hidrojen", "Helyum"],
-    "correct": "Hidrojen"
+    "question": "Türkiye'nin ilk yerli hava savunma füzesi hangisidir?",
+    "options": ["SOM", "ATMACA", "HİSAR", "Tayfun"],
+    "correct": "HİSAR"
   }
 ]
