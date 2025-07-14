@@ -1,18 +1,462 @@
 [
   {
-    "question": "Dünya'nın en derin noktası olan Mariana Çukuru hangi okyanustadir?",
-    "options": ["Hint Okyanusu", "Atlantik Okyanusu", "Pasifik Okyanusu", "Arktik Okyanusu"],
-    "correct": "Pasifik Okyanusu"
+    "question": "'AdS/CFT yazışmasında' bulk'daki kütleçekim teorisi ile sınırdaki kuantum alan teorisi arasındaki ilişkiyi tanımlayan denklem nedir?",
+    "options": ["A) Einstein denklemleri", "B) Yang-Mills denklemleri", "C) Maldacena denklemi", "D) Ryu-Takayanagi formülü"],
+    "correct": "D) Ryu-Takayanagi formülü"
   },
- {
-    "question": "Hücre içindeki genetik materyalin bozulmasını ve mutasyonları onaran enzim hangisidir?",
-    "options": ["DNA Polimeraz", "RNA Polimeraz", "DNA Ligaz", "DNA Helikaz"],
-    "correct": "DNA Ligaz"
- },
   {
-    "question": "2023 yılında 'Oppenheimer' filmi ile En İyi Yönetmen Oscar'ını kazanan kimdir?",
-    "options": ["Martin Scorsese", "Christopher Nolan", "Steven Spielberg", "Quentin Tarantino"],
-    "correct": "Christopher Nolan"
+    "question": "Hangi matematiksel kavram 'Grothendieck'in standart sanılarının' çözümünde kilit rol oynar?",
+    "options": ["A) Motif kohomolojisi", "B) l-adik kohomoloji", "C) Kristalin kohomoloji", "D) Etale kohomoloji"],
+    "correct": "A) Motif kohomolojisi"
+  },
+  {
+    "question": "'Kuantum kütleçekiminde' spin köpük modellerinde uzay-zaman hacmini veren operatör hangisidir?",
+    "options": ["A) Alan operatörü", "B) Ashtekar operatörü", "C) Volume operatörü", "D) Hamilton kısıtlaması"],
+    "correct": "C) Volume operatörü"
+  },
+  {
+    "question": "Hangi kuantum hata düzeltme kodu 'topolojik kuantum hesaplamanın' temelini oluşturur?",
+    "options": ["A) Torik kod", "B) Yüzey kodu", "C) Color kod", "D) Fibonacci anyon modeli"],
+    "correct": "D) Fibonacci anyon modeli"
+  },
+  {
+    "question": "'Geometrik Langlands yazışmasında' Hecke eigensheaf'ler hangi nesnelere karşılık gelir?",
+    "options": ["A) Galois temsilleri", "B) Otomorfik formlar", "C) Higgs demetleri", "D) D-modülleri"],
+    "correct": "A) Galois temsilleri"
+  },
+  {
+    "question": "Hangi parçacık 'axion' karanlık madde modelinde CP problemine çözüm sunar?",
+    "options": ["A) QCD aksion", "B) ALP (Axion-like particle)", "C) Steril nötrino", "D) WIMPzilla"],
+    "correct": "A) QCD aksion"
+  },
+  {
+    "question": "'Kuantum üstünlüğünün' sertlik kanıtı hangi karmaşıklık sınıfı varsayımına dayanır?",
+    "options": ["A) P ≠ NP", "B) Polynomial Hierarchy'in sonsuzluğu", "C) Random Circuit Sampling'in klasik simülasyon zorluğu", "D) Kuantum Turing Makinelerinin üstünlüğü"],
+    "correct": "B) Polynomial Hierarchy'in sonsuzluğu"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'Birch ve Swinnerton-Dyer sanısının' özel durumunu kanıtlar?",
+    "options": ["A) Modülerlik teoremi", "B) Gross-Zagier formülü", "C) Iwasawa ana sanısı", "D) Sato-Tate teoremi"],
+    "correct": "B) Gross-Zagier formülü"
+  },
+  {
+    "question": "'String theory landscape' problemi hangi kozmolojik mekanizmayla çözülmeye çalışılır?",
+    "options": ["A) Kozmik enflasyon", "B) Antropik ilke", "C) Çoklu evrenler", "D) Karanlık akışkan"],
+    "correct": "C) Çoklu evrenler"
+  },
+  {
+    "question": "Hangi kuantum algoritması 'NISQ' döneminde kimyasal reaksiyonları simüle etmek için kullanılır?",
+    "options": ["A) VQE (Variational Quantum Eigensolver)", "B) QPE (Quantum Phase Estimation)", "C) QAOA (Quantum Approximate Optimization)", "D) QAA (Quantum Adiabatic Algorithm)"],
+    "correct": "A) VQE (Variational Quantum Eigensolver)"
+  },
+  {
+    "question": "'Kara delik bilgi paradoksunda' kuantum dolaşıklığın rolünü açıklayan ilke hangisidir?",
+    "options": ["A) ER=EPR", "B) ADS/CFT", "C) Holografik ilke", "D) Kuantum teleportasyon"],
+    "correct": "A) ER=EPR"
+  },
+  {
+    "question": "Hangi matematiksel yapı 'şafak sanısının' (Hodge conjecture) çözümünde merkezidir?",
+    "options": ["A) Motifler", "B) Galois temsilleri", "C) Periyotlar", "D) Hodge yapıları"],
+    "correct": "A) Motifler"
+  },
+  {
+    "question": "'Kuantum kütleçekiminde' Wheeler-DeWitt denkleminin ana problemi nedir?",
+    "options": ["A) Zaman parametresinin yokluğu", "B) Diffeomorfizm invaryansı", "C) UV diverjansları", "D) Kuadratik kısıtlamalar"],
+    "correct": "A) Zaman parametresinin yokluğu"
+  },
+  {
+    "question": "Hangi parçacık 'Majorana fermiyonu' olarak topolojik kuantum hesaplamada kubit olarak kullanılır?",
+    "options": ["A) Anyon", "B) Ising anyon", "C) Fibonacci anyon", "D) Majorana sıfır modları"],
+    "correct": "D) Majorana sıfır modları"
+  },
+  {
+    "question": "'Post-kuantum kriptografide' CRYSTALS-Kyber algoritmasının güvenliği hangi matematiksel probleme dayanır?",
+    "options": ["A) Modül latislerinde öğrenme hatası", "B) Çok değişkenli polinomlar", "C) Eliptik eğri izomorfizmi", "D) Kafes tabanlı kriptografi"],
+    "correct": "A) Modül latislerinde öğrenme hatası"
+  },
+  {
+    "question": "Hangi kozmolojik gözlem 'karanlık enerjinin' ivmelenen genişlemeyi sağladığını kanıtlar?",
+    "options": ["A) Tip Ia süpernovalar", "B) Kozmik mikrodalga arkaplan anizotropileri", "C) Baryon akustik salınımlar", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum biyolojide' fotosentetik enerji transferinin verimliliğini açıklayan mekanizma nedir?",
+    "options": ["A) Kuantum sıçraması", "B) Süperpozisyon tabanlı optimizasyon", "C) Eksitonik kuantum yürüyüşü", "D) Kuantum tünelleme"],
+    "correct": "C) Eksitonik kuantum yürüyüşü"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'Langlands funktoryalliğinin' fonksiyon cisimleri için kanıtını verir?",
+    "options": ["A) Laurent Lafforgue'nün çalışması", "B) Robert Langlands'ın temel lemma ispatı", "C) Edward Frenkel'in geometrik Langlands ispatı", "D) Peter Scholze'nün perfectoid uzaylar teorisi"],
+    "correct": "A) Laurent Lafforgue'nün çalışması"
+  },
+  {
+    "question": "'Kuantum alan teorisinde' renormalizasyon grubunun UV sabit noktası hangi kavramla ilgilidir?",
+    "options": ["A) Asimptotik özgürlük", "B) Asimptotik güvenlik", "C) Konformal simetri", "D) Kuantum anomalileri"],
+    "correct": "B) Asimptotik güvenlik"
+  },
+  {
+    "question": "Hangi nörobilim modeli 'kuantum bilinç' hipotezini matematiksel olarak ifade eder?",
+    "options": ["A) Penrose-Hameroff ORCH-OR modeli", "B) Tegmark kuantum beyin modeli", "C) Vitiello kuantum alan modeli", "D) Stapp kuantum zihin modeli"],
+    "correct": "A) Penrose-Hameroff ORCH-OR modeli"
+  },
+  {
+    "question": "'Kuantum internet' mimarisinde kuantum rölelerin mesafe sınırını aşmak için hangi teknoloji kullanılır?",
+    "options": ["A) Kuantum dolanıklık takası", "B) Kuantum hafıza düğümleri", "C) Kuantum hata düzeltme", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'Fermat'nın son teoreminin' Wiles tarafından ispatında kritik öneme sahiptir?",
+    "options": ["A) Modülerlik teoremi", "B) Galois temsilleri", "C) Selmer grupları", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Karanlık madde' doğrudan saptama deneylerinde kullanılan dedektör teknolojisi hangisidir?",
+    "options": ["A) Kriyojenik yarıiletkenler", "B) Sıvı ksenon zaman projeksiyon odaları", "C) Süperiletken tünelleme kılavuzları", "D) Nötron aktivasyon analizi"],
+    "correct": "B) Sıvı ksenon zaman projeksiyon odaları"
+  },
+  {
+    "question": "Hangi kuantum hesaplama paradigması 'topolojik kuantum hataya dayanıklılık' sağlar?",
+    "options": ["A) Anyonik sistemler", "B) Süperiletken kubitler", "C) İyon tuzakları", "D) Optik kuantum bilgisayarlar"],
+    "correct": "A) Anyonik sistemler"
+  },
+  {
+    "question": "'String phenomenology' hangi deneysel gözlemi açıklamayı hedefler?",
+    "options": ["A) Standart Model parametreleri", "B) Kozmolojik sabit problemi", "C) Parçacık kütle hiyerarşisi", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'Poincaré sanısının' Perelman tarafından ispatını tamamlar?",
+    "options": ["A) Geometrizasyon sanısı", "B) Ricci akış denklemleri", "C) Hamilton-Perelman teorisi", "D) Tümü"],
+    "correct": "D) Tümü"
+  },
+  {
+    "question": "'Kuantum kütleçekiminde' holografik entropi bağını veren formül nedir?",
+    "options": ["A) S = A/4G", "B) S = k ln W", "C) S = -Tr(ρ ln ρ)", "D) S = c/3 ln L"],
+    "correct": "A) S = A/4G"
+  },
+  {
+    "question": "Hangi parçacık 'steril nötrino' karanlık madde modeliyle ilişkilidir?",
+    "options": ["A) νMSM modeli", "B) WIMP modeli", "C) Axion modeli", "D) SIMP modeli"],
+    "correct": "A) νMSM modeli"
+  },
+  {
+    "question": "'Kuantum derin öğrenmede' parametrik kuantum devrelerinin eğitimi hangi algoritmayla yapılır?",
+    "options": ["A) Kuantum doğal gradiyent", "B) Parametre-shift kuralı", "C) Kuantum backpropagation", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'aritmetik geometride' L-fonksiyonlarının meromorfik sürekliliğini açıklar?",
+    "options": ["A) Langlands funktoryalliği", "B) Iwasawa teorisi", "C) Modularite teoremi", "D) Selberg sınıfı"],
+    "correct": "D) Selberg sınıfı"
+  },
+  {
+    "question": "'Nötrinoların Majorana doğası' hangi deneysel yöntemle araştırılır?",
+    "options": ["A) Çift beta bozunumu deneyleri", "B) Nötrino salınım gözlemleri", "C) Kozmik nötrino dedeksiyonu", "D) Parçacık çarpıştırıcıları"],
+    "correct": "A) Çift beta bozunumu deneyleri"
+  },
+  {
+    "question": "Hangi kuantum algoritması 'optimizasyon problemlerinde' kuantum hızlanması sağlar?",
+    "options": ["A) Grover algoritması", "B) QAOA (Quantum Approximate Optimization Algorithm)", "C) VQE (Variational Quantum Eigensolver)", "D) HHL algoritması"],
+    "correct": "B) QAOA (Quantum Approximate Optimization Algorithm)"
+  },
+  {
+    "question": "'String theory'de Calabi-Yau manifoldlarının topolojisini sınıflandıran araç hangisidir?",
+    "options": ["A) Hodge sayıları", "B) Chern sınıfları", "C) Gromov-Witten invaryantları", "D) Donaldson-Thomas invaryantları"],
+    "correct": "A) Hodge sayıları"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'Taniyama-Shimura sanısının' genel halini kanıtlar?",
+    "options": ["A) Breuil-Conrad-Diamond-Taylor teoremi", "B) Wiles-Taylor teoremi", "C) Serre'nin modülerlik sanısı", "D) Langlands-Tunnell teoremi"],
+    "correct": "A) Breuil-Conrad-Diamond-Taylor teoremi"
+  },
+  {
+    "question": "'Kuantum kütleçekiminde' döngü kuantum kütleçekiminin kinematik Hilbert uzayını tanımlayan temel yapı nedir?",
+    "options": ["A) Spin ağları", "B) Spin köpükleri", "C) Holonomi-flüks alanları", "D) Konfigürasyon uzayı"],
+    "correct": "A) Spin ağları"
+  },
+  {
+    "question": "Hangi parçacık 'karanlık foton' olarak karanlık madde etkileşimini açıklar?",
+    "options": ["A) U(1) uzatması", "B) Kinetik karışım", "C) Vektör portalı", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum makine öğrenmesinde' kuantum çekirdek yöntemi hangi avantajı sağlar?",
+    "options": ["A) Özellik uzayında doğrusal olmayan ayrıştırma", "B) Klasik olarak hesaplanamaz çekirdek fonksiyonları", "C) Üstel hızlanma", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'perfectoid uzayların' inşasında merkezidir?",
+    "options": ["A) Tilting eşleşmesi", "B) Pro-étale topoloji", "C) Diamant stratijisi", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kozmik enflasyon' teorisinin kuantum dalgalanma kökeni hangi gözlemsel veriyle doğrulanır?",
+    "options": ["A) Kozmik mikrodalga arkaplan anizotropileri", "B) Büyük ölçekli yapı dağılımı", "C) Kütleçekimsel dalga spektrumu", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi kuantum hesaplama teknolojisi 'fotonik kubitlerle' yüksek bağlanırlık sağlar?",
+    "options": ["A) Optik kuantum ağlar", "B) Kuantum noktalar", "C) Süperiletken dalga kılavuzları", "D) İyon tuzakları"],
+    "correct": "A) Optik kuantum ağlar"
+  },
+  {
+    "question": "'Geometrik Langlands'da' Hecke operatörlerinin geometrik karşılığı nedir?",
+    "options": ["A) Hitchin fibration", "B) Hecke dönüşümleri", "C) Geometric Satake eşdeğerliği", "D) Affine Grassmannian"],
+    "correct": "B) Hecke dönüşümleri"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'Milnor sanısının' Voevodsky tarafından ispatını sağlar?",
+    "options": ["A) Motif kohomolojisi", "B) A1-homotopi teorisi", "C) Bloch-Kato sanısı", "D) Tümü"],
+    "correct": "D) Tümü"
+  },
+  {
+    "question": "'Kara delik termodinamiğinde' Bekenstein-Hawking entropisinin mikroskopik açıklaması hangi teoriyle verilir?",
+    "options": ["A) String theory", "B) Döngü kuantum kütleçekimi", "C) Holografik ilke", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi parçacık 'gravitino' olarak süpersimetrik karanlık madde adayıdır?",
+    "options": ["A) LSP (Lightest Supersymmetric Particle)", "B) NLSP (Next-to-LSP)", "C) Gravitino", "D) Axino"],
+    "correct": "C) Gravitino"
+  },
+  {
+    "question": "'Kuantum derin öğrenmede' kuantum devrelerinin derinliği ile ilgili temel sınırlama nedir?",
+    "options": ["A) Barren plato problemi", "B) Kuantum hafıza kısıtlaması", "C) Dekohrans etkisi", "D) Kapı doğruluğu"],
+    "correct": "A) Barren plato problemi"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'p-adic Langlands yazışmasında' merkezidir?",
+    "options": ["A) p-adic Galois temsilleri", "B) p-adic analitik uzaylar", "C) (φ,Γ)-modüller", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Nötrinoların Dirac veya Majorana doğası' hangi deneysel imzayla ayırt edilir?",
+    "options": ["A) Nötrinosuz çift beta bozunumu", "B) Nötrino salınım faz ihlali", "C) Tersinir nötrino reaksiyonları", "D) Hepsi"],
+    "correct": "A) Nötrinosuz çift beta bozunumu"
+  },
+  {
+    "question": "Hangi kuantum algoritması 'doğrusal diferansiyel denklem sistemlerini' çözer?",
+    "options": ["A) HHL algoritması", "B) Quantum linear systems algorithm", "C) Quantum differential equation solver", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'String theory'de dualite simetrileri arasında hangisi heterotik/type I dualitesini tanımlar?",
+    "options": ["A) S-dualite", "B) T-dualite", "C) U-dualite", "D) Mirror simetri"],
+    "correct": "A) S-dualite"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'Serre'nin modülerlik sanısının' kanıtını içerir?",
+    "options": ["A) Khare-Wintenberger teoremi", "B) Kisin'in çalışması", "C) Taylor-Wiles yöntemi", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum kütleçekiminde' spin köpük modellerinde dinamikleri tanımlayan operatör hangisidir?",
+    "options": ["A) Hamilton kısıtlaması", "B) Wheeler-DeWitt operatörü", "C) Master kısıtlama", "D) Spin köpük köşe genliği"],
+    "correct": "A) Hamilton kısıtlaması"
+  },
+  {
+    "question": "Hangi parçacık 'SIMPs' (Strongly Interacting Massive Particles) karanlık madde modelini tanımlar?",
+    "options": ["A) Yüksek etkileşim kesitli parçacıklar", "B) Axion benzeri parçacıklar", "C) Kütleçekimsel solucan delikleri", "D) Karanlık sektör hadronları"],
+    "correct": "D) Karanlık sektör hadronları"
+  },
+  {
+    "question": "'Kuantum sinir ağlarında' kuantum avantajını sağlayan temel mekanizma nedir?",
+    "options": ["A) Hilbert uzayının üstel boyutu", "B) Kuantum paralellik", "C) Kuantum dolaşıklık", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'şafak sanısının' (Hodge conjecture) çözümünde ana engeldir?",
+    "options": ["A) Motiflerin yapısı", "B) Transandantal döngüler", "C) Hodge filtrasyonu", "D) Tate düzeltmesi"],
+    "correct": "B) Transandantal döngüler"
+  },
+  {
+    "question": "'Karanlık enerjinin' dinamik doğasını araştıran kozmolojik gözlem hangisidir?",
+    "options": ["A) DESI (Dark Energy Spectroscopic Instrument)", "B) LSST (Large Synoptic Survey Telescope)", "C) Euclid teleskobu", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi kuantum hesaplama mimarisi 'yüksek bağlanırlık ve düşük gecikme' avantajı sağlar?",
+    "options": ["A) Süperiletken kubitler", "B) İyon tuzakları", "C) Fotonik kubitler", "D) Topolojik kubitler"],
+    "correct": "B) İyon tuzakları"
+  },
+  {
+    "question": "'Geometric Langlands'da' automorphic D-modülleri hangi nesnelere karşılık gelir?",
+    "options": ["A) Galois temsilleri", "B) Hecke eigensheaf'ler", "C) Flat G-bağlantıları", "D) Higgs alanları"],
+    "correct": "C) Flat G-bağlantıları"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'Bloch-Kato sanısının' kanıtını verir?",
+    "options": ["A) Voevodsky'nin motivik kohomolojisi", "B) Rost'un norm varyetesi", "C) Merkurjev-Suslin teoremi", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum alan teorisinde' konformal simetrinin kırılmasını açıklayan mekanizma nedir?",
+    "options": ["A) Anomaliler", "B) Kütle terimleri", "C) Wilson döngüleri", "D) Renormalizasyon akışı"],
+    "correct": "A) Anomaliler"
+  },
+  {
+    "question": "Hangi parçacık 'primordial kara deliklerin' karanlık madde olma olasılığını artırır?",
+    "options": ["A) Hawking radyasyonu", "B) Kütleçekimsel mercekleme", "C) Kütle spektrumu", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum derin öğrenmede' parametrik kuantum devrelerinin gradyan hesaplama yöntemi hangisidir?",
+    "options": ["A) Parametre-shift kuralı", "B) Kuantum doğal gradiyent", "C) Hadamard testi", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'perfectoid uzayların' kohomolojik özelliklerini tanımlar?",
+    "options": ["A) p-adic Hodge teorisi", "B) Pro-étale kohomoloji", "C) Tilting eşdeğerliği", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Nükleer füzyonda' Q>1 plazma performansı hangi deneyle gösterilmiştir?",
+    "options": ["A) JET tokamak", "B) ITER test reaktörü", "C) NIF (National Ignition Facility)", "D) Wendelstein 7-X stellarator"],
+    "correct": "C) NIF (National Ignition Facility)"
+  },
+  {
+    "question": "Hangi kuantum algoritması 'kuantum kimya simülasyonunda' kullanılır?",
+    "options": ["A) VQE (Variational Quantum Eigensolver)", "B) QPE (Quantum Phase Estimation)", "C) Trotter-Suzuki ayrıştırması", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'String theory'de D-branelerin dinamikleri hangi eylemle tanımlanır?",
+    "options": ["A) Dirac-Born-Infeld eylemi", "B) Nambu-Goto eylemi", "C) Polyakov eylemi", "D) Wess-Zumino-Witten modeli"],
+    "correct": "A) Dirac-Born-Infeld eylemi"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'Weil sanılarının' Deligne tarafından kanıtını sağlar?",
+    "options": ["A) l-adik kohomoloji", "B) Grothendieck'in standart sanıları", "C) Etale kohomoloji", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum kütleçekiminde' holografik prensibin matematiksel formülasyonu hangisidir?",
+    "options": ["A) AdS/CFT yazışması", "B) Ryu-Takayanagi formülü", "C) Bekenstein sınırı", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi parçacık 'WIMP' (Weakly Interacting Massive Particles) karanlık madde modelini tanımlar?",
+    "options": ["A) Nötralino", "B) Gravitino", "C) Aksino", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum makine öğrenmesinde' kuantum çekirdek yönteminin avantajı nedir?",
+    "options": ["A) Yüksek boyutlu özellik uzayı", "B) Klasik olarak hesaplanamaz çekirdekler", "C) Üstel hızlanma", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'şafak sanısının' (Hodge conjecture) çözümünde kullanılan ana tekniktir?",
+    "options": ["A) Motif kohomolojisi", "B) Hodge yapıları", "C) Polarizasyon", "D) Jacobian çeşitleri"],
+    "correct": "A) Motif kohomolojisi"
+  },
+  {
+    "question": "'Karanlık maddenin' doğrudan saptanması için hangi yer altı deneyi kullanılır?",
+    "options": ["A) LUX-ZEPLIN", "B) XENONnT", "C) PandaX", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi kuantum hesaplama teknolojisi 'uzun kohorans süresi' avantajına sahiptir?",
+    "options": ["A) NV merkezleri", "B) Süperiletken kubitler", "C) İyon tuzakları", "D) Topolojik kubitler"],
+    "correct": "A) NV merkezleri"
+  },
+  {
+    "question": "'Geometric Langlands'da' automorphic tarafındaki temel nesne nedir?",
+    "options": ["A) Hecke eigensheaf", "B) D-modül", "C) Flat bağlantı", "D) Galois temsili"],
+    "correct": "B) D-modül"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'Iwasawa ana sanısının' kanıtını verir?",
+    "options": ["A) Mazur-Wiles teoremi", "B) Kolyvagin-Flach yöntemi", "C) Rubin'in çalışması", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum alan teorisinde' kiral simetri kırılması hangi fenomenle ilişkilidir?",
+    "options": ["A) Goldstone bozonları", "B) Anomaliler", "C) Topolojik solitonlar", "D) Instantons"],
+    "correct": "A) Goldstone bozonları"
+  },
+  {
+    "question": "Hangi parçacık 'axion-like particles' olarak genişletilmiş karanlık madde modellerini tanımlar?",
+    "options": ["A) ALPs", "B) WISPs", "C) FIPs", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum derin öğrenmede' kuantum devrelerinin derin mimarisini optimize etmek için hangi yöntem kullanılır?",
+    "options": ["A) Kuantum nöral mimari arama", "B) Gradyan tabanlı optimizasyon", "C) Genetik algoritmalar", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'p-adic Langlands programında' temsil teorisini geometriye bağlar?",
+    "options": ["A) (φ,Γ)-modüller", "B) p-adic Galois temsilleri", "C) p-adic analitik uzaylar", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kozmolojik sabit problemi' hangi teorik mekanizmayla çözülmeye çalışılır?",
+    "options": ["A) Antropik ilke", "B) Quintessence", "C) Karanlık akışkan", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi kuantum algoritması 'kuantum hızlanması' olmadan klasik algoritmalardan daha iyi performans gösterir?",
+    "options": ["A) Kuantum Monte Carlo", "B) VQE (Variational Quantum Eigensolver)", "C) QAOA (Quantum Approximate Optimization Algorithm)", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'String theory'de uzay-zaman boyutlarının 10 olmasını gerektiren matematiksel yapı nedir?",
+    "options": ["A) Konformal anomali iptali", "B) Kappa-simetri", "C) BRST kohomolojisi", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'Sato-Tate sanısının' kanıtını verir?",
+    "options": ["A) Clozel-Harris-Taylor teoremi", "B) Taylor'ın çalışması", "C) Modularite teoremi", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum kütleçekiminde' döngü kuantum kütleçekiminin spektrumunu tanımlayan operatör hangisidir?",
+    "options": ["A) Alan operatörü", "B) Spin ağ uzunluk operatörü", "C) Hamiltoniyen kısıtlaması", "D) Master kısıtlama"],
+    "correct": "B) Spin ağ uzunluk operatörü"
+  },
+  {
+    "question": "Hangi parçacık 'fuzzy dark matter' olarak ultra-hafif skalarları tanımlar?",
+    "options": ["A) Aksion", "B) ALPs", "C) Scalar field dark matter", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum sinir ağlarında' kuantum parametrik devrelerinin avantajı nedir?",
+    "options": ["A) Üstel parametre verimliliği", "B) Klasik olarak öğrenilemez fonksiyonlar", "C) Kuantum dolaşıklık", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'şafak sanısının' (Hodge conjecture) çözümünde kullanılan kohomoloji teorisidir?",
+    "options": ["A) Motif kohomolojisi", "B) Deligne kohomolojisi", "C) Etale kohomoloji", "D) l-adik kohomoloji"],
+    "correct": "A) Motif kohomolojisi"
+  },
+  {
+    "question": "'Karanlık maddenin' dolaylı saptanması için hangi astrofiziksel gözlem kullanılır?",
+    "options": ["A) Kütleçekimsel mercekleme", "B) Gama ışını gözlemleri", "C) Galaksi dönüş eğrileri", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi kuantum hesaplama teknolojisi 'doğal kohorans süresi' avantajına sahiptir?",
+    "options": ["A) Topolojik kubitler", "B) Majorana fermiyonları", "C) NV merkezleri", "D) Rydberg atomları"],
+    "correct": "B) Majorana fermiyonları"
+  },
+  {
+    "question": "'Geometric Langlands'da' geometrik tarafındaki temel nesne nedir?",
+    "options": ["A) Hecke eigensheaf", "B) D-modül", "C) Flat bağlantı", "D) Galois temsili"],
+    "correct": "A) Hecke eigensheaf"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'Birch ve Swinnerton-Dyer sanısının' kısmi kanıtını verir?",
+    "options": ["A) Gross-Zagier formülü", "B) Kolyvagin yöntemi", "C) Skinner-Urban teoremi", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum alan teorisinde' topolojik kuantum alan teorisinin (TQFT) ayırt edici özelliği nedir?",
+    "options": ["A) Topolojik invaryans", "B) Diffeomorfizm invaryansı", "C) Konformal simetri", "D) Süpersimetri"],
+    "correct": "A) Topolojik invaryans"
+  },
+  {
+    "question": "Hangi parçacık 'Q-ball' olarak topolojik karanlık madde adayıdır?",
+    "options": ["A) Skaler topolojik soliton", "B) Vektör topolojik soliton", "C) Fermiyonik topolojik soliton", "D) Hepsi"],
+    "correct": "A) Skaler topolojik soliton"
   }
 ]
-
