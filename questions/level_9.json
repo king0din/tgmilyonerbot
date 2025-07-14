@@ -1,17 +1,482 @@
 [
   {
-    "question": "İnsülin hormonu vücutta hangi organın çalışmasına yardımcı olur?",
-    "options": ["Karaciğer", "Pankreas", "Böbrek", "Kalp"],
-    "correct": "Pankreas"
+    "question": "Hangi matematiksel teorem 'sürekli fonksiyonların topolojik özelliklerini' tanımlar?",
+    "options": ["A) Hahn-Banach Teoremi", "B) Banach-Steinhaus Teoremi", "C) Brouwer Sabit Nokta Teoremi", "D) Arzelà-Ascoli Teoremi"],
+    "correct": "C) Brouwer Sabit Nokta Teoremi"
   },
   {
-    "question": "Periyodik tabloda en fazla element hangi grupta bulunur?",
-    "options": ["Alkali metaller", "Geçiş metalleri", "Asal gazlar", "Toprak metalleri"],
-    "correct": "Geçiş metalleri"
+    "question": "Kuantum hesaplamada 'surface code' hata düzeltme yöntemi hangi geometrik yapıya dayanır?",
+    "options": ["A) Torus", "B) Küre", "C) Möbius Şeridi", "D) Klein Şişesi"],
+    "correct": "A) Torus"
   },
   {
-    "question": "Kuantum teorisinin kurucusu hangisidir?",
-    "options": ["Albert Einstein", "Max Planck", "Niels Bohr", "Werner Heisenberg"],
-    "correct": "Max Planck"
+    "question": "Hangi elementin izotopu nükleer manyetik rezonans (NMR) spektroskopisinde en yüksek çözünürlüğü sağlar?",
+    "options": ["A) Hidrojen-1", "B) Karbon-13", "C) Flor-19", "D) Fosfor-31"],
+    "correct": "A) Hidrojen-1"
+  },
+  {
+    "question": "'AdS/CFT yazışması' hangi iki fizik teorisi arasındaki bağlantıyı kurar?",
+    "options": ["A) Kuantum Alan Teorisi - Genel Görelilik", "B) Sicim Teorisi - Kuantum Kütleçekimi", "C) Kuantum Elektrodinamiği - Standart Model", "D) Termodinamik - İstatistiksel Mekanik"],
+    "correct": "B) Sicim Teorisi - Kuantum Kütleçekimi"
+  },
+  {
+    "question": "Hangi kriptografik protokol sıfır bilgi ispatında 'succinct non-interactive' özelliğini sağlar?",
+    "options": ["A) zk-STARK", "B) zk-SNARK", "C) Bulletproofs", "D) STARKWARE"],
+    "correct": "A) zk-STARK"
+  },
+  {
+    "question": "Hangi matematiksel yapı 'homotopi tip teorisinin' temelini oluşturur?",
+    "options": ["A) Kategori Teorisi", "B) Grup Teorisi", "C) Halka Teorisi", "D) Cisim Teorisi"],
+    "correct": "A) Kategori Teorisi"
+  },
+  {
+    "question": "Tokamaklarda plazma kararlılığı için kullanılan 'neoclassical tearing mode' hangi fiziksel olayı kontrol eder?",
+    "options": ["A) Manyetik yeniden bağlanma", "B) Plazma türbülansı", "C) Sınır katmanı etkileşimi", "D) Manyetik alan sınırlaması"],
+    "correct": "A) Manyetik yeniden bağlanma"
+  },
+  {
+    "question": "Hangi programlama dili 'dependent types' ile ispat tabanlı programlamayı destekler?",
+    "options": ["A) Coq", "B) Agda", "C) Idris", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Kara delik termodinamiği hangi fizik yasasını genişletir?",
+    "options": ["A) Termodinamiğin 0. Yasası", "B) Termodinamiğin 1. Yasası", "C) Termodinamiğin 2. Yasası", "D) Termodinamiğin 3. Yasası"],
+    "correct": "C) Termodinamiğin 2. Yasası"
+  },
+  {
+    "question": "Hangi nöral ağ mimarisi 'attention mekanizmasını' ilk kez kullanmıştır?",
+    "options": ["A) Transformers", "B) LSTM", "C) GRU", "D) CNN"],
+    "correct": "A) Transformers"
+  },
+  {
+    "question": "Hangi element 'kritik sıcaklık üstün iletkenliğinde' rekor yüksek sıcaklığa sahiptir?",
+    "options": ["A) Cıva", "B) Kurşun", "C) Bakır oksit", "D) Karbon allotropları"],
+    "correct": "C) Bakır oksit"
+  },
+  {
+    "question": "'Gödel'in eksiklik teoremi' hangi matematiksel sistemi kapsar?",
+    "options": ["A) Sonlu aritmetik sistemler", "B) Birinci dereceden Peano aritmetiği", "C) Öklid geometrisi", "D) Tüm aksiyomatik sistemler"],
+    "correct": "B) Birinci dereceden Peano aritmetiği"
+  },
+  {
+    "question": "Kuantum hesaplamada 'NISQ' dönemi neyi ifade eder?",
+    "options": ["A) Noise Intermediate-Scale Quantum", "B) Non-Interactive Quantum Computing", "C) Near-Term Integrated Superconducting Qubits", "D) Neutral Ion-based Quantum Processors"],
+    "correct": "A) Noise Intermediate-Scale Quantum"
+  },
+  {
+    "question": "Hangi kozmolojik model 'konformal döngüsel kozmoloji' olarak bilinir?",
+    "options": ["A) Penrose Modeli", "B) Hawking Modeli", "C) Guth Modeli", "D) Steinhardt-Turok Modeli"],
+    "correct": "A) Penrose Modeli"
+  },
+  {
+    "question": "Hangi matematiksel araç 'Ricci akışını' kullanarak Poincaré sanısını kanıtlamıştır?",
+    "options": ["A) Andrew Wiles", "B) Grigori Perelman", "C) Terence Tao", "D) Edward Witten"],
+    "correct": "B) Grigori Perelman"
+  },
+  {
+    "question": "Hangi parçacık dedektörü 'axion' araştırmalarında kullanılır?",
+    "options": ["A) ADMX", "B) LIGO", "C) ATLAS", "D) IceCube"],
+    "correct": "A) ADMX"
+  },
+  {
+    "question": "'Formal doğrulama' için hangi matematiksel mantık sistemi kullanılır?",
+    "options": ["A) Önermeler mantığı", "B) Birinci derece mantık", "C) Yüksek dereceli mantık", "D) Modal mantık"],
+    "correct": "C) Yüksek dereceli mantık"
+  },
+  {
+    "question": "Hangi biyolojik süreç 'kriptokrom' proteinleri ile kuantum etkileri kullanır?",
+    "options": ["A) Fotosentez", "B) Kuşların manyetik navigasyonu", "C) DNA replikasyonu", "D) Hücresel solunum"],
+    "correct": "B) Kuşların manyetik navigasyonu"
+  },
+  {
+    "question": "'Topolojik kuantum bilgisayar' hangi egzotik parçacık türüne dayanır?",
+    "options": ["A) Anyonlar", "B) Fermiyonlar", "C) Bozonlar", "D) Majorana fermiyonları"],
+    "correct": "A) Anyonlar"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'holografik ilke' ile ilişkilidir?",
+    "options": ["A) Entropi", "B) Shannon entropisi", "C) Von Neumann entropisi", "D) Bekenstein-Hawking entropisi"],
+    "correct": "D) Bekenstein-Hawking entropisi"
+  },
+  {
+    "question": "Hangi element 'karanlık madde dedektörlerinde' hedef madde olarak kullanılır?",
+    "options": ["A) Ksenon", "B) Argon", "C) Germanyum", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Quantum supremacy' hangi kuantum işlemci ile ilk kez gösterilmiştir?",
+    "options": ["A) IBM Q System", "B) Google Sycamore", "C) Honeywell H1", "D) Rigetti Aspen"],
+    "correct": "B) Google Sycamore"
+  },
+  {
+    "question": "Hangi fiziksel sabit 'inceden ayar problemi' ile ilişkilidir?",
+    "options": ["A) İnce yapı sabiti", "B) Kütleçekim sabiti", "C) Planck sabiti", "D) Boltzmann sabiti"],
+    "correct": "A) İnce yapı sabiti"
+  },
+  {
+    "question": "'Homotopi tip teorisi' hangi matematiksel problemi çözmeyi amaçlar?",
+    "options": ["A) Riemann hipotezi", "B) Poincaré sanısı", "C) Voevodsky'nin homotopi teorisi", "D) Tüm matematiksel sistemlerin tutarlılığı"],
+    "correct": "D) Tüm matematiksel sistemlerin tutarlılığı"
+  },
+  {
+    "question": "Hangi yapay zeka tekniği 'meta-öğrenme' kavramını uygular?",
+    "options": ["A) Transfer öğrenme", "B) Model-Agnostic Meta-Learning (MAML)", "C) Takviyeli öğrenme", "D) Destek vektör makineleri"],
+    "correct": "B) Model-Agnostic Meta-Learning (MAML)"
+  },
+  {
+    "question": "'Kuantum kütleçekimi' için hangi yaklaşım 'döngü kuantum kütleçekimi' olarak adlandırılır?",
+    "options": ["A) Sicim teorisi", "B) Twistor teorisi", "C) Asimptotik güvenlik", "D) Spin köpük ağları"],
+    "correct": "D) Spin köpük ağları"
+  },
+  {
+    "question": "Hangi matematiksel yapı 'mirror symmetry' olgusunu açıklar?",
+    "options": ["A) Kategori teorisi", "B) Hodge teorisi", "C) Gromov-Witten teorisi", "D) Tümü"],
+    "correct": "D) Tümü"
+  },
+  {
+    "question": "Nükleer füzyonda 'ignition' koşulu hangi parametre ile tanımlanır?",
+    "options": ["A) Lawson kriteri", "B) Triple product", "C) Q değeri", "D) Plazma beta değeri"],
+    "correct": "A) Lawson kriteri"
+  },
+  {
+    "question": "Hangi kuantum algoritması 'doğrusal denklem sistemlerini' çözer?",
+    "options": ["A) HHL algoritması", "B) Shor algoritması", "C) Grover algoritması", "D) VQE algoritması"],
+    "correct": "A) HHL algoritması"
+  },
+  {
+    "question": "'Kriptografik çoklu doğrusal haritalar' hangi güvenlik problemini çözer?",
+    "options": ["A) Kuantum sonrası şifreleme", "B) Programlanabilir şifreleme", "C) İşlevsel şifreleme", "D) Homomorfik şifreleme"],
+    "correct": "C) İşlevsel şifreleme"
+  },
+  {
+    "question": "Hangi element 'atomik saatlerde' kullanılan geçiş frekansına sahiptir?",
+    "options": ["A) Sezyum", "B) Rubidyum", "C) İtriyum", "D) Stronsiyum"],
+    "correct": "A) Sezyum"
+  },
+  {
+    "question": "'Conformal bootstrap' yöntemi hangi fizik teorisini analiz eder?",
+    "options": ["A) Kuantum alan teorisi", "B) İkinci dereceden faz geçişleri", "C) Kritik olgular", "D) Tümü"],
+    "correct": "D) Tümü"
+  },
+  {
+    "question": "Hangi nörobilim modeli 'integrate-and-fire' nöronları kullanır?",
+    "options": ["A) Hodgkin-Huxley", "B) Leaky integrate-and-fire", "C) Izhikevich modeli", "D) Hopfield ağı"],
+    "correct": "B) Leaky integrate-and-fire"
+  },
+  {
+    "question": "'Kuantum dolanıklığın' 'CHSH eşitsizliği' ile testi hangi değeri aşar?",
+    "options": ["A) 1", "B) √2", "C) 2", "D) 2√2"],
+    "correct": "D) 2√2"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'Langlands programının' merkezindedir?",
+    "options": ["A) Otomorfik formlar", "B) Galois temsilleri", "C) L-fonksiyonları", "D) Tümü"],
+    "correct": "D) Tümü"
+  },
+  {
+    "question": "Hangi fiziksel olay 'Casimir etkisi' ile gösterilir?",
+    "options": ["A) Kuantum vakum dalgalanmaları", "B) Kuantum tünelleme", "C) Süperpozisyon", "D) Dolaşıklık"],
+    "correct": "A) Kuantum vakum dalgalanmaları"
+  },
+  {
+    "question": "Hangi biyoinformatik yöntem 'protein katlanma problemini' çözmüştür?",
+    "options": ["A) AlphaFold", "B) BLAST", "C) Rosetta@home", "D) Phyre2"],
+    "correct": "A) AlphaFold"
+  },
+  {
+    "question": "'De Rham kohomolojisi' hangi matematiksel nesneleri sınıflandırır?",
+    "options": ["A) Topolojik uzaylar", "B) Diferansiyellenebilir manifoldlar", "C) Cebirsel çeşitler", "D) Metrik uzaylar"],
+    "correct": "B) Diferansiyellenebilir manifoldlar"
+  },
+  {
+    "question": "Hangi parçacık hızlandırıcısı 'parçacık ışın terapisinde' kullanılır?",
+    "options": ["A) Synchrotron", "B) Cyclotron", "C) Linac", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum makine öğrenmesinde' hangi kernel yöntemi kullanılır?",
+    "options": ["A) Quantum kernel estimator", "B) Quantum support vector machine", "C) Quantum neural networks", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi element 'fotodiyotlarda' kuantum verimliliği en yüksek olanıdır?",
+    "options": ["A) Silisyum", "B) Germanyum", "C) Galyum arsenit", "D) İndiyum fosfür"],
+    "correct": "C) Galyum arsenit"
+  },
+  {
+    "question": "'Kolmogorov karmaşıklığı' hangi bilim alanında kullanılır?",
+    "options": ["A) Bilgi teorisi", "B) Algoritmik bilgi teorisi", "C) Veri sıkıştırma", "D) Tümü"],
+    "correct": "D) Tümü"
+  },
+  {
+    "question": "Hangi nükleer reaksiyon 'CNO döngüsünü' tanımlar?",
+    "options": ["A) Hidrojen füzyonu", "B) Helyum füzyonu", "C) Karbon füzyonu", "D) Demir parçalanması"],
+    "correct": "A) Hidrojen füzyonu"
+  },
+  {
+    "question": "'Monstrous moonshine' olgusu hangi matematiksel nesneleri ilişkilendirir?",
+    "options": ["A) Monster grup - Modüler formlar", "B) Lie grupları - Diferansiyel denklemler", "C) Galois grupları - Cisimler", "D) Permütasyon grupları - Kombinatorik"],
+    "correct": "A) Monster grup - Modüler formlar"
+  },
+  {
+    "question": "Hangi kuantum fenomeni 'SQUID' cihazlarının çalışma prensibidir?",
+    "options": ["A) Josephson etkisi", "B) Hall etkisi", "C) Meissner etkisi", "D) Kuantum tünelleme"],
+    "correct": "A) Josephson etkisi"
+  },
+  {
+    "question": "'Formal doğrulamada' hangi yöntem 'model kontrolü' olarak bilinir?",
+    "options": ["A) Temporal logic", "B) Hoare mantığı", "C) Separation logic", "D) Type theory"],
+    "correct": "A) Temporal logic"
+  },
+  {
+    "question": "Hangi biyolojik molekül 'kuantum biyolojide' kriptokrom olarak işlev görür?",
+    "options": ["A) DNA", "B) Rhodopsin", "C) Kriptokrom 1", "D) ATPaz"],
+    "correct": "C) Kriptokrom 1"
+  },
+  {
+    "question": "'Kuantum ışınlanma' hangi bilgi türünün aktarımını sağlar?",
+    "options": ["A) Kuantum durumu", "B) Klasik bilgi", "C) Enerji", "D) Kütle"],
+    "correct": "A) Kuantum durumu"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'sonlu grupların sınıflandırılmasını' sağlar?",
+    "options": ["A) Feit-Thompson teoremi", "B) Burnside problemi", "C) Sınıflandırma teoremi", "D) Sylow teoremleri"],
+    "correct": "C) Sınıflandırma teoremi"
+  },
+  {
+    "question": "Hangi fiziksel sabit 'kozmik enflasyon teorisinde' önemlidir?",
+    "options": ["A) Hubble sabiti", "B) Kozmolojik sabit", "C) Planck ölçeği", "D) İnce yapı sabiti"],
+    "correct": "B) Kozmolojik sabit"
+  },
+  {
+    "question": "'Post-kuantum kriptografide' hangi algoritma NIST standardı olmuştur?",
+    "options": ["A) CRYSTALS-Kyber", "B) NTRU", "C) McEliece", "D) Rainbow"],
+    "correct": "A) CRYSTALS-Kyber"
+  },
+  {
+    "question": "Hangi element 'nükleer bataryalarda' kullanılır?",
+    "options": ["A) Plütonyum-238", "B) Trityum", "C) Nikel-63", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum hata düzeltmede' hangi kod 5 kubit ile tek hata düzeltmesi sağlar?",
+    "options": ["A) Shor kodu", "B) Steane kodu", "C) Surface kodu", "D) 5-kubit kodu"],
+    "correct": "D) 5-kubit kodu"
+  },
+  {
+    "question": "Hangi matematiksel yapı 'Fermat'nın son teoreminin' kanıtında kullanıldı?",
+    "options": ["A) Modüler eliptik eğriler", "B) Galois temsilleri", "C) Iwasawa teorisi", "D) Tümü"],
+    "correct": "D) Tümü"
+  },
+  {
+    "question": "'Karanlık enerji' hangi gözlemsel kanıtla keşfedildi?",
+    "options": ["A) Tip Ia süpernovalar", "B) Kozmik mikrodalga arkaplan", "B) Galaksi kümeleri", "D) Baryon akustik salınımlar"],
+    "correct": "A) Tip Ia süpernovalar"
+  },
+  {
+    "question": "Hangi yapay zeka tekniği 'transformer mimarisi' ile doğal dil işlemede devrim yaptı?",
+    "options": ["A) BERT", "B) GPT", "C) T5", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi fiziksel olay 'Aharonov-Bohm etkisini' gösterir?",
+    "options": ["A) Manyetik vektör potansiyelinin fiziksel etkisi", "B) Elektrik alanın kuantum etkileri", "C) Kütleçekimsel dalgaların saptanması", "D) Kuantum dolanıklığın uzaysal dağılımı"],
+    "correct": "A) Manyetik vektör potansiyelinin fiziksel etkisi"
+  },
+  {
+    "question": "Hangi biyolojik sistem 'kuantum hesaplama' benzeri paralel işlem yapar?",
+    "options": ["A) Beyin nöral ağları", "B) DNA hesaplama", "C) Kuantum biyoloji", "D) Protein katlanma mekanizmaları"],
+    "correct": "A) Beyin nöral ağları"
+  },
+  {
+    "question": "'Kuantum kriptografide' hangi protokol mesafe sınırlamasını aşmak için kullanılır?",
+    "options": ["A) BB84", "B) E91", "C) Kuantum röleler", "D) Kuantum hafıza"],
+    "correct": "C) Kuantum röleler"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'Hodge sanısının' temelini oluşturur?",
+    "options": ["A) Harmonik formlar", "B) De Rham kohomolojisi", "C) Dolbeault kohomolojisi", "D) Tümü"],
+    "correct": "D) Tümü"
+  },
+  {
+    "question": "Hangi parçacık 'standart modelde' CP ihlalini açıklar?",
+    "options": ["A) Higgs bozonu", "B) Nötrino", "C) Kuark", "D) Bozonik parçacıklar"],
+    "correct": "C) Kuark"
+  },
+  {
+    "question": "'Kuantum derin öğrenmede' hangi algoritma kullanılır?",
+    "options": ["A) Quantum neural networks", "B) Quantum Boltzmann machines", "C) Quantum generative adversarial networks", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi element 'kuantum nokta ekranlarında' kullanılır?",
+    "options": ["A) Kadmiyum selenid", "B) Silisyum", "C) Galyum nitrür", "D) İndiyum kalay oksit"],
+    "correct": "A) Kadmiyum selenid"
+  },
+  {
+    "question": "'Langlands dualitesi' hangi matematiksel nesneleri ilişkilendirir?",
+    "options": ["A) Lie grupları", "B) Cebirsel gruplar", "C) Redüktif gruplar", "D) Tümü"],
+    "correct": "D) Tümü"
+  },
+  {
+    "question": "Hangi nükleer süreç 'nötron yıldızlarının' oluşumuna yol açar?",
+    "options": ["A) Süpernova patlamaları", "B) Nükleosentez", "C) Elektron yakalama", "D) Proton bozunması"],
+    "correct": "A) Süpernova patlamaları"
+  },
+  {
+    "question": "'Kuantum algoritmalarında' hangi yöntem 'amplitude amplification' olarak bilinir?",
+    "options": ["A) Grover algoritması", "B) Shor algoritması", "C) Quantum Fourier dönüşümü", "D) VQE"],
+    "correct": "A) Grover algoritması"
+  },
+  {
+    "question": "Hangi kriptografik sistem 'lattice problemlerine' dayanır?",
+    "options": ["A) NTRU", "B) Ring-LWE", "C) SABER", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "Hangi element 'MRGID rezonans görüntülemede' kontrast maddesi olarak kullanılır?",
+    "options": ["A) Gadolinyum", "B) Demir oksit", "C) Mangan", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum kütleçekiminde' hangi model 'causal dynamical triangulations' olarak bilinir?",
+    "options": ["A) Renormalizasyon grup yaklaşımı", "B) Ayrık uzay-zaman modelleri", "C) Asimptotik güvenlik", "D) Twistor teorisi"],
+    "correct": "B) Ayrık uzay-zaman modelleri"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'modülerlik teoremi' olarak bilinir?",
+    "options": ["A) Taniyama-Shimura teoremi", "B) Fermat'nın son teoremi", "C) Langlands programı", "D) Poincaré sanısı"],
+    "correct": "A) Taniyama-Shimura teoremi"
+  },
+  {
+    "question": "Hangi fiziksel olgu 'anyonik istatistiğin' deneysel kanıtıdır?",
+    "options": ["A) Kesirli kuantum Hall etkisi", "B) Süperiletkenlik", "C) Bose-Einstein yoğuşması", "D) Kondo etkisi"],
+    "correct": "A) Kesirli kuantum Hall etkisi"
+  },
+  {
+    "question": "Hangi biyolojik süreç 'kuantum tünelleme' içerir?",
+    "options": ["A) Enzim katalizi", "B) Oksijen taşınımı", "C) Mutasyonlar", "D) Hücre bölünmesi"],
+    "correct": "A) Enzim katalizi"
+  },
+  {
+    "question": "'Kuantum internet' hangi teknoloji ile veri aktarımı sağlar?",
+    "options": ["A) Kuantum röleler", "B) Kuantum dolanıklık dağıtımı", "C) Kuantum hafıza", "D) Tümü"],
+    "correct": "D) Tümü"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'periyotlar ve motivekler' ile ilgilidir?",
+    "options": ["A) Grothendieck'in standart sanıları", "B) Hodge sanısı", "C) Tate sanıları", "D) Tümü"],
+    "correct": "A) Grothendieck'in standart sanıları"
+  },
+  {
+    "question": "Hangi parçacık 'karanlık madde' adayı olarak 'steril nötrino'dur?",
+    "options": ["A) WIMP", "B) Aksion", "C) Gravitino", "D) Steril nötrino"],
+    "correct": "D) Steril nötrino"
+  },
+  {
+    "question": "'Kuantum üstünlüğü' hangi hesaplama problemi ile gösterildi?",
+    "options": ["A) Rastgele kuantum devre örnekleme", "B) Sayı çarpanlara ayırma", "C) Veritabanı arama", "D) Optimizasyon problemleri"],
+    "correct": "A) Rastgele kuantum devre örnekleme"
+  },
+  {
+    "question": "Hangi element 'kuantum bilgisayarlarda' kubit olarak kullanılır?",
+    "options": ["A) Sezyum", "B) İtriyum", "C) Rubidyum", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Geometrik Langlands yazışması' hangi matematiksel nesneleri ilişkilendirir?",
+    "options": ["A) Higgs demetleri - D-modülleri", "B) Vektör demetleri - Kohomoloji", "C) Eğriler - Cisimler", "D) Modüler formlar - Otomorfik formlar"],
+    "correct": "A) Higgs demetleri - D-modülleri"
+  },
+  {
+    "question": "Hangi nükleer süreç 'r-process' olarak bilinir?",
+    "options": ["A) Hızlı nötron yakalama", "B) Yavaş nötron yakalama", "C) Proton yakalama", "D) Alfa süreci"],
+    "correct": "A) Hızlı nötron yakalama"
+  },
+  {
+    "question": "'Kuantum simülasyonunda' hangi sistem 'Fermi-Hubbard modelini' simüle eder?",
+    "options": ["A) Soğuk atomlar", "B) Süperiletken kubitler", "C) İyon tuzakları", "D) Kuantum noktalar"],
+    "correct": "A) Soğuk atomlar"
+  },
+  {
+    "question": "Hangi kriptografik protokol 'sıfır bilgi kanıtlarında' etkileşimsizliği sağlar?",
+    "options": ["A) Fiat-Shamir dönüşümü", "B) Schnorr protokolü", "C) Sigma protokolü", "D) Chaum-Pedersen protokolü"],
+    "correct": "A) Fiat-Shamir dönüşümü"
+  },
+  {
+    "question": "Hangi element 'nükleer tıpta teranostik' uygulamalarında kullanılır?",
+    "options": ["A) Lutesyum-177", "B) Teknesyum-99m", "C) İyot-131", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum kütleçekiminde' hangi kavram 'spin köpük' olarak bilinir?",
+    "options": ["A) Uzay-zaman köpüğü", "B) Döngü kuantum kütleçekimi", "C) Sicim teorisi", "D) Twistor teorisi"],
+    "correct": "B) Döngü kuantum kütleçekimi"
+  },
+  {
+    "question": "Hangi matematiksel teorem 'uniformization teoremi' olarak bilinir?",
+    "options": ["A) Riemann yüzeyleri için", "B) Kompleks düzlem için", "C) Hiperbolik geometri için", "D) Projektif uzaylar için"],
+    "correct": "A) Riemann yüzeyleri için"
+  },
+  {
+    "question": "Hangi fiziksel deney 'kuantum dolanıklığın' yerel gerçekçiliği ihlal ettiğini gösterdi?",
+    "options": ["A) Aspect deneyi", "B) Stern-Gerlach deneyi", "C) Michelson-Morley deneyi", "D) Davisson-Germer deneyi"],
+    "correct": "A) Aspect deneyi"
+  },
+  {
+    "question": "Hangi biyolojik sistem 'kuantum hesaplama' özellikleri gösterir?",
+    "options": ["A) Fotosentetik enerji transferi", "B) Kuşların manyetorepsiyonu", "C) Koku reseptörleri", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Kuantum şifrelemede' hangi protokol 'device-independent' güvenlik sağlar?",
+    "options": ["A) BB84", "B) E91", "C) DIQKD", "D) SARG04"],
+    "correct": "C) DIQKD"
+  },
+  {
+    "question": "Hangi matematiksel kavram 'motivik kohomoloji' ile ilgilidir?",
+    "options": ["A) Voevodsky'nin çalışmaları", "B) Grothendieck'in standart sanıları", "C) Milnor sanısı", "D) Hodge sanısı"],
+    "correct": "A) Voevodsky'nin çalışmaları"
+  },
+  {
+    "question": "Hangi parçacık 'karanlık enerji' ile ilişkilendirilen 'quintessence' alanıdır?",
+    "options": ["A) Skaler alan", "B) Vektör alanı", "C) Tensör alanı", "D) Spinor alanı"],
+    "correct": "A) Skaler alan"
+  },
+  {
+    "question": "'Kuantum derin öğrenmede' hangi mimari 'quantum convolutional neural network' olarak bilinir?",
+    "options": ["A) QCNN", "B) QGAN", "C) QRNN", "D) QSVM"],
+    "correct": "A) QCNN"
+  },
+  {
+    "question": "Hangi element 'kuantum algılamada' atomik buhar hücrelerinde kullanılır?",
+    "options": ["A) Sezyum", "B) Rubidyum", "C) Potasyum", "D) Hepsi"],
+    "correct": "D) Hepsi"
+  },
+  {
+    "question": "'Geometric invariant theory' hangi matematik problemine çözüm sağlar?",
+    "options": ["A) Moduli uzaylarının inşası", "B) Simetri gruplarının sınıflandırılması", "C) Cebirsel çeşitlerin stabilitesi", "D) Tümü"],
+    "correct": "D) Tümü"
+  },
+  {
+    "question": "Hangi nükleer süreç 'proton-proton zinciri' olarak bilinir?",
+    "options": ["A) Yıldızlarda hidrojen füzyonu", "B) Süpernova patlamaları", "C) Nötron yıldızı birleşmeleri", "D) Kozmik ışın etkileşimleri"],
+    "correct": "A) Yıldızlarda hidrojen füzyonu"
+  },
+  {
+    "question": "'Kuantum algoritmalarında' hangi yöntem 'variational quantum eigensolver' olarak bilinir?",
+    "options": ["A) VQE", "B) QAOA", "C) QPE", "D) QAA"],
+    "correct": "A) VQE"
+  },
+  {
+    "question": "Hangi kriptografik sistem 'isogeny-based cryptography' kullanır?",
+    "options": ["A) SIKE", "B) McEliece", "C) NTRU", "D) Rainbow"],
+    "correct": "A) SIKE"
+  },
+  {
+    "question": "Hangi element 'kuantum saatlerde' optik örgülerde kullanılır?",
+    "options": ["A) İtriyum", "B) Stronsiyum", "C) İterbiyum", "D) Hepsi"],
+    "correct": "D) Hepsi"
   }
 ]
