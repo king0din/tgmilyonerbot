@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """
 Kim Milyoner Olmak İster - Telegram Bot
 ---------------------------------------
@@ -16,9 +13,11 @@ import logging
 import sqlite3
 from datetime import datetime
 import threading
+import os
+import json
 
-# Bot token
-TOKEN = "7878136442:AAGz998VLWCp4weAd9taMAMgRC7ioxbjzyU"
+# Bot tokeninizi buraya ekleyin
+TOKEN = "bot_tokeninizi_buraya_ekleyin"
 bot = telebot.TeleBot(TOKEN)
 
 # Loglama ayarları
@@ -31,6 +30,9 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+
+# Soru dosyalarının bulunduğu dizin
+QUESTIONS_DIR = "questions"
 
 # Veritabanı fonksiyonları
 def get_db():
@@ -102,6 +104,27 @@ def init_db():
     conn.commit()
     conn.close()
 
+# Soruları yükleme fonksiyonu
+def load_questions():
+    questions = {}
+    for level in range(1, 11):
+        file_path = os.path.join(QUESTIONS_DIR, f"level_{level}.json")
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                questions[level] = json.load(f)
+            logger.info(f"Level {level} için {len(questions[level])} soru yüklendi")
+        except FileNotFoundError:
+            logger.error(f"{file_path} dosyası bulunamadı!")
+            questions[level] = []
+        except json.JSONDecodeError:
+            logger.error(f"{file_path} dosyası geçersiz JSON formatında!")
+            questions[level] = []
+    
+    return questions
+
+# Soruları başlangıçta yükle
+questions_db = load_questions()
+
 # Kullanıcı kayıt fonksiyonu
 def register_user(user):
     user_id = user.id
@@ -172,181 +195,6 @@ active_games = {}
 
 # Zamanlayıcı ve sürelerin takibi için
 answer_timers = {}
-
-# Sorular veritabanı
-# Her soru zorluk seviyesine göre gruplandırılmıştır (1-10)
-questions_db = {
-    1: [  # Çok kolay sorular
-        {
-            "question": "Türkiye'nin başkenti hangi şehirdir?",
-            "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
-            "correct": "Ankara"
-        },
-        {
-            "question": "Bir haftada kaç gün vardır?",
-            "options": ["5", "6", "7", "8"],
-            "correct": "7"
-        },
-        {
-            "question": "İstiklal Marşı'nın yazarı kimdir?",
-            "options": ["Mehmet Akif Ersoy", "Namık Kemal", "Orhan Veli", "Nazım Hikmet"],
-            "correct": "Mehmet Akif Ersoy"
-        }
-    ],
-    2: [  # Kolay sorular
-        {
-            "question": "Türkiye'de kaç il vardır?",
-            "options": ["71", "78", "81", "86"],
-            "correct": "81"
-        },
-        {
-            "question": "Hangisi Türkiye'nin komşu ülkesi değildir?",
-            "options": ["İran", "Irak", "Mısır", "Suriye"],
-            "correct": "Mısır"
-        },
-        {
-            "question": "Hangisi bir doğal sayıdır?",
-            "options": ["-1", "0", "1/2", "π (pi)"],
-            "correct": "0"
-        }
-    ],
-    3: [
-        {
-            "question": "Türkiye'nin en yüksek dağı hangisidir?",
-            "options": ["Erciyes", "Ağrı Dağı", "Süphan", "Uludağ"],
-            "correct": "Ağrı Dağı"
-        },
-        {
-            "question": "Hangi gezegen Güneş Sistemi'nde büyüklük sıralamasında birincidir?",
-            "options": ["Mars", "Venüs", "Jüpiter", "Satürn"],
-            "correct": "Jüpiter"
-        },
-        {
-            "question": "Hangi element atomik numarası en küçük olan elementtir?",
-            "options": ["Oksijen", "Karbon", "Hidrojen", "Helyum"],
-            "correct": "Hidrojen"
-        }
-    ],
-    4: [
-        {
-            "question": "Hangisi bir Orta Asya Türk devleti değildir?",
-            "options": ["Kazakistan", "Türkmenistan", "Özbekistan", "Azerbaycan"],
-            "correct": "Azerbaycan"
-        },
-        {
-            "question": "Nobel ödülleri hangi ülkede verilmektedir?",
-            "options": ["Norveç", "İsveç", "Danimarka", "Finlandiya"],
-            "correct": "İsveç"
-        },
-        {
-            "question": "Dünyanın en büyük okyanusu hangisidir?",
-            "options": ["Atlantik", "Pasifik", "Hint", "Arktik"],
-            "correct": "Pasifik"
-        }
-    ],
-    5: [
-        {
-            "question": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
-            "options": ["1453", "1473", "1357", "1517"],
-            "correct": "1453"
-        },
-        {
-            "question": "Hangisi II. Dünya Savaşı'na katılmamıştır?",
-            "options": ["İspanya", "İtalya", "Japonya", "Almanya"],
-            "correct": "İspanya"
-        },
-        {
-            "question": "Guggenheim Müzesi hangi şehirdedir?",
-            "options": ["Paris", "New York", "Roma", "Berlin"],
-            "correct": "New York"
-        }
-    ],
-    6: [
-        {
-            "question": "DNA'nın açılımı nedir?",
-            "options": ["Deoksiribo Nükleer Asit", "Deoksiribo Nükleik Asit", "Deoksi Nükleotid Asit", "Deoksi Nükleer Aminoasit"],
-            "correct": "Deoksiribo Nükleik Asit"
-        },
-        {
-            "question": "Hangisi Nobel ödülü kategorilerinden biri değildir?",
-            "options": ["Fizik", "Ekonomi", "Matematik", "Edebiyat"],
-            "correct": "Matematik"
-        },
-        {
-            "question": "Barok müzik döneminin ünlü bestecisi hangisidir?",
-            "options": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Frédéric Chopin"],
-            "correct": "Johann Sebastian Bach"
-        }
-    ],
-    7: [
-        {
-            "question": "Elektrik akımı birimi nedir?",
-            "options": ["Volt", "Watt", "Amper", "Ohm"],
-            "correct": "Amper"
-        },
-        {
-            "question": "Osmanlı İmparatorluğu'nda ilk matbaa kimin döneminde kurulmuştur?",
-            "options": ["Fatih Sultan Mehmet", "III. Ahmet", "IV. Murat", "II. Mahmut"],
-            "correct": "III. Ahmet"
-        },
-        {
-            "question": "Hangisi bir sürüngen değildir?",
-            "options": ["Kertenkele", "Timsah", "Yarasa", "Yılan"],
-            "correct": "Yarasa"
-        }
-    ],
-    8: [
-        {
-            "question": "Altın elementinin kimyasal sembolü nedir?",
-            "options": ["Al", "Ag", "Au", "Ar"],
-            "correct": "Au"
-        },
-        {
-            "question": "Hangisi Rönesans döneminin sanatçılarından değildir?",
-            "options": ["Leonardo da Vinci", "Michelangelo", "Raffaello", "Pablo Picasso"],
-            "correct": "Pablo Picasso"
-        },
-        {
-            "question": "Küba Füze Krizi hangi yıl gerçekleşmiştir?",
-            "options": ["1952", "1962", "1972", "1982"],
-            "correct": "1962"
-        }
-    ],
-    9: [
-        {
-            "question": "İnsülin hormonu vücutta hangi organın çalışmasına yardımcı olur?",
-            "options": ["Karaciğer", "Pankreas", "Böbrek", "Kalp"],
-            "correct": "Pankreas"
-        },
-        {
-            "question": "Periyodik tabloda en fazla element hangi grupta bulunur?",
-            "options": ["Alkali metaller", "Geçiş metalleri", "Asal gazlar", "Toprak metalleri"],
-            "correct": "Geçiş metalleri"
-        },
-        {
-            "question": "Kuantum teorisinin kurucusu hangisidir?",
-            "options": ["Albert Einstein", "Max Planck", "Niels Bohr", "Werner Heisenberg"],
-            "correct": "Max Planck"
-        }
-    ],
-    10: [  # Çok zor sorular
-        {
-            "question": "Dünya'nın en derin noktası olan Mariana Çukuru hangi okyanustadir?",
-            "options": ["Hint Okyanusu", "Atlantik Okyanusu", "Pasifik Okyanusu", "Arktik Okyanusu"],
-            "correct": "Pasifik Okyanusu"
-        },
-        {
-            "question": "Hücre içindeki genetik materyalin bozulmasını ve mutasyonları onaran enzim hangisidir?",
-            "options": ["DNA Polimeraz", "RNA Polimeraz", "DNA Ligaz", "DNA Helikaz"],
-            "correct": "DNA Ligaz"
-        },
-        {
-            "question": "2023 yılında 'Oppenheimer' filmi ile En İyi Yönetmen Oscar'ını kazanan kimdir?",
-            "options": ["Martin Scorsese", "Christopher Nolan", "Steven Spielberg", "Quentin Tarantino"],
-            "correct": "Christopher Nolan"
-        }
-    ]
-}
 
 # Bot komutları
 @bot.message_handler(commands=['start', 'help', 'yardim'])
@@ -1398,6 +1246,14 @@ def end_game(chat_id, reason, winner_id=None):
 # Ana fonksiyon
 def main():
     try:
+        # Soruları kontrol et
+        for level in range(1, 11):
+            file_path = os.path.join(QUESTIONS_DIR, f"level_{level}.json")
+            if not os.path.exists(file_path):
+                logger.error(f"{file_path} dosyası bulunamadı! Lütfen soru dosyalarını oluşturun.")
+                print(f"{file_path} dosyası bulunamadı! Lütfen soru dosyalarını oluşturun.")
+                return
+        
         # Veritabanını başlat
         init_db()
         
