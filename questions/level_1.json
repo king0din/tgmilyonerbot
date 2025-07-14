@@ -1,1 +1,17 @@
-
+[  # Çok kolay sorular
+        {
+            "question": "Türkiye'nin başkenti hangi şehirdir?",
+            "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+            "correct": "Ankara"
+        },
+        {
+            "question": "Bir haftada kaç gün vardır?",
+            "options": ["5", "6", "7", "8"],
+            "correct": "7"
+        },
+        {
+            "question": "İstiklal Marşı'nın yazarı kimdir?",
+            "options": ["Mehmet Akif Ersoy", "Namık Kemal", "Orhan Veli", "Nazım Hikmet"],
+            "correct": "Mehmet Akif Ersoy"
+        }
+    ]
