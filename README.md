@@ -57,6 +57,10 @@ Bu proje, Telegram gruplarında "Kim Milyoner Olmak İster?" yarışmasını oyn
 ```bash
 nano milyoner_bot.py
 ```
+-windows için:
+```bash
+notepad milyoner_bot.py
+```
 
 - `TOKEN` değişkenini bulup kendi bot tokeninizle değiştirin:
      ```python
