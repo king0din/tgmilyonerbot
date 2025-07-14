@@ -1,1 +1,17 @@
-
+[
+  {
+    "question": "DNA'nın açılımı nedir?",
+    "options": ["Deoksiribo Nükleer Asit", "Deoksiribo Nükleik Asit", "Deoksi Nükleotid Asit", "Deoksi Nükleer Aminoasit"],
+    "correct": "Deoksiribo Nükleik Asit"
+  },
+  {
+    "question": "Hangisi Nobel ödülü kategorilerinden biri değildir?",
+    "options": ["Fizik", "Ekonomi", "Matematik", "Edebiyat"],
+    "correct": "Matematik"
+  },
+  {
+    "question": "Barok müzik döneminin ünlü bestecisi hangisidir?",
+    "options": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Frédéric Chopin"],
+    "correct": "Johann Sebastian Bach"
+  }
+]
