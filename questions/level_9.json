@@ -1,1 +1,17 @@
-
+[
+  {
+    "question": "İnsülin hormonu vücutta hangi organın çalışmasına yardımcı olur?",
+    "options": ["Karaciğer", "Pankreas", "Böbrek", "Kalp"],
+    "correct": "Pankreas"
+  },
+  {
+    "question": "Periyodik tabloda en fazla element hangi grupta bulunur?",
+    "options": ["Alkali metaller", "Geçiş metalleri", "Asal gazlar", "Toprak metalleri"],
+    "correct": "Geçiş metalleri"
+  },
+  {
+    "question": "Kuantum teorisinin kurucusu hangisidir?",
+    "options": ["Albert Einstein", "Max Planck", "Niels Bohr", "Werner Heisenberg"],
+    "correct": "Max Planck"
+  }
+]
