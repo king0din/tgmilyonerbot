@@ -50,6 +50,10 @@ Bu proje, Telegram gruplarında "Kim Milyoner Olmak İster?" yarışmasını oyn
        ```bash
        nano level_1.json
        ```
+       windows için:
+       ```bash
+       notepad level_1.json
+       ```
        veya hangi zorluk sevyesindeki dosyaya eklemek istiyorsanız numarasını yazablirsiniz `nano level_(zorluk_numarası_buraya).json`
        
 5. Bot tokenini ayarlayın:
