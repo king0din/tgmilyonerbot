@@ -55,6 +55,7 @@ Bu proje, Telegram gruplarında "Kim Milyoner Olmak İster?" yarışmasını oyn
        notepad level_1.json
        ```
        veya hangi zorluk sevyesindeki dosyaya eklemek istiyorsanız numarasını yazablirsiniz `nano level_(zorluk_numarası_buraya).json`
+       -NOT: varsayılan olarak 1000 adet soru eklidir
        
 5. Bot tokenini ayarlayın:
    - `milyoner_bot.py` dosyasını açın:
