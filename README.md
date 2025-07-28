@@ -26,7 +26,7 @@ Bu proje, Telegram gruplarında "Kim Milyoner Olmak İster?" yarışmasını oyn
    ```bash
    pip install -r requirements.txt
    ```
-4. Soruları hazırlayın:
+4. Soruları hazırlayın isteğe bağlı varsayıan olarak 1000 tane soru vardır bu adımı atlayabilirsiniz:
    - `questions` dizinin içinde ki zorluk seviyelerine göre json dosyaları var bunların içerisinse örnek sorular var içerisine bulabildiğiniz kadar soru doldurun:
      ```bash
      cd questions
