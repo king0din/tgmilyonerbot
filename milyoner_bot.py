@@ -24,8 +24,9 @@ bot = telebot.TeleBot(TOKEN)
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    encoding='utf-8',
     handlers=[
-        logging.FileHandler("milyoner_bot.log"),
+        logging.FileHandler("milyoner_bot.log", encoding='utf-8'),
         logging.StreamHandler()
     ]
 )
