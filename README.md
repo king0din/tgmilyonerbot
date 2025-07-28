@@ -2,7 +2,7 @@
 Bu proje, Telegram gruplarında "Kim Milyoner Olmak İster?" yarışmasını oynatmak için bir botdur.
 ## Özellikler
 - Gruplarda çoklu oyuncu ile yarışma
-- Her soru için 90 saniye cevaplama süresi
+- Her soru için 30 saniye cevaplama süresi
 - Zorluk seviyeleri (1-10 arası)
 - İstatistik takibi (oyun sayısı, doğru cevaplar, kazanılan oyunlar)
 - Özel mesajlar ile soru gönderilir
